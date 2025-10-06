@@ -1,0 +1,46 @@
+# ==========================================
+# 🧠 Berita Hari Ini (Versi TXT)
+# Git ignore rules for local dev + GitHub Actions
+# ==========================================
+
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env.bak/
+env/
+venv.bak/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs or temporary files
+*.log
+*.tmp
+
+# Editor settings (optional)
+.vscode/
+.idea/
+
+# ==========================================
+# DO NOT IGNORE site output
+# We keep these so GitHub Pages works:
+#   - index.html
+#   - page2.html
+#   - berita.txt
+#   - headlines/*.json
+# ==========================================
+
+# If you ever want to test locally without committing output,
+# you can uncomment the lines below temporarily:
+#
+# index.html
+# page2.html
+# berita.txt
+# headlines/
