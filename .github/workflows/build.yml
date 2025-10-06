@@ -1,27 +1,39 @@
 name: Update headlines
 
 on:
+  push:                     # Run whenever you push changes
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
-  workflow_dispatch: {}
+    - cron: "*/10 * * * *"  # Run every 10 minutes
+  workflow_dispatch:         # Allow manual run from Actions tab
 
 permissions:
-  contents: write
+  contents: write            # Needed so the bot can push commits
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: |
+
+      - name: Install dependencies
+        run: |
           pip install -r requirements.txt
+
+      - name: Build site
+        run: |
           python build.py
-      - run: |
+
+      - name: Commit and push changes
+        run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add index.html page2.html berita.txt headlines/*.json
+          git add -A
           git commit -m "Auto update $(date -u +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
