@@ -69,6 +69,21 @@ def fetch_today_only():
 
 def save_json_for_today(data):
     path = os.path.join(DATA_DIR, f"{TODAY}.json")
+    # Load previous data if exists
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            prev = json.load(f)
+        # Merge: keep all old items, add new ones, avoid duplicates by link
+        for src, items in data.items():
+            old_items = prev.get(src, [])
+            # Use link as unique key
+            links = {it["link"] for it in items}
+            for it in old_items:
+                if it["link"] not in links:
+                    items.append(it)
+            # Sort newest first by time (if available)
+            items.sort(key=lambda x: x.get("time", ""), reverse=True)
+            data[src] = items
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
