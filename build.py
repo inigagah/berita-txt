@@ -5,8 +5,8 @@ from collections import OrderedDict
 
 # ------------------ Config ------------------
 FEEDS = {
-    "Kompas": "https://rss.kompas.com/",
-    "Detik": "https://rss.detik.com/index.php/detikcom",
+    "Kompas": "https://rss.kompas.com/api/feed/social?apikey=bc58c81819dff4b8d5c53540a2fc7ffd83e6314a",
+    "Detik": "https://news.detik.com/berita/rss",
     # Add more here anytime
 }
 
