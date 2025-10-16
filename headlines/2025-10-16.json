@@ -1,6 +1,71 @@
 {
   "Kompas": [
     {
+      "title": "Ammar Zoni Dijebloskan ke Nusakambangan, Matanya Ditutup Kain Hitam",
+      "link": "https://nasional.kompas.com/read/2025/10/16/13474261/ammar-zoni-dijebloskan-ke-nusakambangan-matanya-ditutup-kain-hitam?utm_source=ABC&utm_medium=rss",
+      "time": "13:47 WIB"
+    },
+    {
+      "title": "Sreeya Sewu Siapkan Pabrik Baru, Bidik Kebutuhan MBG di Timur Indonesia",
+      "link": "https://money.kompas.com/read/2025/10/16/134350026/sreeya-sewu-siapkan-pabrik-baru-bidik-kebutuhan-mbg-di-timur-indonesia?utm_source=ABC&utm_medium=rss",
+      "time": "13:43 WIB"
+    },
+    {
+      "title": "DBH Dipangkas, Pramono Kaji Penerbitan Obligasi Daerah",
+      "link": "https://megapolitan.kompas.com/read/2025/10/16/13413061/dbh-dipangkas-pramono-kaji-penerbitan-obligasi-daerah?utm_source=ABC&utm_medium=rss",
+      "time": "13:41 WIB"
+    },
+    {
+      "title": "Mengenal Differential Lock, Fitur Penting Saat Off-road",
+      "link": "https://otomotif.kompas.com/read/2025/10/16/134100715/mengenal-differential-lock-fitur-penting-saat-off-road?utm_source=ABC&utm_medium=rss",
+      "time": "13:41 WIB"
+    },
+    {
+      "title": "Kenaikan Harga Perak Melejit Lampaui Emas, Goldman Sachs Wanti-wanti Risiko",
+      "link": "https://money.kompas.com/read/2025/10/15/071000426/kenaikan-harga-perak-melejit-lampaui-emas-goldman-sachs-wanti-wanti-risiko?utm_source=ABC&utm_medium=rss",
+      "time": "13:38 WIB"
+    },
+    {
+      "title": "Pekerja Gaji di Bawah Rp 10 Juta Bebas Pajak,  BPJS Watch: Bisa Tambah Tabungan dan Konsumsi",
+      "link": "https://money.kompas.com/read/2025/10/16/133800426/pekerja-gaji-di-bawah-rp-10-juta-bebas-pajak-bpjs-watch--bisa-tambah-tabungan?utm_source=ABC&utm_medium=rss",
+      "time": "13:38 WIB"
+    },
+    {
+      "title": "Warga Nilai Proyek Peninggian Jalan Muara Angke Tak Sesuai Perjanjian",
+      "link": "https://megapolitan.kompas.com/read/2025/10/16/13361291/warga-nilai-proyek-peninggian-jalan-muara-angke-tak-sesuai-perjanjian?utm_source=ABC&utm_medium=rss",
+      "time": "13:36 WIB"
+    },
+    {
+      "title": "Bung Karno, Nasionalisme, dan Nasakom",
+      "link": "https://nasional.kompas.com/read/2025/10/16/13351241/bung-karno-nasionalisme-dan-nasakom?utm_source=ABC&utm_medium=rss",
+      "time": "13:35 WIB"
+    },
+    {
+      "title": "Dorong Daya Saing Produk Pangan Lokal, Mendag Busan Beri Penghargaan UKM Pangan Award",
+      "link": "https://nasional.kompas.com/read/2025/10/16/13351191/dorong-daya-saing-produk-pangan-lokal-mendag-busan-beri-penghargaan-ukm?utm_source=ABC&utm_medium=rss",
+      "time": "13:35 WIB"
+    },
+    {
+      "title": "Telepon Whatsapp Tak Muncul di HP, Ini Sebab dan Cara Mengatasinya",
+      "link": "https://tekno.kompas.com/read/2025/10/16/13350047/telepon-whatsapp-tak-muncul-di-hp-ini-sebab-dan-cara-mengatasinya?utm_source=ABC&utm_medium=rss",
+      "time": "13:35 WIB"
+    },
+    {
+      "title": "Apa Itu Lapas Super Maximum Security, Tempat Ammar Zoni di Nusakambangan?",
+      "link": "https://megapolitan.kompas.com/read/2025/10/16/13323821/apa-itu-lapas-super-maximum-security-tempat-ammar-zoni-di-nusakambangan?utm_source=ABC&utm_medium=rss",
+      "time": "13:32 WIB"
+    },
+    {
+      "title": "Konsep &quot;Rent to Own&quot; Buat MBR Punya Rumah Masih Tahap Pematangan",
+      "link": "https://www.kompas.com/properti/read/2025/10/16/133000621/konsep-rent-to-own-buat-mbr-punya-rumah-masih-tahap-pematangan?utm_source=ABC&utm_medium=rss",
+      "time": "13:30 WIB"
+    },
+    {
+      "title": "Prabowo Bolehkan WNA Pimpin BUMN, Perintahkan Danantara Cari Talenta Terbaik",
+      "link": "https://nasional.kompas.com/read/2025/10/16/13254691/prabowo-bolehkan-wna-pimpin-bumn-perintahkan-danantara-cari-talenta-terbaik?utm_source=ABC&utm_medium=rss",
+      "time": "13:25 WIB"
+    },
+    {
       "title": "Berenang di Pantai Kelingking Bali, Turis Prancis Tewas Terseret Ombak",
       "link": "https://travel.kompas.com/read/2025/10/16/132234027/berenang-di-pantai-kelingking-bali-turis-prancis-tewas-terseret-ombak?utm_source=ABC&utm_medium=rss",
       "time": "13:22 WIB"
@@ -1243,13 +1308,28 @@
   ],
   "Detik": [
     {
-      "title": "Ada Temuan Seragam hingga Mobil Pelat Polisi di TKP Penyekapan Tangsel",
-      "link": "https://news.detik.com/berita/d-8163419/ada-temuan-seragam-hingga-mobil-pelat-polisi-di-tkp-penyekapan-tangsel",
+      "title": "Gempa M 6,6 Guncang Sarmi Papua",
+      "link": "https://news.detik.com/berita/d-8163446/gempa-m-6-6-guncang-sarmi-papua",
+      "time": "13:33 WIB"
+    },
+    {
+      "title": "Waka MPR Sebut ICCF 2025 Bakal Bahas Ide Hadapi Ancaman Krisis Iklim",
+      "link": "https://news.detik.com/berita/d-8163429/waka-mpr-sebut-iccf-2025-bakal-bahas-ide-hadapi-ancaman-krisis-iklim",
+      "time": "13:30 WIB"
+    },
+    {
+      "title": "Polda Metro Pastikan Pelat Mobil Dinas Polsi di TKP Penculikan Tangsel Palsu",
+      "link": "https://news.detik.com/berita/d-8163419/polda-metro-pastikan-pelat-mobil-dinas-polsi-di-tkp-penculikan-tangsel-palsu",
       "time": "13:16 WIB"
     },
     {
       "title": "Ibu dari Bocah Korban Pembunuhan di Jakut Meninggal di Indramayu",
       "link": "https://news.detik.com/berita/d-8163405/ibu-dari-bocah-korban-pembunuhan-di-jakut-meninggal-di-indramayu",
+      "time": "13:16 WIB"
+    },
+    {
+      "title": "Ada Temuan Seragam hingga Mobil Pelat Polisi di TKP Penyekapan Tangsel",
+      "link": "https://news.detik.com/berita/d-8163419/ada-temuan-seragam-hingga-mobil-pelat-polisi-di-tkp-penyekapan-tangsel",
       "time": "13:16 WIB"
     },
     {
