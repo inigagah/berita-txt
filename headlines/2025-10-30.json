@@ -1,4 +1,21 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "Nanobank Syariah Mudahkan Buka Rekening Tabungan Haji Secara Online",
+      "link": "https://money.kompas.com/read/2025/10/30/003200026/nanobank-syariah-mudahkan-buka-rekening-tabungan-haji-secara-online?utm_source=ABC&utm_medium=rss",
+      "time": "00:32 WIB"
+    },
+    {
+      "title": "AI Jadi Kunci Efisiensi dan Interaksi Pelanggan yang Lebih Cerdas",
+      "link": "https://money.kompas.com/read/2025/10/30/001905226/ai-jadi-kunci-efisiensi-dan-interaksi-pelanggan-yang-lebih-cerdas?utm_source=ABC&utm_medium=rss",
+      "time": "00:19 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Menteri ESDM Bahlil Minta Daerah Pelosok Wajib Dialiri Listrik",
+      "link": "https://news.detik.com/berita/d-8185011/menteri-esdm-bahlil-minta-daerah-pelosok-wajib-dialiri-listrik",
+      "time": "00:24 WIB"
+    }
+  ]
 }
