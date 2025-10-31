@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Sabtu, 01-11-2025
-Terakhir diperbarui: 03:26 WIB
+Terakhir diperbarui: 03:39 WIB
 ========================================
 
 Sabtu, 01-11-2025
@@ -9,6 +9,8 @@ Sabtu, 01-11-2025
 
 [Detik]
 
+- Air Sungai Meluap, 6 Kecamatan di Kabupaten Bandung Terendam Banjir (03:28 WIB)
+  https://news.detik.com/berita/d-8188564/air-sungai-meluap-6-kecamatan-di-kabupaten-bandung-terendam-banjir
 - Longsor 100 Meter Tutup Jalur Utama Tulungagung-Trenggalek via Pagerwojo (01:47 WIB)
   https://news.detik.com/berita/d-8188559/longsor-100-meter-tutup-jalur-utama-tulungagung-trenggalek-via-pagerwojo
 - Mayat Pria Berjaket Hitam Ditemukan Tergantung di Flyover Pasupati Bandung (01:09 WIB)
