@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Selasa, 18-11-2025
-Terakhir diperbarui: 20:48 WIB
+Terakhir diperbarui: 20:57 WIB
 ========================================
 
 Selasa, 18-11-2025
@@ -9,9 +9,17 @@ Selasa, 18-11-2025
 
 [Kompas]
 
+- Warga Bekasi Alami Batuk dan Sesak Napas Imbas Debu Hitam (20:55 WIB)
+  https://megapolitan.kompas.com/read/2025/11/18/20555031/warga-bekasi-alami-batuk-dan-sesak-napas-imbas-debu-hitam?utm_source=ABC&utm_medium=rss
+- Cloudflare Down, X Twitter hingga ChatGPT Sulit Diakses (20:54 WIB)
+  https://tekno.kompas.com/read/2025/11/18/20542017/cloudflare-down-x-twitter-hingga-chatgpt-sulit-diakses?utm_source=ABC&utm_medium=rss
+- Hasil HT Timnas U22 Indonesia Vs Mali 1-1: Mauro Zijlstra Cetak Gol Debut (20:50 WIB)
+  https://bola.kompas.com/read/2025/11/18/20503358/hasil-ht-timnas-u22-indonesia-vs-mali-1-1-mauro-zijlstra-cetak-gol-debut?utm_source=ABC&utm_medium=rss
+- Bertolak ke Cilacap, Mendagri Akan Pimpin Apel Kesiapsiagaan Bencana (20:48 WIB)
+  https://nasional.kompas.com/read/2025/11/18/20481211/bertolak-ke-cilacap-mendagri-akan-pimpin-apel-kesiapsiagaan-bencana?utm_source=ABC&utm_medium=rss
 - Sun Energy Dorong Penggunaan Energi Hijau di Sektor Pertambangan (20:40 WIB)
   https://money.kompas.com/read/2025/11/18/204000026/sun-energy-dorong-penggunaan-energi-hijau-di-sektor-pertambangan?utm_source=ABC&utm_medium=rss
-- Live Hasil Timnas U22 Indonesia vs Mali: Mauro Zijlstra Jadikan Skor 1-1 (20:39 WIB)
+- Live Hasil Timnas U22 Indonesia Vs Mali: Mauro Zijlstra Jadikan Skor 1-1 (20:39 WIB)
   https://bola.kompas.com/read/2025/11/18/20394178/live-hasil-timnas-u22-indonesia-vs-mali-mauro-zijlstra-jadikan-skor-1-1?utm_source=ABC&utm_medium=rss
 - Titik Lokasi Banjir di Bekasi Hari Ini, Sejumlah Perumahan dan Sekolah Terendam (20:39 WIB)
   https://megapolitan.kompas.com/read/2025/11/18/20391461/titik-lokasi-banjir-di-bekasi-hari-ini-sejumlah-perumahan-dan-sekolah?utm_source=ABC&utm_medium=rss
@@ -954,6 +962,10 @@ Selasa, 18-11-2025
 
 [Detik]
 
+- Mendagri Akan Pimpin Apel Kesiapsiagaan Bencana di Cilacap (20:56 WIB)
+  https://news.detik.com/berita/d-8217281/mendagri-akan-pimpin-apel-kesiapsiagaan-bencana-di-cilacap
+- Jelang Nataru, Pemkot Malang Gelar Pasar Murah Mbois Berkelas (20:48 WIB)
+  https://news.detik.com/berita/d-8217268/jelang-nataru-pemkot-malang-gelar-pasar-murah-mbois-berkelas
 - Gus Ipul Pastikan Penanganan Longsor Jateng Berjalan Terpadu (20:40 WIB)
   https://news.detik.com/berita/d-8217238/gus-ipul-pastikan-penanganan-longsor-jateng-berjalan-terpadu
 - Banjir Terjadi di Pondok Gede Bekasi, Tinggi Air Capai 1 Meter (20:31 WIB)
