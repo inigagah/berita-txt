@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Kamis, 20-11-2025
-Terakhir diperbarui: 12:38 WIB
+Terakhir diperbarui: 12:48 WIB
 ========================================
 
 Kamis, 20-11-2025
@@ -9,6 +9,12 @@ Kamis, 20-11-2025
 
 [Kompas]
 
+- UMKM Bisa Ajukan KUR Berbasis KI dengan Bunga 2,4 Persen pada 2026 (12:46 WIB)
+  https://money.kompas.com/read/2025/11/20/124637626/umkm-bisa-ajukan-kur-berbasis-ki-dengan-bunga-24-persen-pada-2026?utm_source=ABC&utm_medium=rss
+- Kendaraan Listrik di Bengkulu: Peminat Masih Minim (12:42 WIB)
+  https://otomotif.kompas.com/read/2025/11/20/124200515/kendaraan-listrik-di-bengkulu--peminat-masih-minim?utm_source=ABC&utm_medium=rss
+- Ada Pohon Tumbang, Jalan Sisingamangaraja Arah Senayan Tak Bisa Dilintasi (12:38 WIB)
+  https://megapolitan.kompas.com/read/2025/11/20/12384761/ada-pohon-tumbang-jalan-sisingamangaraja-arah-senayan-tak-bisa-dilintasi?utm_source=ABC&utm_medium=rss
 - Mentan Amran: Penyuluh Pertanian Harus Prioritaskan Petani Miskin (12:38 WIB)
   https://money.kompas.com/read/2025/11/20/123828926/mentan-amran-penyuluh-pertanian-harus-prioritaskan-petani-miskin?utm_source=ABC&utm_medium=rss
 - Aturan Baru, Roblox Pasang Kamera untuk Tentukan Usia Anak (12:37 WIB)
@@ -19,6 +25,8 @@ Kamis, 20-11-2025
   https://money.kompas.com/read/2025/11/20/123653726/transmisi-bi-rate-ke-suku-bunga-perbankan-mengapa-lambat?utm_source=ABC&utm_medium=rss
 - Prabowo Bakal Resmikan Kilang Raksasa Pertamina Balikpapan di Desember (12:36 WIB)
   https://money.kompas.com/read/2025/11/20/123632926/prabowo-bakal-resmikan-kilang-raksasa-pertamina-balikpapan-di-desember?utm_source=ABC&utm_medium=rss
+- Apa Itu Cloudflare yang Terancam Diblokir Komdigi? (12:35 WIB)
+  https://tekno.kompas.com/read/2025/11/20/12350047/apa-itu-cloudflare-yang-terancam-diblokir-komdigi?utm_source=ABC&utm_medium=rss
 - Apa Itu Cloudflare yang Diancam Komdigi Bakal Diblokir di Indonesia? (12:35 WIB)
   https://tekno.kompas.com/read/2025/11/20/12350047/apa-itu-cloudflare-yang-diancam-komdigi-bakal-diblokir-di-indonesia-?utm_source=ABC&utm_medium=rss
 - KPK Mau Bentuk Kedeputian Intelijen, Apa Tugasnya? (12:29 WIB)
@@ -386,6 +394,10 @@ Kamis, 20-11-2025
 
 [Detik]
 
+- MRT Jakarta Alami Gangguan, Penumpang Dievakuasi (12:39 WIB)
+  https://news.detik.com/berita/d-8219856/mrt-jakarta-alami-gangguan-penumpang-dievakuasi
+- Pohon Tumbang di Senayan Juga Timpa Mobil dan Konstruksi MRT, Lalin Dialihkan (12:33 WIB)
+  https://news.detik.com/berita/d-8219847/pohon-tumbang-di-senayan-juga-timpa-mobil-dan-konstruksi-mrt-lalin-dialihkan
 - 3 Korban Longsor Cilacap Belum Ditemukan, 1.000 Personel Gabungan Dikerahkan (12:19 WIB)
   https://news.detik.com/berita/d-8219818/3-korban-longsor-cilacap-belum-ditemukan-1-000-personel-gabungan-dikerahkan
 - Kesal Diganggu Saat Jualan, Pedagang Pecel Lele Bacok Penjual Kopi di Bogor (12:15 WIB)
