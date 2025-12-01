@@ -1,5 +1,26 @@
 {
-  "Kompas": [],
+  "Kompas": [
+    {
+      "title": "Misteri Kayu-kayu Gelondongan di Banjir Sumatera",
+      "link": "https://nasional.kompas.com/read/2025/12/02/05121261/misteri-kayu-kayu-gelondongan-di-banjir-sumatera?utm_source=ABC&utm_medium=rss",
+      "time": "05:12 WIB"
+    },
+    {
+      "title": "AWS re:Invent 2025 Resmi Digelar, Pamerkan Teknologi Agentic AI yang Makin &quot;Gaspol&quot;",
+      "link": "https://tekno.kompas.com/read/2025/12/02/05095857/aws-reinvent-2025-resmi-digelar-pamerkan-teknologi-agentic-ai-yang-makin-gaspol?utm_source=ABC&utm_medium=rss",
+      "time": "05:09 WIB"
+    },
+    {
+      "title": "Di Ujung Jakarta, Air Bersih Masih Jadi Barang Mahal bagi Warga Muara Angke",
+      "link": "https://megapolitan.kompas.com/read/2025/12/02/05070091/di-ujung-jakarta-air-bersih-masih-jadi-barang-mahal-bagi-warga-muara?utm_source=ABC&utm_medium=rss",
+      "time": "05:07 WIB"
+    },
+    {
+      "title": "Imbas Perbaikan Airbus A320, Bandara Akan Disiagakan 24 Jam",
+      "link": "https://travel.kompas.com/read/2025/12/02/050500727/imbas-perbaikan-airbus-a320-bandara-akan-disiagakan-24-jam?utm_source=ABC&utm_medium=rss",
+      "time": "05:05 WIB"
+    }
+  ],
   "Detik": [
     {
       "title": "Gunung Lewotobi Laki-laki Masih Level Awas, Warga Diminta Tetap Waspada",
