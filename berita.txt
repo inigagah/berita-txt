@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Senin, 01-12-2025
-Terakhir diperbarui: 22:46 WIB
+Terakhir diperbarui: 22:58 WIB
 ========================================
 
 Senin, 01-12-2025
@@ -9,8 +9,12 @@ Senin, 01-12-2025
 
 [Kompas]
 
+- KSAD Berangkatkan Kapal ADRI, Kirim Bantuan ke Tiga Lokasi Bencana Sumatera (22:52 WIB)
+  https://nasional.kompas.com/read/2025/12/01/22525761/ksad-berangkatkan-kapal-adri-kirim-bantuan-ke-tiga-lokasi-bencana-sumatera?utm_source=ABC&utm_medium=rss
 - BPK Temukan Masalah Informasi Cuaca-Peringatan Dini BMKG, DPR Desak Berbenah (22:44 WIB)
   https://nasional.kompas.com/read/2025/12/01/22444391/bpk-temukan-masalah-informasi-cuaca-peringatan-dini-bmkg-dpr-desak-berbenah?utm_source=ABC&utm_medium=rss
+- Sempat Dicopot BRIN, Gapura Kota Tangsel Diminta Dipasang Lagi Awal Januari 2026 (22:42 WIB)
+  https://megapolitan.kompas.com/read/2025/12/01/22424981/sempat-dicopot-brin-gapura-kota-tangsel-diminta-dipasang-lagi-awal?utm_source=ABC&utm_medium=rss
 - Sempat Dicopot BRIN, Artefak Kota Tangsel Diminta Dipasang Lagi Awal Januari 2026 (22:42 WIB)
   https://megapolitan.kompas.com/read/2025/12/01/22424981/sempat-dicopot-brin-artefak-kota-tangsel-diminta-dipasang-lagi-awal?utm_source=ABC&utm_medium=rss
 - Ada Reuni 212 di Monas, Pengalihan Lalu Lintas Situasional (22:32 WIB)
@@ -1088,6 +1092,8 @@ Senin, 01-12-2025
 
 [Detik]
 
+- Banjir-Longosr di Subulussalam Aceh: 5 Jembatan, 2 Jalan dan 2 SD Rusak (22:42 WIB)
+  https://news.detik.com/berita/d-8238469/banjir-longosr-di-subulussalam-aceh-5-jembatan-2-jalan-dan-2-sd-rusak
 - Stok BBM untuk Genset RS dan Puskemas di Bener Meriah Aceh Menipis (22:32 WIB)
   https://news.detik.com/berita/d-8238454/stok-bbm-untuk-genset-rs-dan-puskemas-di-bener-meriah-aceh-menipis
 - Kata BMKG soal Wanti-wanti Cuaca Ekstrem Sebelum Bencana di Sumatera (22:26 WIB)
