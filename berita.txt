@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Selasa, 02-12-2025
-Terakhir diperbarui: 22:49 WIB
+Terakhir diperbarui: 22:59 WIB
 ========================================
 
 Selasa, 02-12-2025
@@ -9,6 +9,8 @@ Selasa, 02-12-2025
 
 [Kompas]
 
+- Hipmi Bidik Peluang Ekonomi di Balik Tren Lari Anak Muda (22:51 WIB)
+  https://money.kompas.com/read/2025/12/02/225113726/hipmi-bidik-peluang-ekonomi-di-balik-tren-lari-anak-muda?utm_source=ABC&utm_medium=rss
 - Wamenag Syafi&#x27;i Sampaikan Pesan Prabowo Saat Reuni Akbar 212 di Monas (22:42 WIB)
   https://megapolitan.kompas.com/read/2025/12/02/22421171/wamenag-syafii-sampaikan-pesan-prabowo-saat-reuni-akbar-212-di-monas?utm_source=ABC&utm_medium=rss
 - Kabel Menjuntai Lukai Pemotor di Cilandak, Bina Marga Turun Tangan (22:34 WIB)
@@ -958,6 +960,12 @@ Selasa, 02-12-2025
 
 [Detik]
 
+- Gempa M 3,3 Terjadi di Bener Meriah Aceh (22:50 WIB)
+  https://news.detik.com/berita/d-8240360/gempa-m-3-3-terjadi-di-bener-meriah-aceh
+- Mahasiswa Perusak Pos Lalin di Ciceri Serang Divonis 3 Bulan Penjara (22:49 WIB)
+  https://news.detik.com/berita/d-8240358/mahasiswa-perusak-pos-lalin-di-ciceri-serang-divonis-3-bulan-penjara
+- Dubes Belanda Ucapkan Belasungkawa untuk Korban Bencana Alam di Sumatera (22:41 WIB)
+  https://news.detik.com/berita/d-8240348/dubes-belanda-ucapkan-belasungkawa-untuk-korban-bencana-alam-di-sumatera
 - Jalur Medan-Aceh Tamiang Mulai Dapat Diakses, Bantuan Dikirim via Udara (22:37 WIB)
   https://news.detik.com/berita/d-8240345/jalur-medan-aceh-tamiang-mulai-dapat-diakses-bantuan-dikirim-via-udara
 - Dilanda Banjir dan Longsor, Aceh Tamiang Butuh Bantuan Logistik-Listrik (22:36 WIB)
