@@ -1,4 +1,16 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "BMKG: Gempa Jepang M 7,5 Tak Berpotensi Tsunami di Indonesia",
+      "link": "https://nasional.kompas.com/read/2025/12/09/00414931/bmkg-gempa-jepang-m-75-tak-berpotensi-tsunami-di-indonesia?utm_source=ABC&utm_medium=rss",
+      "time": "00:41 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Gunung Semeru Erupsi Malam Ini, Luncurkan Lava Pijar",
+      "link": "https://news.detik.com/berita/d-8250045/gunung-semeru-erupsi-malam-ini-luncurkan-lava-pijar",
+      "time": "00:37 WIB"
+    }
+  ]
 }
