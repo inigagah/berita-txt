@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Jumat, 12-12-2025
-Terakhir diperbarui: 16:48 WIB
+Terakhir diperbarui: 16:58 WIB
 ========================================
 
 Jumat, 12-12-2025
@@ -9,6 +9,20 @@ Jumat, 12-12-2025
 
 [Kompas]
 
+- Fitur Baru Google Search, Pengguna Bisa Pilih Media Favorit di Hasil Pencarian (16:57 WIB)
+  https://tekno.kompas.com/read/2025/12/12/16570027/fitur-baru-google-search-pengguna-bisa-pilih-media-favorit-di-hasil-pencarian?utm_source=ABC&utm_medium=rss
+- Lagi, Matel Diduga Berhentikan Paksa Pengendara Motor di Jalan Daan Mogot (16:56 WIB)
+  https://megapolitan.kompas.com/read/2025/12/12/16565761/lagi-matel-diduga-berhentikan-paksa-pengendara-motor-di-jalan-daan-mogot?utm_source=ABC&utm_medium=rss
+- Mendagri Ungkap Peran Strategis BPD dalam Pengawasan Pemerintahan Desa (16:56 WIB)
+  https://nasional.kompas.com/read/2025/12/12/16563291/mendagri-ungkap-peran-strategis-bpd-dalam-pengawasan-pemerintahan-desa?utm_source=ABC&utm_medium=rss
+- Korlantas Minta Kepadatan Lalu Lintas Disebut Antrean Panjang, Bukan Kemacetan (16:54 WIB)
+  https://nasional.kompas.com/read/2025/12/12/16540751/korlantas-minta-kepadatan-lalu-lintas-disebut-antrean-panjang-bukan?utm_source=ABC&utm_medium=rss
+- Korlantas Pakai ETLE Drone Pantau Kemacetan Real Time Saat Libur Natal dan Tahun Baru (16:53 WIB)
+  https://nasional.kompas.com/read/2025/12/12/16534791/korlantas-pakai-etle-drone-pantau-kemacetan-real-time-saat-libur-natal-dan?utm_source=ABC&utm_medium=rss
+- 112 Pasar Rusak Akibat Banjir Bandang Sumatera, Terbanyak di Aceh (16:53 WIB)
+  https://money.kompas.com/read/2025/12/12/165321026/112-pasar-rusak-akibat-banjir-bandang-sumatera-terbanyak-di-aceh?utm_source=ABC&utm_medium=rss
+- SPayLater Flash Sale Rp 12 Datang Lagi, HokBen hingga Kopi Kenangan Siap Diserbu (16:53 WIB)
+  https://money.kompas.com/read/2025/12/12/165300526/spaylater-flash-sale-rp-12-datang-lagi-hokben-hingga-kopi-kenangan-siap?utm_source=ABC&utm_medium=rss
 - Manajemen Terra Drone Langgar Keselamatan Gedung: Tak Ada Pintu Darurat-Jalur Evakuasi (16:48 WIB)
   https://megapolitan.kompas.com/read/2025/12/12/16482181/manajemen-terra-drone-langgar-keselamatan-gedung-tak-ada-pintu-darurat?utm_source=ABC&utm_medium=rss
 - Sudah 12 Desember, Menaker Belum Mau Umumkan UMP 2026 (16:48 WIB)
@@ -682,6 +696,16 @@ Jumat, 12-12-2025
 
 [Detik]
 
+- Polisi Duga Karyawan Terra Drone Sempat Coba Pecahkan Kaca, tapi Gagal (16:45 WIB)
+  https://news.detik.com/berita/d-8256773/polisi-duga-karyawan-terra-drone-sempat-coba-pecahkan-kaca-tapi-gagal
+- 4 Orang Tewas dalam Mobil di Tol Tegal Diduga Keracunan Gas (16:45 WIB)
+  https://news.detik.com/berita/d-8256771/4-orang-tewas-dalam-mobil-di-tol-tegal-diduga-keracunan-gas
+- Kecepatan Mobil MBG Saat Tabrak Guru dan Siswa di Jakut 19 Km/Jam (16:44 WIB)
+  https://news.detik.com/berita/d-8256769/kecepatan-mobil-mbg-saat-tabrak-guru-dan-siswa-di-jakut-19-km-jam
+- 54 WNI yang Terjaring di Markas Scam Myanmar Dipulangkan ke RI Besok (16:43 WIB)
+  https://news.detik.com/berita/d-8256766/54-wni-yang-terjaring-di-markas-scam-myanmar-dipulangkan-ke-ri-besok
+- Saat Prabowo Cicip Gutel di Posko Pengungsian Takengon Aceh Tengah (16:37 WIB)
+  https://news.detik.com/berita/d-8256758/saat-prabowo-cicip-gutel-di-posko-pengungsian-takengon-aceh-tengah
 - Kakorlantas Fokus Kawal Harkamtibmas dan Kamseltibcarlantas di Operasi Lilin 2025 (16:33 WIB)
   https://news.detik.com/berita/d-8256752/kakorlantas-fokus-kawal-harkamtibmas-dan-kamseltibcarlantas-di-operasi-lilin-2025
 - Komisi V DPR: Jangan Denial Peringatan Bibit Siklon Tropis 93S dari BMKG (16:30 WIB)
