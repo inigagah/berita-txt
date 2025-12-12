@@ -1,6 +1,81 @@
 {
   "Kompas": [
     {
+      "title": "Promo Bengkel Peugeot di Akhir Tahun",
+      "link": "https://otomotif.kompas.com/read/2025/12/12/162803615/promo-bengkel-peugeot-di-akhir-tahun?utm_source=ABC&utm_medium=rss",
+      "time": "16:28 WIB"
+    },
+    {
+      "title": "iPad Pro dengan Chip M5 Resmi di Indonesia, Harga mulai Rp 20 Juta",
+      "link": "https://tekno.kompas.com/read/2025/12/12/16270087/ipad-pro-dengan-chip-m5-resmi-di-indonesia-harga-mulai-rp-20-juta?utm_source=ABC&utm_medium=rss",
+      "time": "16:27 WIB"
+    },
+    {
+      "title": "Profil Da&#x27;i Bachtiar, Eks Tri Brata 1 yang Usulkan Kapolri Dipilih Tanpa Persetujuan DPR",
+      "link": "https://nasional.kompas.com/read/2025/12/12/16254481/profil-dai-bachtiar-eks-tri-brata-1-yang-usulkan-kapolri-dipilih-tanpa?utm_source=ABC&utm_medium=rss",
+      "time": "16:25 WIB"
+    },
+    {
+      "title": "Jangan Terlewat Puncak Hujan Meteor Geminid Besok Malam, Ini Cara Memotretnya",
+      "link": "https://www.kompas.com/sains/read/2025/12/12/162400323/jangan-terlewat-puncak-hujan-meteor-geminid-besok-malam-ini-cara?utm_source=ABC&utm_medium=rss",
+      "time": "16:24 WIB"
+    },
+    {
+      "title": "Link Live Streaming Timnas U22 Indonesia Vs Myanmar di SEA Games 2025",
+      "link": "https://bola.kompas.com/read/2025/12/12/16181878/link-live-streaming-timnas-u22-indonesia-vs-myanmar-di-sea-games-2025?utm_source=ABC&utm_medium=rss",
+      "time": "16:18 WIB"
+    },
+    {
+      "title": "Mendagri Terbitkan SE untuk Percepat Penggantian Dokumen Kependudukan Korban Banjir Sumatera",
+      "link": "https://nasional.kompas.com/read/2025/12/12/16172181/mendagri-terbitkan-se-untuk-percepat-penggantian-dokumen-kependudukan-korban?utm_source=ABC&utm_medium=rss",
+      "time": "16:17 WIB"
+    },
+    {
+      "title": "Kata United Tractors (UNTR) Soal Operasional Agincourt Dihentikan Sementara",
+      "link": "https://money.kompas.com/read/2025/12/12/161312226/kata-united-tractors-untr-soal-operasional-agincourt-dihentikan-sementara?utm_source=ABC&utm_medium=rss",
+      "time": "16:13 WIB"
+    },
+    {
+      "title": "Pengendara Keluhkan Jalan di Underpass DI Panjaitan: Bahaya, Ada Lubang dan Air",
+      "link": "https://megapolitan.kompas.com/read/2025/12/12/16130291/pengendara-keluhkan-jalan-di-underpass-di-panjaitan-bahaya-ada-lubang-dan?utm_source=ABC&utm_medium=rss",
+      "time": "16:13 WIB"
+    },
+    {
+      "title": "Polisi Periksa 6 Saksi Pengeroyokan Tewaskan 2 Matel di Kalibata",
+      "link": "https://nasional.kompas.com/read/2025/12/12/16125741/polisi-periksa-6-saksi-pengeroyokan-tewaskan-2-matel-di-kalibata?utm_source=ABC&utm_medium=rss",
+      "time": "16:12 WIB"
+    },
+    {
+      "title": "BYD Indonesia Harap Insentif Mobil Listrik Dilanjutkan di 2026",
+      "link": "https://otomotif.kompas.com/read/2025/12/12/161200115/byd-indonesia-harap-insentif-mobil-listrik-dilanjutkan-di-2026?utm_source=ABC&utm_medium=rss",
+      "time": "16:12 WIB"
+    },
+    {
+      "title": "Kemenkeu Buyback Surat Utang Negara Rp 25,7 Triliun",
+      "link": "https://money.kompas.com/read/2025/12/12/161100426/kemenkeu-buyback-surat-utang-negara-rp-25-7-triliun-?utm_source=ABC&utm_medium=rss",
+      "time": "16:11 WIB"
+    },
+    {
+      "title": "Link Cek Desil Bansos 2025: Cara Cek NIK DTSEN untuk Lihat Status Kesejahteraan Terbaru",
+      "link": "https://money.kompas.com/read/2025/12/12/160948726/link-cek-desil-bansos-2025-cara-cek-nik-dtsen-untuk-lihat-status-kesejahteraan?utm_source=ABC&utm_medium=rss",
+      "time": "16:09 WIB"
+    },
+    {
+      "title": "10 Rute Kereta Api Paling Laris 2025, Tujuan Solo Jadi Favorit",
+      "link": "https://travel.kompas.com/read/2025/12/12/160733027/10-rute-kereta-api-paling-laris-2025-tujuan-solo-jadi-favorit?utm_source=ABC&utm_medium=rss",
+      "time": "16:07 WIB"
+    },
+    {
+      "title": "191 Juta Masyarakat akan Bepergian Saat Nataru, Polri Siapkan Pengamanan",
+      "link": "https://nasional.kompas.com/read/2025/12/12/16072141/191-juta-masyarakat-akan-bepergian-saat-nataru-polri-siapkan-pengamanan?utm_source=ABC&utm_medium=rss",
+      "time": "16:07 WIB"
+    },
+    {
+      "title": "Saksi Kunci Bongkar Penyebab Kebakaran Kantor Terra Drone: Baterai LiPo Jatuh, lalu Picu Api",
+      "link": "https://megapolitan.kompas.com/read/2025/12/12/16045191/saksi-kunci-bongkar-penyebab-kebakaran-kantor-terra-drone-baterai-lipo?utm_source=ABC&utm_medium=rss",
+      "time": "16:04 WIB"
+    },
+    {
       "title": "Apa Warna Dinosaurus? Fosil Diplodocus Mulai Mengungkapnya",
       "link": "https://www.kompas.com/sains/read/2025/12/12/155554323/apa-warna-dinosaurus-fosil-diplodocus-mulai-mengungkapnya?utm_source=ABC&utm_medium=rss",
       "time": "15:55 WIB"
@@ -1537,6 +1612,36 @@
     }
   ],
   "Detik": [
+    {
+      "title": "Mendagri Ungkap Peran Strategis BPD dalam Pengawasan Pemerintahan Desa",
+      "link": "https://news.detik.com/berita/d-8256722/mendagri-ungkap-peran-strategis-bpd-dalam-pengawasan-pemerintahan-desa",
+      "time": "16:18 WIB"
+    },
+    {
+      "title": "Komisi XII DPR Dukung RUU Migas Segera Dibahas, Reformasi Tata Kelola",
+      "link": "https://news.detik.com/berita/d-8256717/komisi-xii-dpr-dukung-ruu-migas-segera-dibahas-reformasi-tata-kelola",
+      "time": "16:16 WIB"
+    },
+    {
+      "title": "Sopir MBG di Jakut Panik Salah Injak Gas, Hindari Warga lalu Belok ke SD",
+      "link": "https://news.detik.com/berita/d-8256708/sopir-mbg-di-jakut-panik-salah-injak-gas-hindari-warga-lalu-belok-ke-sd",
+      "time": "16:10 WIB"
+    },
+    {
+      "title": "Keluarga Remaja Dinarasikan Dianiaya Majikan di Bogor Bantah Ada Kekerasan",
+      "link": "https://news.detik.com/berita/d-8256707/keluarga-remaja-dinarasikan-dianiaya-majikan-di-bogor-bantah-ada-kekerasan",
+      "time": "16:10 WIB"
+    },
+    {
+      "title": "PKB Dukung Kebut Revisi UU Migas, Ungkap 3 Alasan Harus Segera Disahkan",
+      "link": "https://news.detik.com/berita/d-8256703/pkb-dukung-kebut-revisi-uu-migas-ungkap-3-alasan-harus-segera-disahkan",
+      "time": "16:06 WIB"
+    },
+    {
+      "title": "WN China yang Tewaskan Pemotor di Semarang Jadi Tersangka, ITAS Dicabut",
+      "link": "https://news.detik.com/berita/d-8256700/wn-china-yang-tewaskan-pemotor-di-semarang-jadi-tersangka-itas-dicabut",
+      "time": "16:06 WIB"
+    },
     {
       "title": "Usut Kasus Sopir MBG di Cilincing, Polisi Periksa 10 Saksi Termasuk Kepala SPPG",
       "link": "https://news.detik.com/berita/d-8256644/usut-kasus-sopir-mbg-di-cilincing-polisi-periksa-10-saksi-termasuk-kepala-sppg",
