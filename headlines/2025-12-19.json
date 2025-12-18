@@ -1,4 +1,16 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "Usai OTT Jaksa di Banten, KPK Serahkan Perkara ke Kejagung",
+      "link": "https://nasional.kompas.com/read/2025/12/19/00372821/usai-ott-jaksa-di-banten-kpk-serahkan-perkara-ke-kejagung?utm_source=ABC&utm_medium=rss",
+      "time": "00:37 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Awan Lenticularis Muncul di Tanggamus Lampung, Begini Penjelasan BMKG",
+      "link": "https://news.detik.com/berita/d-8267077/awan-lenticularis-muncul-di-tanggamus-lampung-begini-penjelasan-bmkg",
+      "time": "00:30 WIB"
+    }
+  ]
 }
