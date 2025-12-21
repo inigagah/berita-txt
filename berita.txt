@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Minggu, 21-12-2025
-Terakhir diperbarui: 17:46 WIB
+Terakhir diperbarui: 17:55 WIB
 ========================================
 
 Minggu, 21-12-2025
@@ -9,6 +9,8 @@ Minggu, 21-12-2025
 
 [Kompas]
 
+- Impresi Awal Coba VinFast VF 7, Kabin Lapang (17:52 WIB)
+  https://otomotif.kompas.com/read/2025/12/21/175200515/impresi-awal-coba-vinfast-vf-7-kabin-lapang?utm_source=ABC&utm_medium=rss
 - Ribuan Rumah di Sumbar Selamat Berkat Sabo Dam, Apa Itu? (17:46 WIB)
   https://www.kompas.com/properti/read/2025/12/21/174600321/ribuan-rumah-di-sumbar-selamat-berkat-sabo-dam-apa-itu-?utm_source=ABC&utm_medium=rss
 - Hasil PSM Makassar Vs Malut United 0-1: Gol Cepat David da Silva Berbuah 3 Poin (17:39 WIB)
@@ -442,6 +444,12 @@ Minggu, 21-12-2025
 
 [Detik]
 
+- Hasil Rapimnas: Golkar Usul Pilkada Dipilih DPRD, Dorong Koalisi Permanen (17:42 WIB)
+  https://news.detik.com/berita/d-8270755/hasil-rapimnas-golkar-usul-pilkada-dipilih-dprd-dorong-koalisi-permanen
+- Potensi Cuaca Ekstrem Saat Nataru, Kapolri Minta Mitigasi Disiapkan Sejak Awal (17:39 WIB)
+  https://news.detik.com/berita/d-8270749/potensi-cuaca-ekstrem-saat-nataru-kapolri-minta-mitigasi-disiapkan-sejak-awal
+- Kaisar Said Putra Perkuat Mitigasi Bencana Lewat Tim Ambulans SobatKaisar (17:39 WIB)
+  https://news.detik.com/berita/d-8270748/kaisar-said-putra-perkuat-mitigasi-bencana-lewat-tim-ambulans-sobatkaisar
 - Kejagung Copot Kajari, Kasi Intel dan Kasi Datun Kejari HSU Tersangka KPK! (17:32 WIB)
   https://news.detik.com/berita/d-8270740/kejagung-copot-kajari-kasi-intel-dan-kasi-datun-kejari-hsu-tersangka-kpk
 - Cuaca Buruk Bikin Antrean Panjang Kendaraan di Pelabuhan Merak (17:30 WIB)
