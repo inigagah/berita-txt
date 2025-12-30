@@ -1,4 +1,15 @@
 {
   "Kompas": [],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "Banjir Bandang Terjang Sukabumi, Rumah Warga dan Ternak Lenyap",
+      "link": "https://news.detik.com/berita/d-8285079/banjir-bandang-terjang-sukabumi-rumah-warga-dan-ternak-lenyap",
+      "time": "00:15 WIB"
+    },
+    {
+      "title": "Refleksi 2025, Anggota DPR Serukan Jaga Hutan Buntut Bencana Sumatera",
+      "link": "https://news.detik.com/berita/d-8285078/refleksi-2025-anggota-dpr-serukan-jaga-hutan-buntut-bencana-sumatera",
+      "time": "00:11 WIB"
+    }
+  ]
 }
