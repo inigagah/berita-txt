@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Selasa, 30-12-2025
-Terakhir diperbarui: 16:47 WIB
+Terakhir diperbarui: 16:57 WIB
 ========================================
 
 Selasa, 30-12-2025
@@ -9,6 +9,10 @@ Selasa, 30-12-2025
 
 [Kompas]
 
+- Harga Emas Antam Meroket di 2025, Ini Faktor-Faktor Pendorongnya (16:55 WIB)
+  https://money.kompas.com/read/2025/12/30/165500826/harga-emas-antam-meroket-di-2025-ini-faktor-faktor-pendorongnya?utm_source=ABC&utm_medium=rss
+- Libur Bursa Desember 2025: Bursa Saham Libur Sampai Kapan? (16:53 WIB)
+  https://money.kompas.com/read/2025/12/30/165344226/libur-bursa-desember-2025-bursa-saham-libur-sampai-kapan?utm_source=ABC&utm_medium=rss
 - 13 Kebiasaan yang Tanpa Disadari Dapat Merusak HP, Hati-hati (16:45 WIB)
   https://tekno.kompas.com/read/2025/12/27/12350027/13-kebiasaan-yang-tanpa-disadari-dapat-merusak-hp-hati-hati?utm_source=ABC&utm_medium=rss
 - 12 Koridor Jalan Nasional Sumut Kini Dapat Dilalui, Ini Daftarnya (16:45 WIB)
@@ -650,13 +654,17 @@ Selasa, 30-12-2025
 
 [Detik]
 
+- Massa Buruh Tolak UMP Bubar, Lalin di Jalan Medan Merdeka Selatan Dibuka (16:47 WIB)
+  https://news.detik.com/berita/d-8284547/massa-buruh-tolak-ump-bubar-lalin-di-jalan-medan-merdeka-selatan-dibuka
+- Pelajar SMA di Lebak Bawa Mobil Tabrak 3 Pemotor hingga Luka-luka (16:41 WIB)
+  https://news.detik.com/berita/d-8284520/pelajar-sma-di-lebak-bawa-mobil-tabrak-3-pemotor-hingga-luka-luka
 - Apakah Januari 2026 Ada Cuti Bersama? Cek Infonya! (16:39 WIB)
   https://news.detik.com/berita/d-8284516/apakah-januari-2026-ada-cuti-bersama-cek-infonya
 - Pengumuman! Naik TransJakarta, MRT, hingga LRT Besok Gratis (16:37 WIB)
   https://news.detik.com/berita/d-8284509/pengumuman-naik-transjakarta-mrt-hingga-lrt-besok-gratis
 - Wamendagri Minta Pemda Waspadai Inflasi Saat Nataru &amp;amp; Cuaca Ekstrem (16:30 WIB)
   https://news.detik.com/berita/d-8284488/wamendagri-minta-pemda-waspadai-inflasi-saat-nataru-cuaca-ekstrem
-- Polda Metro Minta Warga Tak Konvoi saat Malam Tahun Baru (16:28 WIB)
+- Polda Metro Minta Warga Tak Konvoi Saat Malam Tahun Baru (16:28 WIB)
   https://news.detik.com/berita/d-8284485/polda-metro-minta-warga-tak-konvoi-saat-malam-tahun-baru
 - Polisi dan TNI Evakuasi Potongan Pesawat Timpa Rumah Warga di Kemang Bogor (16:28 WIB)
   https://news.detik.com/berita/d-8284475/polisi-dan-tni-evakuasi-potongan-pesawat-timpa-rumah-warga-di-kemang-bogor
@@ -756,10 +764,10 @@ Selasa, 30-12-2025
   https://news.detik.com/berita/d-8284099/jalan-medan-merdeka-selatan-tertutup-massa-buruh-pemotor-nekat-naik-trotoar
 - Kapolri Imbau Masyarakat Jalani Tahun Baru Sederhana Sebagai Wujud Empati (14:00 WIB)
   https://news.detik.com/berita/d-8284094/kapolri-imbau-masyarakat-jalani-tahun-baru-sederhana-sebagai-wujud-empati
-- Kapolri Sampaikan 3 Komitmen Demi Polri Semakin Presisi (13:56 WIB)
-  https://news.detik.com/berita/d-8284084/kapolri-sampaikan-3-komitmen-demi-polri-semakin-presisi
 - Dukungan Polri untuk Ketahanan Pangan: Dari SPPG hingga Penanaman Jagung (13:56 WIB)
   https://news.detik.com/berita/d-8284083/dukungan-polri-untuk-ketahanan-pangan-dari-sppg-hingga-penanaman-jagung
+- Kapolri Sampaikan 3 Komitmen Demi Polri Semakin Presisi (13:56 WIB)
+  https://news.detik.com/berita/d-8284084/kapolri-sampaikan-3-komitmen-demi-polri-semakin-presisi
 - Aksi Sigap Polisi Selamatkan Pengemudi yang Serangan Jantung di Sragen Jateng (13:52 WIB)
   https://news.detik.com/berita/d-8284077/aksi-sigap-polisi-selamatkan-pengemudi-yang-serangan-jantung-di-sragen-jateng
 - Polri Perkuat Pengawasan Digital, Tekankan Transparansi dan Akuntabilitas (13:52 WIB)
