@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Kamis, 01-01-2026
-Terakhir diperbarui: 17:22 WIB
+Terakhir diperbarui: 17:47 WIB
 ========================================
 
 Kamis, 01-01-2026
@@ -9,6 +9,20 @@ Kamis, 01-01-2026
 
 [Kompas]
 
+- Setelah DJ Donny, Rumah Aktivis Greenpeace Diteror Bangkai Ayam (17:43 WIB)
+  https://megapolitan.kompas.com/read/2026/01/01/17435191/setelah-dj-donny-rumah-aktivis-greenpeace-diteror-bangkai-ayam?utm_source=ABC&utm_medium=rss
+- Sorak Pengunjung Sambut Rafa, Harimau Sumatera Saat Feeding Time di Ragunan (17:39 WIB)
+  https://megapolitan.kompas.com/read/2026/01/01/17394871/sorak-pengunjung-sambut-rafa-harimau-sumatera-saat-feeding-time-di?utm_source=ABC&utm_medium=rss
+- 4 Cara Memulihkan Chat WhatsApp yang Sudah Dicadangkan (17:35 WIB)
+  https://tekno.kompas.com/read/2026/01/01/17350017/4-cara-memulihkan-chat-whatsapp-yang-sudah-dicadangkan?utm_source=ABC&utm_medium=rss
+- Ide Wisata Tahun Baru di Jakarta, Keliling Kota Naik Bus Tingkat Gratis (17:31 WIB)
+  https://travel.kompas.com/read/2026/01/01/173100027/ide-wisata-tahun-baru-di-jakarta-keliling-kota-naik-bus-tingkat-gratis?utm_source=ABC&utm_medium=rss
+- ESDM Amankan 70.000 Ton Batu Bara Diduga dari Tambang Ilegal di Kaltim (17:30 WIB)
+  https://money.kompas.com/read/2026/01/01/173059326/esdm-amankan-70000-ton-batu-bara-diduga-dari-tambang-ilegal-di-kaltim?utm_source=ABC&utm_medium=rss
+- Neymar Teken Kontrak Baru di Santos, Tepis Spekulasi Reuni dengan Messi (17:24 WIB)
+  https://bola.kompas.com/read/2026/01/01/17243468/neymar-teken-kontrak-baru-di-santos-tepis-spekulasi-reuni-dengan-messi?utm_source=ABC&utm_medium=rss
+- Prabowo Sebut Lumpur Bencana Sumatera Diminati Swasta: Mau Dibeli Silakan, Hasilnya Dinikmati Daerah (17:22 WIB)
+  https://nasional.kompas.com/read/2026/01/01/17221571/prabowo-sebut-lumpur-bencana-sumatera-diminati-swasta-mau-dibeli-silakan?utm_source=ABC&utm_medium=rss
 - Libur Tahun Baru, Antrean Angkutan Keliling TMII Mengular (17:19 WIB)
   https://megapolitan.kompas.com/read/2026/01/01/17193881/libur-tahun-baru-antrean-angkutan-keliling-tmii-mengular?utm_source=ABC&utm_medium=rss
 - Jadwal MotoGP Musim 2026, Balapan di Mandalika Awal Oktober (17:18 WIB)
@@ -506,6 +520,10 @@ Kamis, 01-01-2026
 
 [Detik]
 
+- Tantangan Zookeeper di Ragunan Bonding dengan Satwa tapi Tetap Waspada (17:23 WIB)
+  https://news.detik.com/berita/d-8287879/tantangan-zookeeper-di-ragunan-bonding-dengan-satwa-tapi-tetap-waspada
+- Cuaca Ekstrem Bikin Kunjungan Wisata ke Pantai Carita Menurun Saat Nataru (17:17 WIB)
+  https://news.detik.com/berita/d-8287875/cuaca-ekstrem-bikin-kunjungan-wisata-ke-pantai-carita-menurun-saat-nataru
 - Pemko Pekanbaru Terapkan WFA bagi Pegawai, Pelayanan Publik Tetap Jalan (16:54 WIB)
   https://news.detik.com/berita/d-8287841/pemko-pekanbaru-terapkan-wfa-bagi-pegawai-pelayanan-publik-tetap-jalan
 - ANS Kosasih Ajukan Kasasi Vonis 10 Tahun Bui Kasus Investasi Fiktif Taspen (16:45 WIB)
@@ -514,6 +532,8 @@ Kamis, 01-01-2026
   https://news.detik.com/berita/d-8287824/aturan-masuk-kerja-di-hari-libur-nasional-dan-cara-hitung-upah-lembur
 - Tarif 1 Januari 2026 Rp 1, Berikut Jam Operasional MRT Hari Ini (16:40 WIB)
   https://news.detik.com/berita/d-8287823/tarif-1-januari-2026-rp-1-berikut-jam-operasional-mrt-hari-ini
+- Sopir Angkot di Bogor Ketahuan &#x27;Nge-fly&#x27; Sabu Usai Bawa Penumpang Kapolsek (16:37 WIB)
+  https://news.detik.com/berita/d-8287820/sopir-angkot-di-bogor-ketahuan-nge-fly-sabu-usai-bawa-penumpang-kapolsek
 - Sopir Angkot di Bogor Ketahuan &#x27;Ngefly&#x27; Sabu usai Bawa Penumpang Kapolsek (16:37 WIB)
   https://news.detik.com/berita/d-8287820/sopir-angkot-di-bogor-ketahuan-ngefly-sabu-usai-bawa-penumpang-kapolsek
 - Sopir Angkot &#x27;Ngefly&#x27; Sabu, Ditangkap Saat Angkut Kapolsek Cileungsi (16:37 WIB)
