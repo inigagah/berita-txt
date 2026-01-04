@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Senin, 05-01-2026
-Terakhir diperbarui: 06:18 WIB
+Terakhir diperbarui: 06:35 WIB
 ========================================
 
 Senin, 05-01-2026
@@ -9,6 +9,12 @@ Senin, 05-01-2026
 
 [Kompas]
 
+- Microsoft Lancarkan Jurus Agar Pengguna Windows Tak Pakai Chrome (06:34 WIB)
+  https://tekno.kompas.com/read/2026/01/04/17150027/microsoft-lancarkan-jurus-agar-pengguna-windows-tak-pakai-chrome?utm_source=ABC&utm_medium=rss
+- 28 Akses Gerbang Tol yang Kena Ganjil Genap Jakarta Pekan Ini (06:31 WIB)
+  https://otomotif.kompas.com/read/2026/01/05/063100415/28-akses-gerbang-tol-yang-kena-ganjil-genap-jakarta-pekan-ini?utm_source=ABC&utm_medium=rss
+- Purbaya Bebaskan Pajak Pegawai dengan Gaji hingga Rp 10 Juta, Simak Syaratnya (06:22 WIB)
+  https://money.kompas.com/read/2026/01/05/062249926/purbaya-bebaskan-pajak-pegawai-dengan-gaji-hingga-rp-10-juta-simak-syaratnya?utm_source=ABC&utm_medium=rss
 - Ada 2 Demo di Jakarta Hari ini, Hindari Titik Potensi Macet (06:16 WIB)
   https://megapolitan.kompas.com/read/2026/01/05/06164951/ada-2-demo-di-jakarta-hari-ini-hindari-titik-potensi-macet?utm_source=ABC&utm_medium=rss
 - Ganjil Genap Jakarta Berlaku Normal Pekan Ini (06:12 WIB)
@@ -50,6 +56,8 @@ Senin, 05-01-2026
 
 [Detik]
 
+- Planetarium Diserbu Warga, Anggota DPRD DKI Dorong Kuota Pengunjung Ditambah (06:15 WIB)
+  https://news.detik.com/berita/d-8292067/planetarium-diserbu-warga-anggota-dprd-dki-dorong-kuota-pengunjung-ditambah
 - Komisi I DPR Minta Kemlu Siapkan Skenario Darurat Evakuasi WNI di Venezuela (06:00 WIB)
   https://news.detik.com/berita/d-8292063/komisi-i-dpr-minta-kemlu-siapkan-skenario-darurat-evakuasi-wni-di-venezuela
 - Pengacara Pastikan Nadiem Hadiri Sidang Dakwaan Kasus Chromebook Hari Ini (05:46 WIB)
