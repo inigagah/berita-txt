@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Senin, 05-01-2026
-Terakhir diperbarui: 16:50 WIB
+Terakhir diperbarui: 17:02 WIB
 ========================================
 
 Senin, 05-01-2026
@@ -9,6 +9,8 @@ Senin, 05-01-2026
 
 [Kompas]
 
+- Kejar Target Penjualan, Chery Bakal Tambah 50 Diler Sepanjang 2026 (17:01 WIB)
+  https://otomotif.kompas.com/read/2026/01/05/170100915/kejar-target-penjualan-chery-bakal-tambah-50-diler-sepanjang-2026?utm_source=ABC&utm_medium=rss
 - Arus Nataru Terkendali, Mobilitas Antarwilayah Naik di Penyeberangan (16:50 WIB)
   https://money.kompas.com/read/2026/01/05/165014226/arus-nataru-terkendali-mobilitas-antarwilayah-naik-di-penyeberangan?utm_source=ABC&utm_medium=rss
 - Isu Venezuela Bikin Dollar AS Perkasa, Rupiah Hari Ini Ditutup Melemah (16:49 WIB)
@@ -696,6 +698,16 @@ Senin, 05-01-2026
 
 [Detik]
 
+- Menkeu Purbaya Heran AS Bisa Tangkap Maduro: PBB Amat Lemah Sekarang (16:50 WIB)
+  https://news.detik.com/berita/d-8293111/menkeu-purbaya-heran-as-bisa-tangkap-maduro-pbb-amat-lemah-sekarang
+- Viral 2 Pegawai RSUD di Kudus Terekam CCTV Lagi Mesum, Kini Dibebastugaskan (16:50 WIB)
+  https://news.detik.com/berita/d-8293110/viral-2-pegawai-rsud-di-kudus-terekam-cctv-lagi-mesum-kini-dibebastugaskan
+- Nadiem Minta Dibebaskan dari Dakwaan Kasus Korupsi Chromebook Rp 2,1 T (16:49 WIB)
+  https://news.detik.com/berita/d-8293108/nadiem-minta-dibebaskan-dari-dakwaan-kasus-korupsi-chromebook-rp-2-1-t
+- Dosen ASN Ludahi Kasir Swalayan di Makassar Disanksi Penurunan Pangkat (16:47 WIB)
+  https://news.detik.com/berita/d-8293103/dosen-asn-ludahi-kasir-swalayan-di-makassar-disanksi-penurunan-pangkat
+- Pakai KUHP Baru, Pembunuh Anak Politikus PKS Terancam Penjara Seumur Hidup (16:41 WIB)
+  https://news.detik.com/berita/d-8293081/pakai-kuhp-baru-pembunuh-anak-politikus-pks-terancam-penjara-seumur-hidup
 - AS Tangkap Maduro, BKSAP DPR Bicara Risiko Kekuatan Militer Gantikan Hukum (16:19 WIB)
   https://news.detik.com/berita/d-8293021/as-tangkap-maduro-bksap-dpr-bicara-risiko-kekuatan-militer-gantikan-hukum
 - Di Sidang Chromebook, Pengacara Sebut Kekayaan Nadiem Turun Jadi Rp 1,5 T (16:15 WIB)
