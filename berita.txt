@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Senin, 05-01-2026
-Terakhir diperbarui: 18:43 WIB
+Terakhir diperbarui: 18:55 WIB
 ========================================
 
 Senin, 05-01-2026
@@ -9,7 +9,21 @@ Senin, 05-01-2026
 
 [Kompas]
 
-- Bus Terbakar di Tol Jakarta-Cikampek arah Bekasi (18:42 WIB)
+- Harga Bitcoin Naik ke Rp 1,54 Miliar, Pasar Cermati Konflik AS-Venezuela (18:55 WIB)
+  https://money.kompas.com/read/2026/01/05/185517826/harga-bitcoin-naik-ke-rp-154-miliar-pasar-cermati-konflik-as-venezuela?utm_source=ABC&utm_medium=rss
+- Rem Mobil Blong, Biasanya Diawali dengan Tanda Ini (18:52 WIB)
+  https://otomotif.kompas.com/read/2026/01/05/185207215/rem-mobil-blong-biasanya-diawali-dengan-tanda-ini?utm_source=ABC&utm_medium=rss
+- Cerita Natalius Pigai Dorong Dubes PBB Berani Jadi Presiden Dewan HAM PBB (18:51 WIB)
+  https://nasional.kompas.com/read/2026/01/05/18513881/cerita-natalius-pigai-dorong-dubes-pbb-berani-jadi-presiden-dewan-ham-pbb?utm_source=ABC&utm_medium=rss
+- Libur Tahun Baru, 711.250 Kendaraan Kembali ke Jabotabek (18:51 WIB)
+  https://www.kompas.com/properti/read/2026/01/05/185100921/libur-tahun-baru-711250-kendaraan-kembali-ke-jabotabek?utm_source=ABC&utm_medium=rss
+- TNI AD Tegaskan Solid dengan Polri Usai Bentrok di Buton Selatan (18:49 WIB)
+  https://nasional.kompas.com/read/2026/01/05/18490331/tni-ad-tegaskan-solid-dengan-polri-usai-bentrok-di-buton-selatan?utm_source=ABC&utm_medium=rss
+- Puncak Arus Balik Nataru, Penumpang Terminal Kampung Rambutan Naik 150 Persen (18:47 WIB)
+  https://megapolitan.kompas.com/read/2026/01/05/18474581/puncak-arus-balik-nataru-penumpang-terminal-kampung-rambutan-naik-150?utm_source=ABC&utm_medium=rss
+- Ekspor RI Januari–November 2025 Naik 5,61 Persen, Ditopang Nonmigas (18:44 WIB)
+  https://money.kompas.com/read/2026/01/05/184439326/ekspor-ri-januarinovember-2025-naik-561-persen-ditopang-nonmigas?utm_source=ABC&utm_medium=rss
+- Bus Terbakar di Tol Jakarta-Cikampek Arah Bekasi (18:42 WIB)
   https://megapolitan.kompas.com/read/2026/01/05/18420641/bus-terbakar-di-tol-jakarta-cikampek-arah-bekasi?utm_source=ABC&utm_medium=rss
 - Pramono Nilai Tawuran Manggarai Berulang karena Energi Pemuda Tak Tersalurkan (18:39 WIB)
   https://megapolitan.kompas.com/read/2026/01/05/18390041/pramono-nilai-tawuran-manggarai-berulang-karena-energi-pemuda-tak?utm_source=ABC&utm_medium=rss
@@ -808,6 +822,10 @@ Senin, 05-01-2026
 
 [Detik]
 
+- Tawuran Manggarai Terulang, Pramono Duga Ada yang Membenturkan (18:42 WIB)
+  https://news.detik.com/berita/d-8293328/tawuran-manggarai-terulang-pramono-duga-ada-yang-membenturkan
+- Ketua Komisi III DPR Respons Gugatan Pasal Zina-Hukuman Mati KUHP Baru (18:39 WIB)
+  https://news.detik.com/berita/d-8293322/ketua-komisi-iii-dpr-respons-gugatan-pasal-zina-hukuman-mati-kuhp-baru
 - Ada Bus Terbakar, Lalin Tol Japek Arah Bekasi Macet 2 Km (18:29 WIB)
   https://news.detik.com/berita/d-8293309/ada-bus-terbakar-lalin-tol-japek-arah-bekasi-macet-2-km
 - Pembelaan LHKPN Nadiem: Harta Naik-Turun karena Saham GoTo, Bukan Korupsi (18:23 WIB)
