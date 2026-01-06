@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Selasa, 06-01-2026
-Terakhir diperbarui: 18:34 WIB
+Terakhir diperbarui: 18:48 WIB
 ========================================
 
 Selasa, 06-01-2026
@@ -9,6 +9,16 @@ Selasa, 06-01-2026
 
 [Kompas]
 
+- Ada Larangan Study Tour, Jumlah Wisatawan di Jawa Barat Malah Naik pada 2025 (18:45 WIB)
+  https://travel.kompas.com/read/2026/01/06/184500127/ada-larangan-study-tour-jumlah-wisatawan-di-jawa-barat-malah-naik-pada-2025?utm_source=ABC&utm_medium=rss
+- Suzuki Ignis Sudah Disuntik Mati, tapi Masih Laku di Pasar Mobkas (18:41 WIB)
+  https://otomotif.kompas.com/read/2026/01/06/184100715/suzuki-ignis-sudah-disuntik-mati-tapi-masih-laku-di-pasar-mobkas?utm_source=ABC&utm_medium=rss
+- Profil Liam Rosenior: Sang Fenomenal di Ligue 1 yang Buat Chelsea Kepincut (18:40 WIB)
+  https://bola.kompas.com/read/2026/01/06/18401698/profil-liam-rosenior-sang-fenomenal-di-ligue-1-yang-buat-chelsea-kepincut?utm_source=ABC&utm_medium=rss
+- Anak Buah Purbaya Beberkan Kondisi Ekonomi 2025, Manufaktur Jadi Penopang Utama (18:40 WIB)
+  https://money.kompas.com/read/2026/01/06/184000726/anak-buah-purbaya-beberkan-kondisi-ekonomi-2025-manufaktur-jadi-penopang-utama?utm_source=ABC&utm_medium=rss
+- Sudah Tahu Bedanya Bangunan Lapas dan Rutan? (18:36 WIB)
+  https://www.kompas.com/properti/read/2026/01/06/183600321/sudah-tahu-bedanya-bangunan-lapas-dan-rutan-?utm_source=ABC&utm_medium=rss
 - China Perketat Ekspor Barang ke Jepang untuk Kepentingan Militer (18:33 WIB)
   https://money.kompas.com/read/2026/01/06/183305326/china-perketat-ekspor-barang-ke-jepang-untuk-kepentingan-militer?utm_source=ABC&utm_medium=rss
 - KAI Angkut 5.334 Motor pada Program Angkutan Motor Gratis Saat Nataru (18:31 WIB)
@@ -826,6 +836,8 @@ Selasa, 06-01-2026
 
 [Detik]
 
+- Pemkab Lebak Revitalisasi Alun-alun Rangkasbitung: Rp 1 M untuk WC-Pedestrian (18:33 WIB)
+  https://news.detik.com/berita/d-8294957/pemkab-lebak-revitalisasi-alun-alun-rangkasbitung-rp-1-m-untuk-wc-pedestrian
 - Xpander Oleng Tabrak Mobil Parkir dan Pejalan Kaki hingga Tewas di Jakbar (18:22 WIB)
   https://news.detik.com/berita/d-8294940/xpander-oleng-tabrak-mobil-parkir-dan-pejalan-kaki-hingga-tewas-di-jakbar
 - Usulan Pilkada Dipilih DPRD, Waka MPR Eddy Minta Parpol Cari Titik Temu (18:15 WIB)
@@ -984,10 +996,10 @@ Selasa, 06-01-2026
   https://news.detik.com/berita/d-8294140/abg-di-tambun-kabur-takut-disunat-ortu-telepon-damkar
 - Polda Metro Usut Laporan Demokrat soal Tuduhan SBY Terlibat Isu Ijazah Jokowi (11:59 WIB)
   https://news.detik.com/berita/d-8294139/polda-metro-usut-laporan-demokrat-soal-tuduhan-sby-terlibat-isu-ijazah-jokowi
-- Pria Curi Motor di Depok Ditangkap, Modus Pura-pura Tertabrak (11:50 WIB)
-  https://news.detik.com/berita/d-8294124/pria-curi-motor-di-depok-ditangkap-modus-pura-pura-tertabrak
 - Dokter Detektif Vs Richard Lee: Saling Lapor, Kini Sama-sama Jadi Tersangka (11:50 WIB)
   https://news.detik.com/berita/d-8294123/dokter-detektif-vs-richard-lee-saling-lapor-kini-sama-sama-jadi-tersangka
+- Pria Curi Motor di Depok Ditangkap, Modus Pura-pura Tertabrak (11:50 WIB)
+  https://news.detik.com/berita/d-8294124/pria-curi-motor-di-depok-ditangkap-modus-pura-pura-tertabrak
 - Masjid di Gunungkidul Telanjur Dibongkar, Ternyata Kena PHP Donatur (11:42 WIB)
   https://news.detik.com/berita/d-8294107/masjid-di-gunungkidul-telanjur-dibongkar-ternyata-kena-php-donatur
 - Tiang Monorel Dibongkar Pekan Depan, Pramono Pastikan Tak Ada Penutupan Jalan (11:38 WIB)
