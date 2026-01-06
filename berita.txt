@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Selasa, 06-01-2026
-Terakhir diperbarui: 16:49 WIB
+Terakhir diperbarui: 16:59 WIB
 ========================================
 
 Selasa, 06-01-2026
@@ -9,6 +9,8 @@ Selasa, 06-01-2026
 
 [Kompas]
 
+- Fraksi PKB Harap Retret di Hambalang Bikin Kinerja Kabinet Prabowo Lebih Optimal (16:52 WIB)
+  https://nasional.kompas.com/read/2026/01/06/16522181/fraksi-pkb-harap-retret-di-hambalang-bikin-kinerja-kabinet-prabowo-lebih?utm_source=ABC&utm_medium=rss
 - Aktor Anrez Adelio Dilaporkan soal Dugaan Kekerasan Seksual (16:47 WIB)
   https://megapolitan.kompas.com/read/2026/01/06/16474831/aktor-anrez-adelio-dilaporkan-soal-dugaan-kekerasan-seksual?utm_source=ABC&utm_medium=rss
 - Update BNPB: Korban Tewas Bencana Sumatera Capai 1.178 Jiwa (16:45 WIB)
@@ -730,6 +732,8 @@ Selasa, 06-01-2026
 
 [Detik]
 
+- Pasutri di Pamijahan Bogor Dibacok Mantan Suami, Kepala hingga Tangan Luka (16:48 WIB)
+  https://news.detik.com/berita/d-8294757/pasutri-di-pamijahan-bogor-dibacok-mantan-suami-kepala-hingga-tangan-luka
 - Diotaki WNA, Produsen Narkoba di Ancol Selundupkan Bahan Baku dari China (16:31 WIB)
   https://news.detik.com/berita/d-8294719/diotaki-wna-produsen-narkoba-di-ancol-selundupkan-bahan-baku-dari-china
 - Ratusan Hektare Sawah di Pandeglang Terancam Gagal Panen Usai Kebanjiran (16:27 WIB)
@@ -868,10 +872,10 @@ Selasa, 06-01-2026
   https://news.detik.com/berita/d-8294140/abg-di-tambun-kabur-takut-disunat-ortu-telepon-damkar
 - Polda Metro Usut Laporan Demokrat soal Tuduhan SBY Terlibat Isu Ijazah Jokowi (11:59 WIB)
   https://news.detik.com/berita/d-8294139/polda-metro-usut-laporan-demokrat-soal-tuduhan-sby-terlibat-isu-ijazah-jokowi
-- Dokter Detektif Vs Richard Lee: Saling Lapor, Kini Sama-sama Jadi Tersangka (11:50 WIB)
-  https://news.detik.com/berita/d-8294123/dokter-detektif-vs-richard-lee-saling-lapor-kini-sama-sama-jadi-tersangka
 - Pria Curi Motor di Depok Ditangkap, Modus Pura-pura Tertabrak (11:50 WIB)
   https://news.detik.com/berita/d-8294124/pria-curi-motor-di-depok-ditangkap-modus-pura-pura-tertabrak
+- Dokter Detektif Vs Richard Lee: Saling Lapor, Kini Sama-sama Jadi Tersangka (11:50 WIB)
+  https://news.detik.com/berita/d-8294123/dokter-detektif-vs-richard-lee-saling-lapor-kini-sama-sama-jadi-tersangka
 - Masjid di Gunungkidul Telanjur Dibongkar, Ternyata Kena PHP Donatur (11:42 WIB)
   https://news.detik.com/berita/d-8294107/masjid-di-gunungkidul-telanjur-dibongkar-ternyata-kena-php-donatur
 - Tiang Monorel Dibongkar Pekan Depan, Pramono Pastikan Tak Ada Penutupan Jalan (11:38 WIB)
