@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Minggu, 11-01-2026
-Terakhir diperbarui: 03:52 WIB
+Terakhir diperbarui: 04:17 WIB
 ========================================
 
 Minggu, 11-01-2026
@@ -28,6 +28,8 @@ Minggu, 11-01-2026
 
 [Detik]
 
+- Gempa M 5,1 Terjadi di Tanimbar Maluku, Tak Berpotensi Tsunami (04:04 WIB)
+  https://news.detik.com/berita/d-8301431/gempa-m-5-1-terjadi-di-tanimbar-maluku-tak-berpotensi-tsunami
 - Badan Geologi Turunkan Tim Kaji Kemunculan Sinkhole di Tengah Sawah Sumbar (02:50 WIB)
   https://news.detik.com/berita/d-8301427/badan-geologi-turunkan-tim-kaji-kemunculan-sinkhole-di-tengah-sawah-sumbar
 - Sumberasih Probolinggo Dilanda Banjir, Ketinggian Air Capai 1 Meter (02:01 WIB)
