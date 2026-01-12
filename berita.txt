@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Senin, 12-01-2026
-Terakhir diperbarui: 18:28 WIB
+Terakhir diperbarui: 18:44 WIB
 ========================================
 
 Senin, 12-01-2026
@@ -9,6 +9,20 @@ Senin, 12-01-2026
 
 [Kompas]
 
+- Bahaya Air Banjir bagi Kampas Rem dan Cakram Motor (18:41 WIB)
+  https://otomotif.kompas.com/read/2026/01/12/184100015/bahaya-air-banjir-bagi-kampas-rem-dan-cakram-motor?utm_source=ABC&utm_medium=rss
+- Megawati: Pilkada Lewat DPRD Sistem Masa Lalu, Tak Jamin Penguatan Demokrasi (18:40 WIB)
+  https://nasional.kompas.com/read/2026/01/12/18400751/megawati-pilkada-lewat-dprd-sistem-masa-lalu-tak-jamin-penguatan-demokrasi?utm_source=ABC&utm_medium=rss
+- Bulog: Beras SPHP yang Satu Harga, Bukan Beras Premium (18:38 WIB)
+  https://money.kompas.com/read/2026/01/12/183800626/bulog--beras-sphp-yang-satu-harga-bukan-beras-premium?utm_source=ABC&utm_medium=rss
+- Gara-gara Konten Asusila, Grok AI Dibatasi Elon Musk hingga Diblokir Komdigi (18:35 WIB)
+  https://tekno.kompas.com/read/2026/01/12/18350027/gara-gara-konten-asusila-grok-ai-dibatasi-elon-musk-hingga-diblokir-komdigi?utm_source=ABC&utm_medium=rss
+- Mengapa Mengurangi Gula Tambahan Bisa Bikin Tubuh Ramping? Ini Penjelasan Dokter Gizi (18:35 WIB)
+  https://lifestyle.kompas.com/read/2026/01/12/183500920/mengapa-mengurangi-gula-tambahan-bisa-bikin-tubuh-ramping-ini-penjelasan?utm_source=ABC&utm_medium=rss
+- BMKG Ungkap Penyebab Hujan Lebat di Jabodetabek Hari Ini yang Picu Banjir (18:34 WIB)
+  https://megapolitan.kompas.com/read/2026/01/12/18341131/bmkg-ungkap-penyebab-hujan-lebat-di-jabodetabek-hari-ini-yang-picu-banjir?utm_source=ABC&utm_medium=rss
+- Megawati: Pilkada via DPRD Kemunduran Demokrasi dan Menentang Konstitusi (18:29 WIB)
+  https://nasional.kompas.com/read/2026/01/12/18294271/megawati-pilkada-via-dprd-kemunduran-demokrasi-dan-menentang-konstitusi?utm_source=ABC&utm_medium=rss
 - PDI-P Jadi Partai Penyeimbang, Puan Ungkap 4 Sikap Politik yang Wajib Diterapkan Kader (18:26 WIB)
   https://nasional.kompas.com/read/2026/01/12/18263211/pdi-p-jadi-partai-penyeimbang-puan-ungkap-4-sikap-politik-yang-wajib?utm_source=ABC&utm_medium=rss
 - Supir Truk Kabur ke Lebak Usai Bunuh Istri Siri di Kamar Kos Bekasi (18:24 WIB)
@@ -902,6 +916,16 @@ Senin, 12-01-2026
 
 [Detik]
 
+- Banjir di Jalan Boulevard dan Yos Sudarso Jakut Surut, Lalin Kembali Normal (18:34 WIB)
+  https://news.detik.com/berita/d-8304098/banjir-di-jalan-boulevard-dan-yos-sudarso-jakut-surut-lalin-kembali-normal
+- Pesan Prabowo ke Siswa Sekolah Rakyat: Jangan Kalian Berkecil Hati (18:33 WIB)
+  https://news.detik.com/berita/d-8304097/pesan-prabowo-ke-siswa-sekolah-rakyat-jangan-kalian-berkecil-hati
+- 21 Poin Rekomendasi Rakernas PDIP: Partai Penyeimbang-Tolak Pilkada Via DPRD (18:19 WIB)
+  https://news.detik.com/berita/d-8304058/21-poin-rekomendasi-rakernas-pdip-partai-penyeimbang-tolak-pilkada-via-dprd
+- Besok, Polisi Periksa Pelapor Timothy Ronald Terkait Dugaan Penipuan Kripto (18:18 WIB)
+  https://news.detik.com/berita/d-8304056/besok-polisi-periksa-pelapor-timothy-ronald-terkait-dugaan-penipuan-kripto
+- 2 Maling Motor Bersenpi di Jakbar Didor Kakinya karena Melawan Saat Dibekuk (18:18 WIB)
+  https://news.detik.com/berita/d-8304054/2-maling-motor-bersenpi-di-jakbar-didor-kakinya-karena-melawan-saat-dibekuk
 - Polisi Ungkap Sekeluarga Tewas di Warakas Jakut Terindikasi Keracunan (18:15 WIB)
   https://news.detik.com/berita/d-8304049/polisi-ungkap-sekeluarga-tewas-di-warakas-jakut-terindikasi-keracunan
 - Maling Motor di Jakbar Ngaku Dapat Senpi untuk Tembak Warga dari Lampung (18:15 WIB)
