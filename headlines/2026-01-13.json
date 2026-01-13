@@ -1,6 +1,256 @@
 {
   "Kompas": [
     {
+      "title": "John Herdman: Timnas Indonesia Telah Membuat Langkah Besar",
+      "link": "https://bola.kompas.com/read/2026/01/13/10185218/john-herdman-timnas-indonesia-telah-membuat-langkah-besar?utm_source=ABC&utm_medium=rss",
+      "time": "10:18 WIB"
+    },
+    {
+      "title": "Penjelasan Soal Bayar Pajak Kendaraan dengan Meminjam KTP Pemilik Lama",
+      "link": "https://otomotif.kompas.com/read/2026/01/13/101200515/penjelasan-soal-bayar-pajak-kendaraan-dengan-meminjam-ktp-pemilik-lama?utm_source=ABC&utm_medium=rss",
+      "time": "10:12 WIB"
+    },
+    {
+      "title": "Eksploitasi Air Tanah Jadi Biang Kerok Tanah Jakarta Turun 10 Cm Per Tahun",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/10080361/eksploitasi-air-tanah-jadi-biang-kerok-tanah-jakarta-turun-10-cm-per?utm_source=ABC&utm_medium=rss",
+      "time": "10:08 WIB"
+    },
+    {
+      "title": "Alarm Bahaya Cremonese Berbunyi Usai Emil Audero dkk Dihajar Juventus 0-5",
+      "link": "https://bola.kompas.com/read/2026/01/13/10061288/alarm-bahaya-cremonese-berbunyi-usai-emil-audero-dkk-dihajar-juventus-0-5?utm_source=ABC&utm_medium=rss",
+      "time": "10:06 WIB"
+    },
+    {
+      "title": "Rakernas PDI-P: Pemberantasan Korupsi Tak Boleh Dijadikan Alat Kekuasaan",
+      "link": "https://nasional.kompas.com/read/2026/01/13/10051111/rakernas-pdi-p-pemberantasan-korupsi-tak-boleh-dijadikan-alat-kekuasaan?utm_source=ABC&utm_medium=rss",
+      "time": "10:05 WIB"
+    },
+    {
+      "title": "Bernardo Silva Masuk Radar Como, Kontrak di Man City Segera Berakhir",
+      "link": "https://bola.kompas.com/read/2026/01/13/10031588/bernardo-silva-masuk-radar-como-kontrak-di-man-city-segera-berakhir?utm_source=ABC&utm_medium=rss",
+      "time": "10:03 WIB"
+    },
+    {
+      "title": "Lantang Megawati dan PDI-P Tolak Wacana Pilkada Via DPRD",
+      "link": "https://nasional.kompas.com/read/2026/01/13/10030531/lantang-megawati-dan-pdi-p-tolak-wacana-pilkada-via-dprd?utm_source=ABC&utm_medium=rss",
+      "time": "10:03 WIB"
+    },
+    {
+      "title": "Resmi, Gemini Jadi Otak AI Baru Apple Siri",
+      "link": "https://tekno.kompas.com/read/2026/01/13/10030017/resmi-gemini-jadi-otak-ai-baru-apple-siri?utm_source=ABC&utm_medium=rss",
+      "time": "10:03 WIB"
+    },
+    {
+      "title": "John Herdman: Saya Tak Lihat Paspor, Keberagaman Kekuatan Timnas Indonesia",
+      "link": "https://bola.kompas.com/read/2026/01/13/10024058/john-herdman-saya-tak-lihat-paspor-keberagaman-kekuatan-timnas-indonesia?utm_source=ABC&utm_medium=rss",
+      "time": "10:02 WIB"
+    },
+    {
+      "title": "Tips Beli Mobil Matik Bekas: Wajib Test Drive dan Cek Oli Matik",
+      "link": "https://otomotif.kompas.com/read/2026/01/13/100200915/tips-beli-mobil-matik-bekas--wajib-test-drive-dan-cek-oli-matik?utm_source=ABC&utm_medium=rss",
+      "time": "10:02 WIB"
+    },
+    {
+      "title": "Perjalanan Kisah Asmara Aurelie Moeremans hingga Akhirnya Menikah",
+      "link": "https://lifestyle.kompas.com/read/2026/01/13/100100220/perjalanan-kisah-asmara-aurelie-moeremans-hingga-akhirnya-menikah?utm_source=ABC&utm_medium=rss",
+      "time": "10:01 WIB"
+    },
+    {
+      "title": "Sering Disangka Sama, Ini Perbedaan PT Toba Pulp Lestari dan PT TBS Energi Utama (TOBA)",
+      "link": "https://money.kompas.com/read/2026/01/13/100052126/sering-disangka-sama-ini-perbedaan-pt-toba-pulp-lestari-dan-pt-tbs-energi?utm_source=ABC&utm_medium=rss",
+      "time": "10:00 WIB"
+    },
+    {
+      "title": "Anggaran Pembangunan Sekolah Rakyat Tahap II Rp 26,24 Triliun",
+      "link": "https://www.kompas.com/properti/read/2026/01/13/100000121/anggaran-pembangunan-sekolah-rakyat-tahap-ii-rp-26-24-triliun?utm_source=ABC&utm_medium=rss",
+      "time": "10:00 WIB"
+    },
+    {
+      "title": "Tiket Pesawat Jakarta-Aceh, Antara Mahal dan Kebutuhan",
+      "link": "https://money.kompas.com/read/2026/01/13/100000326/tiket-pesawat-jakarta-aceh-antara-mahal-dan-kebutuhan?utm_source=ABC&utm_medium=rss",
+      "time": "10:00 WIB"
+    },
+    {
+      "title": "Trauma Nyetir ke Jakarta Saat Hujan, Warga Bogor: Gila Banget Macetnya",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09572181/trauma-nyetir-ke-jakarta-saat-hujan-warga-bogor-gila-banget-macetnya?utm_source=ABC&utm_medium=rss",
+      "time": "09:57 WIB"
+    },
+    {
+      "title": "IHSG Dibuka Menguat 0,48 Persen ke Level 8.927 Selasa Pagi Ini",
+      "link": "https://money.kompas.com/read/2026/01/13/095714226/ihsg-dibuka-menguat-048-persen-ke-level-8927-selasa-pagi-ini?utm_source=ABC&utm_medium=rss",
+      "time": "09:57 WIB"
+    },
+    {
+      "title": "Hujan dan Sampah Basah Hambat Pengangkutan Sampah di Pasar Induk Kramat Jati",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09474991/hujan-dan-sampah-basah-hambat-pengangkutan-sampah-di-pasar-induk-kramat?utm_source=ABC&utm_medium=rss",
+      "time": "09:47 WIB"
+    },
+    {
+      "title": "BMKG Ungkap Biang Kerok Hujan Deras di Jabodetabek Senin Pagi",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09465131/bmkg-ungkap-biang-kerok-hujan-deras-di-jabodetabek-senin-pagi?utm_source=ABC&utm_medium=rss",
+      "time": "09:46 WIB"
+    },
+    {
+      "title": "Eks Wamenaker Noel Ebenezer Bakal Hadapi Dakwaan Senin Depan",
+      "link": "https://nasional.kompas.com/read/2026/01/13/09451121/eks-wamenaker-noel-ebenezer-bakal-hadapi-dakwaan-senin-depan?utm_source=ABC&utm_medium=rss",
+      "time": "09:45 WIB"
+    },
+    {
+      "title": "Bahlil Sebut Indonesia Mulai Produksi BBM Setara Euro 5",
+      "link": "https://otomotif.kompas.com/read/2026/01/13/094200015/bahlil-sebut-indonesia-mulai-produksi-bbm-setara-euro-5?utm_source=ABC&utm_medium=rss",
+      "time": "09:42 WIB"
+    },
+    {
+      "title": "Operasional Penerbangan di Bandara Soekarno-Hatta Kembali Normal Usai Cuaca Buruk",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09412411/operasional-penerbangan-di-bandara-soekarno-hatta-kembali-normal-usai?utm_source=ABC&utm_medium=rss",
+      "time": "09:41 WIB"
+    },
+    {
+      "title": "Pemkot Jakarta Timur Buka 1.420 Petak Makam Baru Usai Tertibkan 2 TPU",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09361001/pemkot-jakarta-timur-buka-1420-petak-makam-baru-usai-tertibkan-2-tpu?utm_source=ABC&utm_medium=rss",
+      "time": "09:36 WIB"
+    },
+    {
+      "title": "Prabowo Peringatkan Petinggi BUMN: Kalau Tak Sanggup Mengabdi, Berhenti Saja",
+      "link": "https://nasional.kompas.com/read/2026/01/13/09352881/prabowo-peringatkan-petinggi-bumn-kalau-tak-sanggup-mengabdi-berhenti-saja?utm_source=ABC&utm_medium=rss",
+      "time": "09:35 WIB"
+    },
+    {
+      "title": "Menyoal Risiko Salah Sasaran Posbakum Desa, Jangan Sampai Temani Pengusaha Tindas Rakyat",
+      "link": "https://nasional.kompas.com/read/2026/01/13/09331861/menyoal-risiko-salah-sasaran-posbakum-desa-jangan-sampai-temani-pengusaha?utm_source=ABC&utm_medium=rss",
+      "time": "09:33 WIB"
+    },
+    {
+      "title": "Banjir di Sejumlah Wilayah Jakarta Selatan Dipastikan Surut",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09320441/banjir-di-sejumlah-wilayah-jakarta-selatan-dipastikan-surut?utm_source=ABC&utm_medium=rss",
+      "time": "09:32 WIB"
+    },
+    {
+      "title": "Hasil Undian Piala FA: Liverpool Vs Brighton, Arsenal Lawan Tim Divisi Tiga",
+      "link": "https://bola.kompas.com/read/2026/01/13/09311398/hasil-undian-piala-fa-liverpool-vs-brighton-arsenal-lawan-tim-divisi-tiga?utm_source=ABC&utm_medium=rss",
+      "time": "09:31 WIB"
+    },
+    {
+      "title": "Sapu Bersih Swiss Stage, Alter Ego Esports Lolos Knockout Stage M7 World Championship",
+      "link": "https://tekno.kompas.com/read/2026/01/13/09310007/sapu-bersih-swiss-stage-alter-ego-esports-lolos-knockout-stage-m7-world?utm_source=ABC&utm_medium=rss",
+      "time": "09:31 WIB"
+    },
+    {
+      "title": "Banjir Belum Surut di Tol Sedyatmo, Ini Mitigasi Jasa Marga",
+      "link": "https://www.kompas.com/properti/read/2026/01/13/093035221/banjir-belum-surut-di-tol-sedyatmo-ini-mitigasi-jasa-marga?utm_source=ABC&utm_medium=rss",
+      "time": "09:30 WIB"
+    },
+    {
+      "title": "Pemprov DKI Sebut Tanah Jakarta Terus Turun 5–10 Cm Per Tahun",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09295341/pemprov-dki-sebut-tanah-jakarta-terus-turun-510-cm-per-tahun?utm_source=ABC&utm_medium=rss",
+      "time": "09:29 WIB"
+    },
+    {
+      "title": "SBY: Demokrat Bersama Prabowo Harus Jadi Solusi, Banyak Masalah Dihadapi, Jangan Ditambah Lagi",
+      "link": "https://nasional.kompas.com/read/2026/01/13/09280451/sby-demokrat-bersama-prabowo-harus-jadi-solusi-banyak-masalah-dihadapi?utm_source=ABC&utm_medium=rss",
+      "time": "09:28 WIB"
+    },
+    {
+      "title": "Trump Ancam Tarif 25 Persen untuk Negara yang Berbisnis dengan Iran",
+      "link": "https://money.kompas.com/read/2026/01/13/092515926/trump-ancam-tarif-25-persen-untuk-negara-yang-berbisnis-dengan-iran?utm_source=ABC&utm_medium=rss",
+      "time": "09:25 WIB"
+    },
+    {
+      "title": "Kondisi Terkini Jalan Yos Sudarso: Lalin Lancar, Kepadatan di Halte Sunter dan Tol Kebon Bawang",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09245361/kondisi-terkini-jalan-yos-sudarso-lalin-lancar-kepadatan-di-halte-sunter?utm_source=ABC&utm_medium=rss",
+      "time": "09:24 WIB"
+    },
+    {
+      "title": "SBY Meyakini Founding Fathers Tersenyum Lihat Kondisi RI Saat Ini",
+      "link": "https://nasional.kompas.com/read/2026/01/13/09232471/sby-meyakini-founding-fathers-tersenyum-lihat-kondisi-ri-saat-ini?utm_source=ABC&utm_medium=rss",
+      "time": "09:23 WIB"
+    },
+    {
+      "title": "Honda Civic Type R Dipermak ala Super GT, Cuma Ada 20 Unit",
+      "link": "https://otomotif.kompas.com/read/2026/01/13/092200815/honda-civic-type-r-dipermak-ala-super-gt-cuma-ada-20-unit?utm_source=ABC&utm_medium=rss",
+      "time": "09:22 WIB"
+    },
+    {
+      "title": "Gara-gara Trump, IHSG Anjlok Pertama Kali di 2026 Meski Sempat Cetak Rekor Tertinggi",
+      "link": "https://money.kompas.com/read/2026/01/13/091854026/gara-gara-trump-ihsg-anjlok-pertama-kali-di-2026-meski-sempat-cetak-rekor?utm_source=ABC&utm_medium=rss",
+      "time": "09:18 WIB"
+    },
+    {
+      "title": "Lalu Lintas Jakarta Pagi Ini, Jalan Raya Bogor–PGC Lancar",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09155911/lalu-lintas-jakarta-pagi-ini-jalan-raya-bogorpgc-lancar?utm_source=ABC&utm_medium=rss",
+      "time": "09:15 WIB"
+    },
+    {
+      "title": "Cara Mengurus BPKB Hilang atau Rusak, Ini Prosedur Resminya",
+      "link": "https://otomotif.kompas.com/read/2026/01/13/091200815/cara-mengurus-bpkb-hilang-atau-rusak-ini-prosedur-resminya?utm_source=ABC&utm_medium=rss",
+      "time": "09:12 WIB"
+    },
+    {
+      "title": "Mau Travelling Saat Musim Hujan, Ini yang Saya Lakukan Supaya Tidak Kehujanan",
+      "link": "https://travel.kompas.com/read/2026/01/13/090900227/mau-travelling-saat-musim-hujan-ini-yang-saya-lakukan-supaya-tidak-kehujanan?utm_source=ABC&utm_medium=rss",
+      "time": "09:09 WIB"
+    },
+    {
+      "title": "BMKG: Banten Diprakirakan Hujan Deras dan Angin Kencang hingga 18 Januari",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09082751/bmkg-banten-diprakirakan-hujan-deras-dan-angin-kencang-hingga-18-januari?utm_source=ABC&utm_medium=rss",
+      "time": "09:08 WIB"
+    },
+    {
+      "title": "Korupsi Berulang Kali Pegawai Pajak: Bergaji Besar tapi Tetap Tamak",
+      "link": "https://nasional.kompas.com/read/2026/01/13/09070161/korupsi-berulang-kali-pegawai-pajak-bergaji-besar-tapi-tetap-tamak?utm_source=ABC&utm_medium=rss",
+      "time": "09:07 WIB"
+    },
+    {
+      "title": "SNPMB 2026 Resmi Dibuka, Ini Cara Registrasi Akun SNPMB Siswa dan Jadwal SNBP",
+      "link": "https://money.kompas.com/read/2026/01/13/090655826/snpmb-2026-resmi-dibuka-ini-cara-registrasi-akun-snpmb-siswa-dan-jadwal-snbp?utm_source=ABC&utm_medium=rss",
+      "time": "09:06 WIB"
+    },
+    {
+      "title": "PDI-P Jadi Partai Penyeimbang, Megawati: Kritik Harus Berbasis Data",
+      "link": "https://nasional.kompas.com/read/2026/01/13/09061561/pdi-p-jadi-partai-penyeimbang-megawati-kritik-harus-berbasis-data?utm_source=ABC&utm_medium=rss",
+      "time": "09:06 WIB"
+    },
+    {
+      "title": "Bukan Cuma Sehat, Olahraga Bisa Bikin Kulit Glowing Menurut Dokter",
+      "link": "https://lifestyle.kompas.com/read/2026/01/13/090500720/bukan-cuma-sehat-olahraga-bisa-bikin-kulit-glowing-menurut-dokter?utm_source=ABC&utm_medium=rss",
+      "time": "09:05 WIB"
+    },
+    {
+      "title": "Banjir Jakarta Mulai Surut, Sisa 22 RT dan 5 Ruas Jalan Masih Tergenang",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/09022231/banjir-jakarta-mulai-surut-sisa-22-rt-dan-5-ruas-jalan-masih-tergenang?utm_source=ABC&utm_medium=rss",
+      "time": "09:02 WIB"
+    },
+    {
+      "title": "Vivo Y500i Meluncur, HP Tangguh dengan Baterai Jumbo 7.200 mAh",
+      "link": "https://tekno.kompas.com/read/2026/01/13/09020047/vivo-y500i-meluncur-hp-tangguh-dengan-baterai-jumbo-7.200-mah?utm_source=ABC&utm_medium=rss",
+      "time": "09:02 WIB"
+    },
+    {
+      "title": "Jakarta Diprediksi Hujan Ringan, Pengendara Diminta Waspada",
+      "link": "https://otomotif.kompas.com/read/2026/01/13/090200615/jakarta-diprediksi-hujan-ringan-pengendara-diminta-waspada?utm_source=ABC&utm_medium=rss",
+      "time": "09:02 WIB"
+    },
+    {
+      "title": "Cerita Luhut Tolak Toba Pulp Lestari Sejak Era Gus Dur",
+      "link": "https://money.kompas.com/read/2026/01/13/090000626/cerita-luhut-tolak-toba-pulp-lestari-sejak-era-gus-dur?utm_source=ABC&utm_medium=rss",
+      "time": "09:00 WIB"
+    },
+    {
+      "title": "Ada Demo Mahasiswa Hari Ini, Catat Titik dan Jalur Alternatifnya",
+      "link": "https://otomotif.kompas.com/read/2026/01/13/085713815/ada-demo-mahasiswa-hari-ini-catat-titik-dan-jalur-alternatifnya?utm_source=ABC&utm_medium=rss",
+      "time": "08:57 WIB"
+    },
+    {
+      "title": "Eks Warga TPU Kebon Nanas Gratis Rusunawa 6 Bulan, Masih Sanggup Sewa Rp 230.000",
+      "link": "https://megapolitan.kompas.com/read/2026/01/13/08493751/eks-warga-tpu-kebon-nanas-gratis-rusunawa-6-bulan-masih-sanggup-sewa-rp?utm_source=ABC&utm_medium=rss",
+      "time": "08:49 WIB"
+    },
+    {
+      "title": "Selain Penipuan Segitiga, Modus Lelang Mobil Bekas Palsu Perlu Diwaspadai",
+      "link": "https://otomotif.kompas.com/read/2026/01/13/084200215/selain-penipuan-segitiga-modus-lelang-mobil-bekas-palsu-perlu-diwaspadai?utm_source=ABC&utm_medium=rss",
+      "time": "08:42 WIB"
+    },
+    {
       "title": "KPK Dalami Bupati Ponorogo Sugiri Gunakan Rekening Ajudan Jadi Penampung Suap",
       "link": "https://nasional.kompas.com/read/2026/01/13/08374111/kpk-dalami-bupati-ponorogo-sugiri-gunakan-rekening-ajudan-jadi-penampung?utm_source=ABC&utm_medium=rss",
       "time": "08:37 WIB"
@@ -467,6 +717,91 @@
     }
   ],
   "Detik": [
+    {
+      "title": "Waspada! Potensi Banjir Pesisir di 12 Wilayah Utara Jakarta 13-20 Januari",
+      "link": "https://news.detik.com/berita/d-8304705/waspada-potensi-banjir-pesisir-di-12-wilayah-utara-jakarta-13-20-januari",
+      "time": "10:05 WIB"
+    },
+    {
+      "title": "Polda Metro Evakuasi Puluhan Penumpang Kapal Mati Mesin di Pulau Onrust",
+      "link": "https://news.detik.com/berita/d-8304694/polda-metro-evakuasi-puluhan-penumpang-kapal-mati-mesin-di-pulau-onrust",
+      "time": "09:56 WIB"
+    },
+    {
+      "title": "Pemotor di Bogor Luka Berat Usai Terpental saat Menghantam Jalan Berlubang",
+      "link": "https://news.detik.com/berita/d-8304681/pemotor-di-bogor-luka-berat-usai-terpental-saat-menghantam-jalan-berlubang",
+      "time": "09:44 WIB"
+    },
+    {
+      "title": "Polres Serang Dirikan Dapur Umum Bagi Warga Terdampak Banjir di Serang",
+      "link": "https://news.detik.com/berita/d-8304668/polres-serang-dirikan-dapur-umum-bagi-warga-terdampak-banjir-di-serang",
+      "time": "09:32 WIB"
+    },
+    {
+      "title": "Pujian Prabowo ke Siswa Sekolah Rakyat hingga Janjikan Belajar ke LN",
+      "link": "https://news.detik.com/berita/d-8304657/pujian-prabowo-ke-siswa-sekolah-rakyat-hingga-janjikan-belajar-ke-ln",
+      "time": "09:24 WIB"
+    },
+    {
+      "title": "Hadiri Peresmian Sekolah Rakyat, MenPAN-RB: Sejalan dengan Asta Cita",
+      "link": "https://news.detik.com/berita/d-8304656/hadiri-peresmian-sekolah-rakyat-menpan-rb-sejalan-dengan-asta-cita",
+      "time": "09:21 WIB"
+    },
+    {
+      "title": "Muda Mudi Ini Edarkan Vape Obat Keras di Jakarta, Berujung Diringkus Polisi",
+      "link": "https://news.detik.com/berita/d-8304653/muda-mudi-ini-edarkan-vape-obat-keras-di-jakarta-berujung-diringkus-polisi",
+      "time": "09:18 WIB"
+    },
+    {
+      "title": "Puncak Hari Desa Nasional Digelar di Boyolali, Ada Liga Desa-Festival Film",
+      "link": "https://news.detik.com/berita/d-8304650/puncak-hari-desa-nasional-digelar-di-boyolali-ada-liga-desa-festival-film",
+      "time": "09:15 WIB"
+    },
+    {
+      "title": "Eddy Soeparno Bahas Potensi Geothermal RI di Abu Dhabi Sustainability Week",
+      "link": "https://news.detik.com/berita/d-8304623/eddy-soeparno-bahas-potensi-geothermal-ri-di-abu-dhabi-sustainability-week",
+      "time": "09:07 WIB"
+    },
+    {
+      "title": "22 RT dan 5 Ruas Jalan Masih Terendam Banjir Pagi Ini, Ketinggian Air 35 Cm",
+      "link": "https://news.detik.com/berita/d-8304622/22-rt-dan-5-ruas-jalan-masih-terendam-banjir-pagi-ini-ketinggian-air-35-cm",
+      "time": "09:07 WIB"
+    },
+    {
+      "title": "Penyebab Genangan di Tol Sedyatmo Arah Soetta Belum Surut Pagi Ini",
+      "link": "https://news.detik.com/berita/d-8304610/penyebab-genangan-di-tol-sedyatmo-arah-soetta-belum-surut-pagi-ini",
+      "time": "09:03 WIB"
+    },
+    {
+      "title": "Dari Boyolali, Hari Desa Nasional 2026 Suarakan Pembangunan Inklusif",
+      "link": "https://news.detik.com/berita/d-8304327/dari-boyolali-hari-desa-nasional-2026-suarakan-pembangunan-inklusif",
+      "time": "09:00 WIB"
+    },
+    {
+      "title": "Prabowo Bicara Kabinet Kompak, Golkar: Koalisi Permanen Bantu Kesolidan",
+      "link": "https://news.detik.com/berita/d-8304591/prabowo-bicara-kabinet-kompak-golkar-koalisi-permanen-bantu-kesolidan",
+      "time": "08:41 WIB"
+    },
+    {
+      "title": "Titik-titik Kepadatan Lalin di Tol Dalkot Pagi Ini",
+      "link": "https://news.detik.com/berita/d-8304588/titik-titik-kepadatan-lalin-di-tol-dalkot-pagi-ini",
+      "time": "08:40 WIB"
+    },
+    {
+      "title": "Masih Ada Genangan di Tol Sedyatmo Arah Soetta Pagi Ini, Lalin Melambat",
+      "link": "https://news.detik.com/berita/d-8304587/masih-ada-genangan-di-tol-sedyatmo-arah-soetta-pagi-ini-lalin-melambat",
+      "time": "08:39 WIB"
+    },
+    {
+      "title": "Sidang Perdana Eks Wamenaker Noel dkk di Kasus Pemerasan Digelar 19 Januari",
+      "link": "https://news.detik.com/berita/d-8304582/sidang-perdana-eks-wamenaker-noel-dkk-di-kasus-pemerasan-digelar-19-januari",
+      "time": "08:34 WIB"
+    },
+    {
+      "title": "Trio Maling Motor Dar Der Dor di Jakbar Kini Tertunduk Lesu",
+      "link": "https://news.detik.com/berita/d-8304579/trio-maling-motor-dar-der-dor-di-jakbar-kini-tertunduk-lesu",
+      "time": "08:32 WIB"
+    },
     {
       "title": "PKB: Pihak Luar yang Nilai Ada Perpecahan di Kabinet Tak Paham Fakta",
       "link": "https://news.detik.com/berita/d-8304567/pkb-pihak-luar-yang-nilai-ada-perpecahan-di-kabinet-tak-paham-fakta",
