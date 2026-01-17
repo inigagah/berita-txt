@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Sabtu, 17-01-2026
-Terakhir diperbarui: 20:43 WIB
+Terakhir diperbarui: 20:56 WIB
 ========================================
 
 Sabtu, 17-01-2026
@@ -9,6 +9,10 @@ Sabtu, 17-01-2026
 
 [Kompas]
 
+- Live Skor Man United Vs Man City: Mbeumo Bawa MU Unggul 1-0 (20:55 WIB)
+  https://bola.kompas.com/read/2026/01/17/20551778/live-skor-man-united-vs-man-city-mbeumo-bawa-mu-unggul-1-0?utm_source=ABC&utm_medium=rss
+- Skor Real Madrid Vs Levante: Los Blancos Buntu di Babak Pertama (20:49 WIB)
+  https://bola.kompas.com/read/2026/01/17/20494998/skor-real-madrid-vs-levante-los-blancos-buntu-di-babak-pertama?utm_source=ABC&utm_medium=rss
 - Cuaca Buruk Hambat Pencarian Pesawat Hilang di Maros (20:39 WIB)
   https://nasional.kompas.com/read/2026/01/17/20394191/cuaca-buruk-hambat-pencarian-pesawat-hilang-di-maros?utm_source=ABC&utm_medium=rss
 - Pesawat Hilang di Maros Belum Ditemukan, Pencarian Dilanjutkan Besok (20:32 WIB)
@@ -538,6 +542,8 @@ Sabtu, 17-01-2026
 
 [Detik]
 
+- Eddy Soeparno Bicara Strategi Mitigasi Indonesia Hadapi Krisis Iklim (20:38 WIB)
+  https://news.detik.com/berita/d-8311918/eddy-soeparno-bicara-strategi-mitigasi-indonesia-hadapi-krisis-iklim
 - 400 Personel Tim SAR Dikerahkan Cari Pesawat ATR 42-500 Diduga Jatuh di Maros (20:25 WIB)
   https://news.detik.com/berita/d-8311897/400-personel-tim-sar-dikerahkan-cari-pesawat-atr-42-500-diduga-jatuh-di-maros
 - Kompensasi Pesawat Delay Berdasarkan Kategori Keterlambatan (20:16 WIB)
