@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Senin, 19-01-2026
-Terakhir diperbarui: 18:33 WIB
+Terakhir diperbarui: 18:50 WIB
 ========================================
 
 Senin, 19-01-2026
@@ -9,7 +9,19 @@ Senin, 19-01-2026
 
 [Kompas]
 
-- Perjuangan Tanti Pegawai SPPG Paseban, Bujuk Orangtua yang Tolak MBG untuk Siswa (18:33 WIB)
+- Tiga Tersangka Klaster 1 Kasus Ijazah Jokowi Diperiksa Polda Metro Pekan Ini (18:45 WIB)
+  https://megapolitan.kompas.com/read/2026/01/19/18455081/tiga-tersangka-klaster-1-kasus-ijazah-jokowi-diperiksa-polda-metro-pekan?utm_source=ABC&utm_medium=rss
+- Bagnaia Tegaskan Tak Punya Masalah Personal dengan Marquez (18:41 WIB)
+  https://otomotif.kompas.com/read/2026/01/19/184100215/bagnaia-tegaskan-tak-punya-masalah-personal-dengan-marquez?utm_source=ABC&utm_medium=rss
+- Curah Hujan Sabtu–Minggu Bikin Banjir, Pramono: Tertinggi Selama Saya Gubernur (18:39 WIB)
+  https://megapolitan.kompas.com/read/2026/01/19/18392991/curah-hujan-sabtuminggu-bikin-banjir-pramono-tertinggi-selama-saya?utm_source=ABC&utm_medium=rss
+- Gerakan Rakyat Ingin Anies Presiden, Dede Yusuf: Bisa Lolos Verifikasi? (18:39 WIB)
+  https://nasional.kompas.com/read/2026/01/19/18392111/gerakan-rakyat-ingin-anies-presiden-dede-yusuf-bisa-lolos-verifikasi?utm_source=ABC&utm_medium=rss
+- Profil Bupati Pati Sudewo yang Kena OTT KPK, Sempat Akan Dimakzulkan (18:39 WIB)
+  https://nasional.kompas.com/read/2026/01/19/18390811/profil-bupati-pati-sudewo-yang-kena-ott-kpk-sempat-akan-dimakzulkan?utm_source=ABC&utm_medium=rss
+- Aktivasi Akun Coretax, Dirjen Pajak: Tembus 12,15 Juta Wajib Pajak (18:39 WIB)
+  https://money.kompas.com/read/2026/01/19/183900826/aktivasi-akun-coretax-dirjen-pajak--tembus-12-15-juta-wajib-pajak?utm_source=ABC&utm_medium=rss
+- Perjuangan Tanti Pegawai SPPG Paseban, Bujuk Orangtua yang Tolak MBG untuk Anak (18:33 WIB)
   https://megapolitan.kompas.com/read/2026/01/19/18334121/perjuangan-tanti-pegawai-sppg-paseban-bujuk-orangtua-yang-tolak-mbg-untuk?utm_source=ABC&utm_medium=rss
 - Perpanjangan Status Darurat Berakhir, Sampah Masih Menumpuk di Tangsel (18:22 WIB)
   https://megapolitan.kompas.com/read/2026/01/19/18225501/perpanjangan-status-darurat-berakhir-sampah-masih-menumpuk-di-tangsel?utm_source=ABC&utm_medium=rss
@@ -868,6 +880,12 @@ Senin, 19-01-2026
 
 [Detik]
 
+- Kontroversi Bupati Pati Sudewo yang Kini Kena OTT KPK (18:37 WIB)
+  https://news.detik.com/berita/d-8314740/kontroversi-bupati-pati-sudewo-yang-kini-kena-ott-kpk
+- Kena OTT, Bupati Pati Sudewo Diperiksa KPK di Polres Kudus (18:34 WIB)
+  https://news.detik.com/berita/d-8314734/kena-ott-bupati-pati-sudewo-diperiksa-kpk-di-polres-kudus
+- Pramono Sebut Curah Hujan di Jakarta Tinggi, Pemprov Genjot Modifikasi Cuaca (18:27 WIB)
+  https://news.detik.com/berita/d-8314726/pramono-sebut-curah-hujan-di-jakarta-tinggi-pemprov-genjot-modifikasi-cuaca
 - Polisi Olah TKP Suami Bunuh Istri di Sukaraja Bogor (18:07 WIB)
   https://news.detik.com/berita/d-8314701/polisi-olah-tkp-suami-bunuh-istri-di-sukaraja-bogor
 - Gerakan Rakyat Deklarasi Dukung Anies Baswedan Jadi Presiden, Ini Sikap PKS (18:07 WIB)
