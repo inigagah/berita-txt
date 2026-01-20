@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Rabu, 21-01-2026
-Terakhir diperbarui: 00:55 WIB
+Terakhir diperbarui: 01:34 WIB
 ========================================
 
 Rabu, 21-01-2026
@@ -9,6 +9,10 @@ Rabu, 21-01-2026
 
 [Kompas]
 
+- Prabowo: Inggris Dukung Rencana RI Bangun 1.500 Kapal Ikan (01:02 WIB)
+  https://nasional.kompas.com/read/2026/01/21/01023001/prabowo-inggris-dukung-rencana-ri-bangun-1500-kapal-ikan?utm_source=ABC&utm_medium=rss
+- KNKT: Pesawat ATR 42-500 Kebablasan Saat akan Landing lalu Tabrak Gunung (00:58 WIB)
+  https://nasional.kompas.com/read/2026/01/21/00584371/knkt-pesawat-atr-42-500-kebablasan-saat-akan-landing-lalu-tabrak-gunung?utm_source=ABC&utm_medium=rss
 - Eks Konsultan Nadiem Sebut Spesifikasi Chromebook Tak Dikunci ke 1 Merek (00:47 WIB)
   https://nasional.kompas.com/read/2026/01/21/00472751/eks-konsultan-nadiem-sebut-spesifikasi-chromebook-tak-dikunci-ke-1-merek?utm_source=ABC&utm_medium=rss
 - KPK: Tim 8 Bupati Pati Sudewo Tak Terkait Gerindra (00:40 WIB)
@@ -22,6 +26,8 @@ Rabu, 21-01-2026
 
 [Detik]
 
+- KPK Akui Sempat Kesulitan saat OTT Bupati Pati Sudewo (01:00 WIB)
+  https://news.detik.com/berita/d-8316905/kpk-akui-sempat-kesulitan-saat-ott-bupati-pati-sudewo
 - KPK Ungkap Tarif &#x27;All In&#x27; Terkait Pemerasan Bupati Sudewo ke Perangkat Desa (00:00 WIB)
   https://news.detik.com/berita/d-8316900/kpk-ungkap-tarif-all-in-terkait-pemerasan-bupati-sudewo-ke-perangkat-desa
 
