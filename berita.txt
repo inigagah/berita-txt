@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Sabtu, 24-01-2026
-Terakhir diperbarui: 21:41 WIB
+Terakhir diperbarui: 21:53 WIB
 ========================================
 
 Sabtu, 24-01-2026
@@ -9,6 +9,8 @@ Sabtu, 24-01-2026
 
 [Kompas]
 
+- Polisi Periksa ART, Sopir, dan Sekuriti Usai Lula Lahfah Ditemukan Meninggal (21:45 WIB)
+  https://megapolitan.kompas.com/read/2026/01/24/21453741/polisi-periksa-art-sopir-dan-sekuriti-usai-lula-lahfah-ditemukan?utm_source=ABC&utm_medium=rss
 - Pelajar Tewas Tenggelam Saat Berenang di GOR Senen (21:32 WIB)
   https://megapolitan.kompas.com/read/2026/01/24/21320521/pelajar-tewas-tenggelam-saat-berenang-di-gor-senen?utm_source=ABC&utm_medium=rss
 - Singapura Kucurkan Lebih dari Rp 13 Triliun untuk Riset AI hingga 2030 (21:31 WIB)
@@ -630,6 +632,14 @@ Sabtu, 24-01-2026
 
 [Detik]
 
+- Tol Merak KM 50 Masih Tergenang Malam Ini, Lalin Macet (21:41 WIB)
+  https://news.detik.com/berita/d-8323608/tol-merak-km-50-masih-tergenang-malam-ini-lalin-macet
+- Eddy Soeparno Apresiasi Pidato Prabowo Bahas Investasi di WEF Davos 2026 (21:34 WIB)
+  https://news.detik.com/berita/d-8323602/eddy-soeparno-apresiasi-pidato-prabowo-bahas-investasi-di-wef-davos-2026
+- Air dari Tangerang Bikin Banjir Terparah Terjadi di Jakbar (21:32 WIB)
+  https://news.detik.com/berita/d-8323591/air-dari-tangerang-bikin-banjir-terparah-terjadi-di-jakbar
+- Waka MPR Dorong Peran Generasi Muda Bangun Ekosistem Pendidikan Inklusif (21:31 WIB)
+  https://news.detik.com/berita/d-8323590/waka-mpr-dorong-peran-generasi-muda-bangun-ekosistem-pendidikan-inklusif
 - Menko AHY Tinjau SMPN 1 Karang Baru, Pastikan Pemulihan Pascabanjir (21:21 WIB)
   https://news.detik.com/berita/d-8323582/menko-ahy-tinjau-smpn-1-karang-baru-pastikan-pemulihan-pascabanjir
 - Resmikan Huntara di Aceh Tamiang, AHY Tegaskan Rumah Kebutuhan Dasar Warga (21:19 WIB)
