@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Sabtu, 24-01-2026
-Terakhir diperbarui: 21:20 WIB
+Terakhir diperbarui: 21:41 WIB
 ========================================
 
 Sabtu, 24-01-2026
@@ -9,6 +9,16 @@ Sabtu, 24-01-2026
 
 [Kompas]
 
+- Pelajar Tewas Tenggelam Saat Berenang di GOR Senen (21:32 WIB)
+  https://megapolitan.kompas.com/read/2026/01/24/21320521/pelajar-tewas-tenggelam-saat-berenang-di-gor-senen?utm_source=ABC&utm_medium=rss
+- Singapura Kucurkan Lebih dari Rp 13 Triliun untuk Riset AI hingga 2030 (21:31 WIB)
+  https://money.kompas.com/read/2026/01/24/213140926/singapura-kucurkan-lebih-dari-rp-13-triliun-untuk-riset-ai-hingga-2030?utm_source=ABC&utm_medium=rss
+- Harga Nikel Tertekan, INCO Andalkan Strategi Keberlanjutan (21:24 WIB)
+  https://money.kompas.com/read/2026/01/24/212400526/harga-nikel-tertekan-inco-andalkan-strategi-keberlanjutan?utm_source=ABC&utm_medium=rss
+- Ahmad Ali Tegaskan Tak Pernah Bicara soal Gibran Jadi Lawan Politik Prabowo (21:21 WIB)
+  https://nasional.kompas.com/read/2026/01/24/21215551/ahmad-ali-tegaskan-tak-pernah-bicara-soal-gibran-jadi-lawan-politik-prabowo?utm_source=ABC&utm_medium=rss
+- Arsenal Vs Man United: Carrick Tegaskan Hasil Derbi Manchester Bukan Jaminan (21:21 WIB)
+  https://bola.kompas.com/read/2026/01/24/21213038/arsenal-vs-man-united-carrick-tegaskan-hasil-derbi-manchester-bukan-jaminan?utm_source=ABC&utm_medium=rss
 - Tren Pernikahan 2026, dari Pilihan Bulan hingga Konsep yang Semakin Personal (21:19 WIB)
   https://lifestyle.kompas.com/read/2026/01/24/211901020/tren-pernikahan-2026-dari-pilihan-bulan-hingga-konsep-yang-semakin?utm_source=ABC&utm_medium=rss
 - Hasil Persijap Vs PSM Makassar 2-0: Laskar Kalinyamat Akhiri 12 Laga Tanpa Kemenangan (21:13 WIB)
@@ -18,9 +28,11 @@ Sabtu, 24-01-2026
 - Bank Mandiri Perkuat Ekonomi Kerakyatan lewat Pemberdayaan UMKM (21:07 WIB)
   https://money.kompas.com/read/2026/01/24/210757026/bank-mandiri-perkuat-ekonomi-kerakyatan-lewat-pemberdayaan-umkm?utm_source=ABC&utm_medium=rss
 - Ajaib, Flyover Pesing dan Tol Bandara Banjir, Kok Bisa? (21:00 WIB)
-  https://www.kompas.com/properti/read/2026/01/24/210000121/ajaib-flyover-pesing-dan-tol-bandara-banjir-kok-bisa-?utm_source=ABC&utm_medium=rss
+  https://www.kompas.com/properti/read/2026/01/24/210000121/ajaib-flyover-pesing-dan-tol-bandara-banjir-kok-bisa?utm_source=ABC&utm_medium=rss
 - Dibuka Besok, Ini Link dan Cara Pesan Tiket Kereta Api untuk Mudik Lebaran 2026 serta Jadwalnya (21:00 WIB)
   https://tekno.kompas.com/read/2026/01/24/21000077/dibuka-besok-ini-link-dan-cara-pesan-tiket-kereta-api-untuk-mudik-lebaran-2026?utm_source=ABC&utm_medium=rss
+- Ajaib, Flyover Pesing dan Tol Bandara Banjir, Kok Bisa? (21:00 WIB)
+  https://www.kompas.com/properti/read/2026/01/24/210000121/ajaib-flyover-pesing-dan-tol-bandara-banjir-kok-bisa-?utm_source=ABC&utm_medium=rss
 - 5 Perbedaan Pola Pikir Orang Miskin, Kelas Menengah, dan Orang Kaya (20:54 WIB)
   https://money.kompas.com/read/2026/01/24/205459426/5-perbedaan-pola-pikir-orang-miskin-kelas-menengah-dan-orang-kaya?utm_source=ABC&utm_medium=rss
 - Perkenalan Layvin Kurzawa sebagai Pemain Persib, Media Perancis Bocorkan Jadwalnya (20:49 WIB)
@@ -618,6 +630,12 @@ Sabtu, 24-01-2026
 
 [Detik]
 
+- Menko AHY Tinjau SMPN 1 Karang Baru, Pastikan Pemulihan Pascabanjir (21:21 WIB)
+  https://news.detik.com/berita/d-8323582/menko-ahy-tinjau-smpn-1-karang-baru-pastikan-pemulihan-pascabanjir
+- Resmikan Huntara di Aceh Tamiang, AHY Tegaskan Rumah Kebutuhan Dasar Warga (21:19 WIB)
+  https://news.detik.com/berita/d-8323578/resmikan-huntara-di-aceh-tamiang-ahy-tegaskan-rumah-kebutuhan-dasar-warga
+- Viral Begal Panik Dikepung Warga hingga Lari ke Atap Rumah di Jakbar (21:17 WIB)
+  https://news.detik.com/berita/d-8323576/viral-begal-panik-dikepung-warga-hingga-lari-ke-atap-rumah-di-jakbar
 - Kemendagri Siap Evaluasi Surat Edaran KDM soal Larangan Truk Sumbu 3 AMDK (21:00 WIB)
   https://news.detik.com/berita/d-8323544/kemendagri-siap-evaluasi-surat-edaran-kdm-soal-larangan-truk-sumbu-3-amdk
 - Kondisi Terkini 3 Wilayah Lereng Gunung Slamet yang Terdampak Banjir Bandang (20:46 WIB)
