@@ -1,4 +1,20 @@
 {
   "Kompas": [],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "Alarm Banjir Sempat Bunyi, BPBD Pastikan Tinggi Muka Air di Bekasi Menurun",
+      "link": "https://news.detik.com/berita/d-8330345/alarm-banjir-sempat-bunyi-bpbd-pastikan-tinggi-muka-air-di-bekasi-menurun",
+      "time": "00:37 WIB"
+    },
+    {
+      "title": "KY Rekomendasi Pecat 3 Hakim, Langgar Etik Berat Terkait Wanita-Transaksional",
+      "link": "https://news.detik.com/berita/d-8330341/ky-rekomendasi-pecat-3-hakim-langgar-etik-berat-terkait-wanita-transaksional",
+      "time": "00:19 WIB"
+    },
+    {
+      "title": "Banjir Rendam Kampung Melayu Jaktim Malam Ini, Tinggi Air Capai 90 Cm",
+      "link": "https://news.detik.com/berita/d-8330339/banjir-rendam-kampung-melayu-jaktim-malam-ini-tinggi-air-capai-90-cm",
+      "time": "00:09 WIB"
+    }
+  ]
 }
