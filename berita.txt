@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Kamis, 29-01-2026
-Terakhir diperbarui: 04:35 WIB
+Terakhir diperbarui: 04:58 WIB
 ========================================
 
 Kamis, 29-01-2026
@@ -26,6 +26,8 @@ Kamis, 29-01-2026
 
 [Detik]
 
+- Banjir Rendam 18 RT di Jakarta, Ketinggian Air Capai 150 Cm (04:35 WIB)
+  https://news.detik.com/berita/d-8330371/banjir-rendam-18-rt-di-jakarta-ketinggian-air-capai-150-cm
 - Gempa M 4,3 Guncang Tahuna-Kepulauan Sangihe Sulut (03:01 WIB)
   https://news.detik.com/berita/d-8330364/gempa-m-4-3-guncang-tahuna-kepulauan-sangihe-sulut
 - Alarm Banjir Sempat Bunyi, BPBD Pastikan Tinggi Muka Air di Bekasi Menurun (00:37 WIB)
