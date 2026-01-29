@@ -1,6 +1,141 @@
 {
   "Kompas": [
     {
+      "title": "Kenapa Password Mudah Dibobol? Jawabannya Ada di Jenis Sandi",
+      "link": "https://tekno.kompas.com/read/2026/01/29/17050017/kenapa-password-mudah-dibobol-jawabannya-ada-di-jenis-sandi?utm_source=ABC&utm_medium=rss",
+      "time": "17:05 WIB"
+    },
+    {
+      "title": "IHSG Ditutup Melemah di Level 8.232, Sempat Terseok dan Kena Trading Halt",
+      "link": "https://money.kompas.com/read/2026/01/29/170346426/ihsg-ditutup-melemah-di-level-8232-sempat-terseok-dan-kena-trading-halt?utm_source=ABC&utm_medium=rss",
+      "time": "17:03 WIB"
+    },
+    {
+      "title": "Memandang Board of Peace dari Kacamata Kemanusiaan...",
+      "link": "https://nasional.kompas.com/read/2026/01/29/17013251/memandang-board-of-peace-dari-kacamata-kemanusiaan?utm_source=ABC&utm_medium=rss",
+      "time": "17:01 WIB"
+    },
+    {
+      "title": "Kementerian PKP Tinjau Perumahan yang Jadi &quot;Laut&quot; di Bekasi",
+      "link": "https://www.kompas.com/properti/read/2026/01/29/170000521/kementerian-pkp-tinjau-perumahan-yang-jadi-laut-di-bekasi?utm_source=ABC&utm_medium=rss",
+      "time": "17:00 WIB"
+    },
+    {
+      "title": "Ramadan Tanpa Drama, Ini Cara Mengenalkan Puasa pada Anak Menurut Psikolog",
+      "link": "https://lifestyle.kompas.com/read/2026/01/29/170000720/ramadan-tanpa-drama-ini-cara-mengenalkan-puasa-pada-anak-menurut-psikolog?utm_source=ABC&utm_medium=rss",
+      "time": "17:00 WIB"
+    },
+    {
+      "title": "Sejumlah Ruas Jalan Jakarta Masih Banjir Kamis Sore, Lalu Lintas Tersendat",
+      "link": "https://megapolitan.kompas.com/read/2026/01/29/16582661/sejumlah-ruas-jalan-jakarta-masih-banjir-kamis-sore-lalu-lintas-tersendat?utm_source=ABC&utm_medium=rss",
+      "time": "16:58 WIB"
+    },
+    {
+      "title": "Luhut Datangi Kantor Kemenko Perekonomian, Bahas Apa?",
+      "link": "https://money.kompas.com/read/2026/01/29/165700626/luhut-datangi-kantor-kemenko-perekonomian-bahas-apa?utm_source=ABC&utm_medium=rss",
+      "time": "16:57 WIB"
+    },
+    {
+      "title": "Sudah Empat Hari, Buruh Asal Mojokerto Bertahan di Tengah Hujan dan Panas Jakarta demi Hak",
+      "link": "https://megapolitan.kompas.com/read/2026/01/29/16542431/sudah-empat-hari-buruh-asal-mojokerto-bertahan-di-tengah-hujan-dan-panas?utm_source=ABC&utm_medium=rss",
+      "time": "16:54 WIB"
+    },
+    {
+      "title": "Jakarta Masuk Daftar Kota Termahal Dunia, Pramono: Kan UMP Sudah Naik",
+      "link": "https://megapolitan.kompas.com/read/2026/01/29/16522371/jakarta-masuk-daftar-kota-termahal-dunia-pramono-kan-ump-sudah-naik?utm_source=ABC&utm_medium=rss",
+      "time": "16:52 WIB"
+    },
+    {
+      "title": "Citra Nasdem Dinilai Berpotensi Memburuk Usai Kader Hijrah ke PSI",
+      "link": "https://nasional.kompas.com/read/2026/01/29/16521101/citra-nasdem-dinilai-berpotensi-memburuk-usai-kader-hijrah-ke-psi?utm_source=ABC&utm_medium=rss",
+      "time": "16:52 WIB"
+    },
+    {
+      "title": "Kisah &quot;Miss Cimory&quot;, dari Teras Rumah, Ibu Rumah Tangga Bangun Aset Keluarga",
+      "link": "https://money.kompas.com/read/2026/01/29/165138126/kisah-miss-cimory-dari-teras-rumah-ibu-rumah-tangga-bangun-aset-keluarga?utm_source=ABC&utm_medium=rss",
+      "time": "16:51 WIB"
+    },
+    {
+      "title": "Alfamart Buka 1.081 Gerai Baru Sepanjang 2025",
+      "link": "https://money.kompas.com/read/2026/01/29/164853726/alfamart-buka-1081-gerai-baru-sepanjang-2025?utm_source=ABC&utm_medium=rss",
+      "time": "16:48 WIB"
+    },
+    {
+      "title": "Kaesang Pantun &quot;Anak Kecil Banyak Cakap&quot;, Janji Umumkan Sosok &quot;Mr J&quot;",
+      "link": "https://nasional.kompas.com/read/2026/01/29/16464951/kaesang-pantun-anak-kecil-banyak-cakap-janji-umumkan-sosok-mr-j?utm_source=ABC&utm_medium=rss",
+      "time": "16:46 WIB"
+    },
+    {
+      "title": "Banjir Tiga Kali dalam Sebulan, Warga Duta Kranji Bekasi Harap Hulu Ditangani",
+      "link": "https://megapolitan.kompas.com/read/2026/01/29/16452391/banjir-tiga-kali-dalam-sebulan-warga-duta-kranji-bekasi-harap-hulu?utm_source=ABC&utm_medium=rss",
+      "time": "16:45 WIB"
+    },
+    {
+      "title": "Pasar Merah: Mengapa Investor Pemula Tak Perlu Panik Saat IHSG Anjlok",
+      "link": "https://money.kompas.com/read/2026/01/29/164400426/pasar-merah--mengapa-investor-pemula-tak-perlu-panik-saat-ihsg-anjlok?utm_source=ABC&utm_medium=rss",
+      "time": "16:44 WIB"
+    },
+    {
+      "title": "Itinerary Seharian di Kota Tua untuk Hunting Foto Estetik",
+      "link": "https://travel.kompas.com/read/2025/05/01/100300227/itinerary-seharian-di-kota-tua-untuk-hunting-foto-estetik?utm_source=ABC&utm_medium=rss",
+      "time": "16:43 WIB"
+    },
+    {
+      "title": "Gacor di Januari, Bintang Muda Como Ini Kukuhkan Diri Jadi Rising Star of The Month",
+      "link": "https://bola.kompas.com/read/2026/01/29/16431098/gacor-di-januari-bintang-muda-como-ini-kukuhkan-diri-jadi-rising-star-of-the?utm_source=ABC&utm_medium=rss",
+      "time": "16:43 WIB"
+    },
+    {
+      "title": "BPK: Kerugian Negara Kasus Minyak 2,7 Miliar Dolar AS dan Rp 25 T",
+      "link": "https://nasional.kompas.com/read/2026/01/29/16423781/bpk-kerugian-negara-kasus-minyak-27-miliar-dolar-as-dan-rp-25-t?utm_source=ABC&utm_medium=rss",
+      "time": "16:42 WIB"
+    },
+    {
+      "title": "Lisa BLACKPINK Syuting di Kota Tua, Pramono: Jakarta Terbuka bagi Siapa Saja",
+      "link": "https://megapolitan.kompas.com/read/2026/01/29/16405861/lisa-blackpink-syuting-di-kota-tua-pramono-jakarta-terbuka-bagi-siapa?utm_source=ABC&utm_medium=rss",
+      "time": "16:40 WIB"
+    },
+    {
+      "title": "Komnas PA: Perundungan Anak Influencer di SMP Jaktim Bukan Kenakalan, tapi Kejahatan",
+      "link": "https://megapolitan.kompas.com/read/2026/01/29/16380451/komnas-pa-perundungan-anak-influencer-di-smp-jaktim-bukan-kenakalan-tapi?utm_source=ABC&utm_medium=rss",
+      "time": "16:38 WIB"
+    },
+    {
+      "title": "Kepala BGN Bantah Ada SPPG dan Penerima MBG Fiktif",
+      "link": "https://nasional.kompas.com/read/2026/01/29/16363561/kepala-bgn-bantah-ada-sppg-dan-penerima-mbg-fiktif?utm_source=ABC&utm_medium=rss",
+      "time": "16:36 WIB"
+    },
+    {
+      "title": "IHSG Terjun Bebas, Airlangga Kumpulkan BI, OJK, dan Menteri Ekonomi",
+      "link": "https://money.kompas.com/read/2026/01/29/163610826/ihsg-terjun-bebas-airlangga-kumpulkan-bi-ojk-dan-menteri-ekonomi?utm_source=ABC&utm_medium=rss",
+      "time": "16:36 WIB"
+    },
+    {
+      "title": "Buktikan ke Surya Paloh Nasdem Menang di Sulsel, Rusdi Masse: Perjuangan Saya Selesai",
+      "link": "https://nasional.kompas.com/read/2026/01/29/16353421/buktikan-ke-surya-paloh-nasdem-menang-di-sulsel-rusdi-masse-perjuangan-saya?utm_source=ABC&utm_medium=rss",
+      "time": "16:35 WIB"
+    },
+    {
+      "title": "Es Gabus Dituding dari Busa, Produsen: Spons Lebih Mahal dari Sagu Aren!",
+      "link": "https://megapolitan.kompas.com/read/2026/01/29/16261701/es-gabus-dituding-dari-busa-produsen-spons-lebih-mahal-dari-sagu-aren?utm_source=ABC&utm_medium=rss",
+      "time": "16:26 WIB"
+    },
+    {
+      "title": "KSAL Resmikan Simulator Penanganan Darurat Kapal Perang di Koarmada I",
+      "link": "https://nasional.kompas.com/read/2026/01/29/16255801/ksal-resmikan-simulator-penanganan-darurat-kapal-perang-di-koarmada-i?utm_source=ABC&utm_medium=rss",
+      "time": "16:25 WIB"
+    },
+    {
+      "title": "41 Desa di Kabupaten Bekasi Terendam Banjir, 6.027 KK Mengungsi",
+      "link": "https://megapolitan.kompas.com/read/2026/01/29/16250471/41-desa-di-kabupaten-bekasi-terendam-banjir-6027-kk-mengungsi?utm_source=ABC&utm_medium=rss",
+      "time": "16:25 WIB"
+    },
+    {
+      "title": "Komitmen Shayne Pattynama untuk Timnas Indonesia, meski Absen di FIFA Series 2026",
+      "link": "https://bola.kompas.com/read/2026/01/29/16245228/komitmen-shayne-pattynama-untuk-timnas-indonesia-meski-absen-di-fifa-series-2026?utm_source=ABC&utm_medium=rss",
+      "time": "16:24 WIB"
+    },
+    {
       "title": "Kaesang: Percayalah, PSI Akan Jadi Partai yang Sangat Besar",
       "link": "https://nasional.kompas.com/read/2026/01/29/16234401/kaesang-percayalah-psi-akan-jadi-partai-yang-sangat-besar?utm_source=ABC&utm_medium=rss",
       "time": "16:23 WIB"
@@ -61,13 +196,18 @@
       "time": "16:02 WIB"
     },
     {
-      "title": "Ketika Menteri PU Terbata-bata Dicecar Komosi V DPR soal Dana Bencana",
-      "link": "https://www.kompas.com/properti/read/2026/01/29/160000021/ketika-menteri-pu-terbata-bata-dicecar-komosi-v-dpr-soal-dana-bencana?utm_source=ABC&utm_medium=rss",
+      "title": "Ketika Menteri PU Terbata-bata Dicecar Komisi V DPR soal Dana Bencana",
+      "link": "https://www.kompas.com/properti/read/2026/01/29/160000021/ketika-menteri-pu-terbata-bata-dicecar-komisi-v-dpr-soal-dana-bencana?utm_source=ABC&utm_medium=rss",
       "time": "16:00 WIB"
     },
     {
       "title": "BCA Singapore Airlines Travel Fair 2026 Digelar, Ada Cashback Hingga Rp 2 Juta",
       "link": "https://travel.kompas.com/read/2026/01/29/160000327/bca-singapore-airlines-travel-fair-2026-digelar-ada-cashback-hingga-rp-2-juta?utm_source=ABC&utm_medium=rss",
+      "time": "16:00 WIB"
+    },
+    {
+      "title": "Ketika Menteri PU Terbata-bata Dicecar Komosi V DPR soal Dana Bencana",
+      "link": "https://www.kompas.com/properti/read/2026/01/29/160000021/ketika-menteri-pu-terbata-bata-dicecar-komosi-v-dpr-soal-dana-bencana?utm_source=ABC&utm_medium=rss",
       "time": "16:00 WIB"
     },
     {
@@ -1603,6 +1743,46 @@
   ],
   "Detik": [
     {
+      "title": "Banjir Rendam 8 Kecamatan di Subang, 8 Ribu Warga Ngungsi",
+      "link": "https://news.detik.com/berita/d-8331481/banjir-rendam-8-kecamatan-di-subang-8-ribu-warga-ngungsi",
+      "time": "16:59 WIB"
+    },
+    {
+      "title": "Brimob Polda Metro Gendong Warga Sakit yang Terjebak Banjir di Jakbar",
+      "link": "https://news.detik.com/berita/d-8331465/brimob-polda-metro-gendong-warga-sakit-yang-terjebak-banjir-di-jakbar",
+      "time": "16:54 WIB"
+    },
+    {
+      "title": "Gratifikasi Termahal dan Terunik yang Dilaporkan ke KPK Tahun 2025",
+      "link": "https://news.detik.com/berita/d-8331445/gratifikasi-termahal-dan-terunik-yang-dilaporkan-ke-kpk-tahun-2025",
+      "time": "16:41 WIB"
+    },
+    {
+      "title": "Ade Kuswara Klaim Namanya Dicatut: Baru Jabat 9 Bulan, Belum Hafal Anggaran",
+      "link": "https://news.detik.com/berita/d-8331429/ade-kuswara-klaim-namanya-dicatut-baru-jabat-9-bulan-belum-hafal-anggaran",
+      "time": "16:38 WIB"
+    },
+    {
+      "title": "3 Ekor Ular hingga Biawak Ditangkap Warga Kranji Bekasi Saat Banjir",
+      "link": "https://news.detik.com/berita/d-8331428/3-ekor-ular-hingga-biawak-ditangkap-warga-kranji-bekasi-saat-banjir",
+      "time": "16:38 WIB"
+    },
+    {
+      "title": "Resmi Gabung PSI, Rusdi Masse Tak Sedih Tinggalkan NasDem",
+      "link": "https://news.detik.com/berita/d-8331427/resmi-gabung-psi-rusdi-masse-tak-sedih-tinggalkan-nasdem",
+      "time": "16:37 WIB"
+    },
+    {
+      "title": "Saksi Ngaku Ditekan Terdakwa Kasus Izin TKA Kemnaker agar Bosnya Kasih Rp 2 M",
+      "link": "https://news.detik.com/berita/d-8331422/saksi-ngaku-ditekan-terdakwa-kasus-izin-tka-kemnaker-agar-bosnya-kasih-rp-2-m",
+      "time": "16:33 WIB"
+    },
+    {
+      "title": "Kakorlantas Resmikan Pool Derek dan BB Jatiluhur serta Perluasan Kantor Induk Cipularang",
+      "link": "https://news.detik.com/berita/d-8331417/kakorlantas-resmikan-pool-derek-dan-bb-jatiluhur-serta-perluasan-kantor-induk-cipularang",
+      "time": "16:31 WIB"
+    },
+    {
       "title": "Bertemu Agum Gumelar, Wakapolri: Beliau Sampaikan Dukung Polri di Bawah Presiden",
       "link": "https://news.detik.com/berita/d-8331380/bertemu-agum-gumelar-wakapolri-beliau-sampaikan-dukung-polri-di-bawah-presiden",
       "time": "16:04 WIB"
@@ -1628,7 +1808,7 @@
       "time": "15:57 WIB"
     },
     {
-      "title": "Walkot Ungkap Penyebab Mesin Pompa Air di Bekasi Meledak saat Banjir",
+      "title": "Walkot Ungkap Penyebab Mesin Pompa Air di Bekasi Meledak Saat Banjir",
       "link": "https://news.detik.com/berita/d-8331342/walkot-ungkap-penyebab-mesin-pompa-air-di-bekasi-meledak-saat-banjir",
       "time": "15:54 WIB"
     },
