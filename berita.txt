@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Sabtu, 31-01-2026
-Terakhir diperbarui: 03:36 WIB
+Terakhir diperbarui: 04:00 WIB
 ========================================
 
 Sabtu, 31-01-2026
@@ -16,6 +16,8 @@ Sabtu, 31-01-2026
 
 [Detik]
 
+- Gempa M 4,6 Guncang Nias Utara Sumut (03:57 WIB)
+  https://news.detik.com/berita/d-8333795/gempa-m-4-6-guncang-nias-utara-sumut
 - Perampokan Modus Pecah Kaca Mobil di Situbondo, Uang Rp 140 Juta Raib (02:01 WIB)
   https://news.detik.com/berita/d-8333784/perampokan-modus-pecah-kaca-mobil-di-situbondo-uang-rp-140-juta-raib
 - Gempa M 3,4 Terjadi di Lumajang (01:25 WIB)
