@@ -1,4 +1,31 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "Bayern Munchen Mengejar, Arsenal Bakal Pagari Kai Havertz",
+      "link": "https://bola.kompas.com/read/2026/02/09/00295868/bayern-munchen-mengejar-arsenal-bakal-pagari-kai-havertz?utm_source=ABC&utm_medium=rss",
+      "time": "00:29 WIB"
+    },
+    {
+      "title": "Michael Carrick Kritik Ruben Amorim soal Kobbie Mainoo: Dia Punya Kemampuan",
+      "link": "https://bola.kompas.com/read/2026/02/09/00282788/michael-carrick-kritik-ruben-amorim-soal-kobbie-mainoo-dia-punya-kemampuan?utm_source=ABC&utm_medium=rss",
+      "time": "00:28 WIB"
+    },
+    {
+      "title": "Polisi Selidiki Hubungan Pelajar Penyiram Air Keras dan Siswa SMK yang Jadi Korban",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/00233311/polisi-selidiki-hubungan-pelajar-penyiram-air-keras-dan-siswa-smk-yang?utm_source=ABC&utm_medium=rss",
+      "time": "00:23 WIB"
+    },
+    {
+      "title": "Barcelona Siap Goda Lisandro Martinez dari MU Musim Panas Ini",
+      "link": "https://bola.kompas.com/read/2026/02/09/00112068/barcelona-siap-goda-lisandro-martinez-dari-mu-musim-panas-ini?utm_source=ABC&utm_medium=rss",
+      "time": "00:11 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Pengelolaan KSO Sawit Kembali Picu Bentrok di Rohul, 1 Orang Tewas",
+      "link": "https://news.detik.com/berita/d-8347089/pengelolaan-kso-sawit-kembali-picu-bentrok-di-rohul-1-orang-tewas",
+      "time": "00:05 WIB"
+    }
+  ]
 }
