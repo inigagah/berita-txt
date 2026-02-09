@@ -1,6 +1,256 @@
 {
   "Kompas": [
     {
+      "title": "Pasokan Langka, Harga Rumah Terus Naik",
+      "link": "https://www.kompas.com/properti/read/2026/02/09/121659921/pasokan-langka-harga-rumah-terus-naik?utm_source=ABC&utm_medium=rss",
+      "time": "12:16 WIB"
+    },
+    {
+      "title": "Gudang Pestisida di Tangsel Terbakar, Pemadaman Tersendat Bahan Kimia Berbahaya",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/12164891/gudang-pestisida-di-tangsel-terbakar-pemadaman-tersendat-bahan-kimia?utm_source=ABC&utm_medium=rss",
+      "time": "12:16 WIB"
+    },
+    {
+      "title": "Bukan Disekap, Apa yang Terjadi pada 5 Karyawan Ekspedisi di Sunter?",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/12115901/bukan-disekap-apa-yang-terjadi-pada-5-karyawan-ekspedisi-di-sunter?utm_source=ABC&utm_medium=rss",
+      "time": "12:11 WIB"
+    },
+    {
+      "title": "Pengalaman Berkonsultasi dengan Psikolog untuk Memulihkan Diri",
+      "link": "https://lifestyle.kompas.com/read/2026/02/09/121000920/pengalaman-berkonsultasi-dengan-psikolog-untuk-memulihkan-diri-?utm_source=ABC&utm_medium=rss",
+      "time": "12:10 WIB"
+    },
+    {
+      "title": "Polemik PBI JK, Dirut BPJS Tegaskan RS Dilarang Tolak Pasien Kondisi Darurat",
+      "link": "https://nasional.kompas.com/read/2026/02/09/12084951/polemik-pbi-jk-dirut-bpjs-tegaskan-rs-dilarang-tolak-pasien-kondisi-darurat?utm_source=ABC&utm_medium=rss",
+      "time": "12:08 WIB"
+    },
+    {
+      "title": "Pengemudi Ojol di Kembangan Diduga Dianiaya Paspampres Pakai Batang Besi",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/12081461/pengemudi-ojol-di-kembangan-diduga-dianiaya-paspampres-pakai-batang-besi?utm_source=ABC&utm_medium=rss",
+      "time": "12:08 WIB"
+    },
+    {
+      "title": "8 Program Mudik Gratis Lebaran 2026, Catat Syarat dan Rutenya",
+      "link": "https://travel.kompas.com/read/2026/02/09/120100327/8-program-mudik-gratis-lebaran-2026-catat-syarat-dan-rutenya?utm_source=ABC&utm_medium=rss",
+      "time": "12:01 WIB"
+    },
+    {
+      "title": "Diskon Listrik Dongkrak Layanan Home Charging PLN, Pengguna Tembus 70.250 pada 2025",
+      "link": "https://money.kompas.com/read/2026/02/09/120039726/diskon-listrik-dongkrak-layanan-home-charging-pln-pengguna-tembus-70250-pada?utm_source=ABC&utm_medium=rss",
+      "time": "12:00 WIB"
+    },
+    {
+      "title": "Optimisme Konsumen Meningkat di Awal 2026",
+      "link": "https://money.kompas.com/read/2026/02/09/120033226/optimisme-konsumen-meningkat-di-awal-2026?utm_source=ABC&utm_medium=rss",
+      "time": "12:00 WIB"
+    },
+    {
+      "title": "DPR Putuskan Semua Layanan BPJS PBI Dibayar Pemerintah Selama 3 Bulan ke Depan",
+      "link": "https://nasional.kompas.com/read/2026/02/09/11560341/dpr-putuskan-semua-layanan-bpjs-pbi-dibayar-pemerintah-selama-3-bulan-ke?utm_source=ABC&utm_medium=rss",
+      "time": "11:56 WIB"
+    },
+    {
+      "title": "OJK Ungkap Praktik Saham Gorengan di Bursa, 151 Pihak Terseret",
+      "link": "https://money.kompas.com/read/2026/02/09/115601726/ojk-ungkap-praktik-saham-gorengan-di-bursa-151-pihak-terseret?utm_source=ABC&utm_medium=rss",
+      "time": "11:56 WIB"
+    },
+    {
+      "title": "Daftar Kereta Go Show Tarif Khusus dari Jogja Februari 2026: Ini Rute dan Harga Tiketnya",
+      "link": "https://money.kompas.com/read/2026/02/09/115507126/daftar-kereta-go-show-tarif-khusus-dari-jogja-februari-2026-ini-rute-dan-harga?utm_source=ABC&utm_medium=rss",
+      "time": "11:55 WIB"
+    },
+    {
+      "title": "Mensos Sebut Reaktivasi Otomatis 106.000 Pasien Sakit Berat di BPJS PBI",
+      "link": "https://nasional.kompas.com/read/2026/02/09/11533901/mensos-sebut-reaktivasi-otomatis-106000-pasien-sakit-berat-di-bpjs-pbi?utm_source=ABC&utm_medium=rss",
+      "time": "11:53 WIB"
+    },
+    {
+      "title": "Jalan Griya Utama Pademangan Ambles Imbas Truk Pengangkut Trafo",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11532921/jalan-griya-utama-pademangan-ambles-imbas-truk-pengangkut-trafo?utm_source=ABC&utm_medium=rss",
+      "time": "11:53 WIB"
+    },
+    {
+      "title": "Di Balik Tol dan Mal Mewah, Jalan Tanah Merah Jakarta Utara Terlupakan Puluhan Tahun",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11524131/di-balik-tol-dan-mal-mewah-jalan-tanah-merah-jakarta-utara-terlupakan?utm_source=ABC&utm_medium=rss",
+      "time": "11:52 WIB"
+    },
+    {
+      "title": "Rapor Jay Idzes Merah Menyala Usai Dibantai Inter Milan 0-5",
+      "link": "https://bola.kompas.com/read/2026/02/09/11523698/rapor-jay-idzes-merah-menyala-usai-dibantai-inter-milan-0-5?utm_source=ABC&utm_medium=rss",
+      "time": "11:52 WIB"
+    },
+    {
+      "title": "Penonaktifan 11 Juta PBI BPJS Picu Kegaduhan, Purbaya Buka Suara",
+      "link": "https://money.kompas.com/read/2026/02/09/115017826/penonaktifan-11-juta-pbi-bpjs-picu-kegaduhan-purbaya-buka-suara?utm_source=ABC&utm_medium=rss",
+      "time": "11:50 WIB"
+    },
+    {
+      "title": "Harga Cabai Rawit Rp 80.000 Per Kilogram, Wamendag: Faktor Cuaca",
+      "link": "https://money.kompas.com/read/2026/02/09/114853126/harga-cabai-rawit-rp-80000-per-kilogram-wamendag-faktor-cuaca?utm_source=ABC&utm_medium=rss",
+      "time": "11:48 WIB"
+    },
+    {
+      "title": "Status Tanah Abu-Abu, Jalan Rusak di Tanah Merah Jakut Puluhan Tahun Tak Diperbaiki",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11454691/status-tanah-abu-abu-jalan-rusak-di-tanah-merah-jakut-puluhan-tahun-tak?utm_source=ABC&utm_medium=rss",
+      "time": "11:45 WIB"
+    },
+    {
+      "title": "Ramalan Zodiak 9 Februari 2026, Hubungan Taurus Berpeluang Tumbuh",
+      "link": "https://lifestyle.kompas.com/read/2026/02/09/114500320/ramalan-zodiak-9-februari-2026-hubungan-taurus-berpeluang-tumbuh?utm_source=ABC&utm_medium=rss",
+      "time": "11:45 WIB"
+    },
+    {
+      "title": "Parpol Diduga Terlibat Pemerasan Sertifikat K3, Noel: Kemarin “K”, Sekarang 3 Huruf",
+      "link": "https://nasional.kompas.com/read/2026/02/09/11450021/parpol-diduga-terlibat-pemerasan-sertifikat-k3-noel-kemarin-k-sekarang-3?utm_source=ABC&utm_medium=rss",
+      "time": "11:45 WIB"
+    },
+    {
+      "title": "iPhone 17e Meluncur dalam Waktu Dekat, Fitur Lebih Banyak Harga Tetap?",
+      "link": "https://tekno.kompas.com/read/2026/02/09/11440027/iphone-17e-meluncur-dalam-waktu-dekat-fitur-lebih-banyak-harga-tetap-?utm_source=ABC&utm_medium=rss",
+      "time": "11:44 WIB"
+    },
+    {
+      "title": "Media Spanyol Sebut Timnas Futsal Indonesia Luar Biasa, Nyaris Sempurna",
+      "link": "https://bola.kompas.com/read/2026/02/09/11404988/media-spanyol-sebut-timnas-futsal-indonesia-luar-biasa-nyaris-sempurna?utm_source=ABC&utm_medium=rss",
+      "time": "11:40 WIB"
+    },
+    {
+      "title": "Banyak yang Salah Kaprah, APK Ternyata Bukan Singkatan dari Aplikasi",
+      "link": "https://tekno.kompas.com/read/2026/02/07/10050067/banyak-yang-salah-kaprah-apk-ternyata-bukan-singkatan-dari-aplikasi?utm_source=ABC&utm_medium=rss",
+      "time": "11:35 WIB"
+    },
+    {
+      "title": "Menkes Usul BPJS Kesehatan PBI 120.000 Pasien Cuci Darah Diaktifkan Otomatis",
+      "link": "https://nasional.kompas.com/read/2026/02/09/11350231/menkes-usul-bpjs-kesehatan-pbi-120000-pasien-cuci-darah-diaktifkan-otomatis?utm_source=ABC&utm_medium=rss",
+      "time": "11:35 WIB"
+    },
+    {
+      "title": "Menjajal Lenovo Legion Pro 5i, Laptop Gaming yang Layak Jadi Andalan Jangka Panjang",
+      "link": "https://tekno.kompas.com/read/2026/02/09/11350227/menjajal-lenovo-legion-pro-5i-laptop-gaming-yang-layak-jadi-andalan-jangka?utm_source=ABC&utm_medium=rss",
+      "time": "11:35 WIB"
+    },
+    {
+      "title": "Mensos Ungkap 15 Juta Warga Mampu Tercatat sebagai Penerima BPJS PBI",
+      "link": "https://nasional.kompas.com/read/2026/02/09/11314051/mensos-ungkap-15-juta-warga-mampu-tercatat-sebagai-penerima-bpjs-pbi?utm_source=ABC&utm_medium=rss",
+      "time": "11:31 WIB"
+    },
+    {
+      "title": "Detail Desain Eksterior dan Interior Suzuki eVitara",
+      "link": "https://otomotif.kompas.com/read/2026/02/09/113100815/detail-desain-eksterior-dan-interior-suzuki-evitara?utm_source=ABC&utm_medium=rss",
+      "time": "11:31 WIB"
+    },
+    {
+      "title": "Dirut BPJS: Dikira Kesehatan Itu Murah dan Gratis padahal Mahal",
+      "link": "https://nasional.kompas.com/read/2026/02/09/11303361/dirut-bpjs-dikira-kesehatan-itu-murah-dan-gratis-padahal-mahal?utm_source=ABC&utm_medium=rss",
+      "time": "11:30 WIB"
+    },
+    {
+      "title": "Kain Tenun Garut Mempercantik Erin Lim di Grammy Awards 2026",
+      "link": "https://lifestyle.kompas.com/read/2026/02/09/113000220/kain-tenun-garut-mempercantik-erin-lim-di-grammy-awards-2026?utm_source=ABC&utm_medium=rss",
+      "time": "11:30 WIB"
+    },
+    {
+      "title": "Emas Bukan Cuma Antam, Ini 6 Merek Logam Mulia di Indonesia",
+      "link": "https://money.kompas.com/read/2026/02/09/112914126/emas-bukan-cuma-antam-ini-6-merek-logam-mulia-di-indonesia?utm_source=ABC&utm_medium=rss",
+      "time": "11:29 WIB"
+    },
+    {
+      "title": "OJK Bongkar Pelanggaran IPO, PIPA dan REAL Dijatuhi Sanksi",
+      "link": "https://money.kompas.com/read/2026/02/09/112822426/ojk-bongkar-pelanggaran-ipo-pipa-dan-real-dijatuhi-sanksi?utm_source=ABC&utm_medium=rss",
+      "time": "11:28 WIB"
+    },
+    {
+      "title": "Ditodong Golok Saat Tertibkan PKL di Bekasi, Ini yang Dirasakan Wali Kota",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11254291/ditodong-golok-saat-tertibkan-pkl-di-bekasi-ini-yang-dirasakan-wali-kota?utm_source=ABC&utm_medium=rss",
+      "time": "11:25 WIB"
+    },
+    {
+      "title": "Jadwal Libur dan Cuti Bersama Lebaran 2026, Bisa Libur Panjang hingga 7 Hari",
+      "link": "https://travel.kompas.com/read/2026/02/09/112533027/jadwal-libur-dan-cuti-bersama-lebaran-2026-bisa-libur-panjang-hingga-7-hari?utm_source=ABC&utm_medium=rss",
+      "time": "11:25 WIB"
+    },
+    {
+      "title": "Jay Idzes Alami Malam Terburuk di Serie A, Hanya Kalah dari Momen Pahit di Jepang",
+      "link": "https://bola.kompas.com/read/2026/02/09/11235988/jay-idzes-alami-malam-terburuk-di-serie-a-hanya-kalah-dari-momen-pahit-di-jepang?utm_source=ABC&utm_medium=rss",
+      "time": "11:23 WIB"
+    },
+    {
+      "title": "Petrokimia Gresik Dorong Efisiensi Rantai Pasok Lewat Skema SCF",
+      "link": "https://money.kompas.com/read/2026/02/09/112203426/petrokimia-gresik-dorong-efisiensi-rantai-pasok-lewat-skema-scf?utm_source=ABC&utm_medium=rss",
+      "time": "11:22 WIB"
+    },
+    {
+      "title": "Jaecoo J5 EV Tampil dengan Dua Gaya Modifikasi di IIMS 2026",
+      "link": "https://otomotif.kompas.com/read/2026/02/09/112200015/jaecoo-j5-ev-tampil-dengan-dua-gaya-modifikasi-di-iims-2026?utm_source=ABC&utm_medium=rss",
+      "time": "11:22 WIB"
+    },
+    {
+      "title": "Transaksi Ganja 9,4 Kg di Parkiran RS UKI Cawang, 3 Pelaku Ditangkap",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11211251/transaksi-ganja-94-kg-di-parkiran-rs-uki-cawang-3-pelaku-ditangkap?utm_source=ABC&utm_medium=rss",
+      "time": "11:21 WIB"
+    },
+    {
+      "title": "Contoh Prompt Gambar ChatGPT “Caricature of Me and My Job” yang Viral",
+      "link": "https://tekno.kompas.com/read/2026/02/09/11210087/contoh-prompt-gambar-chatgpt-caricature-of-me-and-my-job-yang-viral?utm_source=ABC&utm_medium=rss",
+      "time": "11:21 WIB"
+    },
+    {
+      "title": "Jakarta Diguyur Hujan, Jalan Jenderal Sudirman Macet Parah",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11172941/jakarta-diguyur-hujan-jalan-jenderal-sudirman-macet-parah?utm_source=ABC&utm_medium=rss",
+      "time": "11:17 WIB"
+    },
+    {
+      "title": "Sandro Tonali Masuk Bidikan Manchester United, Proyeksi Gantikan Casemiro",
+      "link": "https://bola.kompas.com/read/2026/02/09/11164318/sandro-tonali-masuk-bidikan-manchester-united-proyeksi-gantikan-casemiro?utm_source=ABC&utm_medium=rss",
+      "time": "11:16 WIB"
+    },
+    {
+      "title": "Jalan Griya Utama Kemayoran Ambles, Arus Hanya Lewat Satu Lajur",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11163081/jalan-griya-utama-kemayoran-ambles-arus-hanya-lewat-satu-lajur?utm_source=ABC&utm_medium=rss",
+      "time": "11:16 WIB"
+    },
+    {
+      "title": "Industri Estetika Berbasis Sains Kian Dilirik, Pasar Menguat",
+      "link": "https://money.kompas.com/read/2026/02/09/111520826/industri-estetika-berbasis-sains-kian-dilirik-pasar-menguat?utm_source=ABC&utm_medium=rss",
+      "time": "11:15 WIB"
+    },
+    {
+      "title": "Belum Dijual, Deretan Mobil yang Hanya Bisa Dilihat di IIMS 2026",
+      "link": "https://otomotif.kompas.com/read/2026/02/09/111200615/belum-dijual-deretan-mobil-yang-hanya-bisa-dilihat-di-iims-2026?utm_source=ABC&utm_medium=rss",
+      "time": "11:12 WIB"
+    },
+    {
+      "title": "Profil Letjen (Purn) Agus Widjojo, Dubes RI untuk Filipina yang Meninggal Dunia",
+      "link": "https://nasional.kompas.com/read/2026/02/09/11100321/profil-letjen-purn-agus-widjojo-dubes-ri-untuk-filipina-yang-meninggal-dunia?utm_source=ABC&utm_medium=rss",
+      "time": "11:10 WIB"
+    },
+    {
+      "title": "Viral Video Wisatawan Dilarang Ambil Foto di Pantai Parangtritis, Ini Kata Dinas Pariwisata",
+      "link": "https://travel.kompas.com/read/2026/02/09/110854627/viral-video-wisatawan-dilarang-ambil-foto-di-pantai-parangtritis-ini-kata?utm_source=ABC&utm_medium=rss",
+      "time": "11:08 WIB"
+    },
+    {
+      "title": "Arahan Presiden Soal Gedung Keagamaan di Bundaran HI, Pramono Ingatkan Aturan Heritage",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11083581/arahan-presiden-soal-gedung-keagamaan-di-bundaran-hi-pramono-ingatkan?utm_source=ABC&utm_medium=rss",
+      "time": "11:08 WIB"
+    },
+    {
+      "title": "Menhan Sjafrie: Prajurit TNI adalah Tentara Rakyat, Tidak Boleh Jadi Beban",
+      "link": "https://nasional.kompas.com/read/2026/02/09/11075781/menhan-sjafrie-prajurit-tni-adalah-tentara-rakyat-tidak-boleh-jadi-beban?utm_source=ABC&utm_medium=rss",
+      "time": "11:07 WIB"
+    },
+    {
+      "title": "Pedagang Es Kelapa yang Todongkan Golok ke Wali Kota Bekasi Minta Maaf",
+      "link": "https://megapolitan.kompas.com/read/2026/02/09/11073891/pedagang-es-kelapa-yang-todongkan-golok-ke-wali-kota-bekasi-minta-maaf?utm_source=ABC&utm_medium=rss",
+      "time": "11:07 WIB"
+    },
+    {
+      "title": "SUV Listrik Rp 400 Jutaan: BYD Atto 3, Chery E5, MG4 EV, Aion Y Plus",
+      "link": "https://otomotif.kompas.com/read/2026/02/09/110200215/suv-listrik-rp-400-jutaan--byd-atto-3-chery-e5-mg4-ev-aion-y-plus?utm_source=ABC&utm_medium=rss",
+      "time": "11:02 WIB"
+    },
+    {
       "title": "Prabowo Tegaskan Pemerintahannya Tak Ragu Melawan Korupsi",
       "link": "https://nasional.kompas.com/read/2026/02/09/10455291/prabowo-tegaskan-pemerintahannya-tak-ragu-melawan-korupsi?utm_source=ABC&utm_medium=rss",
       "time": "10:45 WIB"
@@ -602,6 +852,136 @@
     }
   ],
   "Detik": [
+    {
+      "title": "Dirut BPJS Jamin Tak Ada kendala Jika Diperintahkan Reaktivasi PBI JK",
+      "link": "https://news.detik.com/berita/d-8347555/dirut-bpjs-jamin-tak-ada-kendala-jika-diperintahkan-reaktivasi-pbi-jk",
+      "time": "12:07 WIB"
+    },
+    {
+      "title": "MA Berhentikan Sementara Hakim Ketua-Wakil Ketua PN Depok Tersangka Suap",
+      "link": "https://news.detik.com/berita/d-8347539/ma-berhentikan-sementara-hakim-ketua-wakil-ketua-pn-depok-tersangka-suap",
+      "time": "12:04 WIB"
+    },
+    {
+      "title": "Korban Sedan Terbalik di Tol Jagorawi Ternyata Model Diva Siregar",
+      "link": "https://news.detik.com/berita/d-8347527/korban-sedan-terbalik-di-tol-jagorawi-ternyata-model-diva-siregar",
+      "time": "12:01 WIB"
+    },
+    {
+      "title": "10 Link Twibbon Hari Pers Nasional 2026, Gratis Dipakai di Medsos",
+      "link": "https://news.detik.com/berita/d-8347526/10-link-twibbon-hari-pers-nasional-2026-gratis-dipakai-di-medsos",
+      "time": "11:58 WIB"
+    },
+    {
+      "title": "Janji Bawa Beras ke Ibu, Bocah Penjual Tisu Tewas Terlindas Loader di Kendari",
+      "link": "https://news.detik.com/berita/d-8347525/janji-bawa-beras-ke-ibu-bocah-penjual-tisu-tewas-terlindas-loader-di-kendari",
+      "time": "11:58 WIB"
+    },
+    {
+      "title": "BPJPH: Jual Babi-Alkohol Tak Masalah, Negara Cuma Minta Cantumkan Non-halal",
+      "link": "https://news.detik.com/berita/d-8347512/bpjph-jual-babi-alkohol-tak-masalah-negara-cuma-minta-cantumkan-non-halal",
+      "time": "11:54 WIB"
+    },
+    {
+      "title": "Cak Imin Hadiri Peringatan Hari Pers di Serang, Ingatkan Bahaya Brain Root",
+      "link": "https://news.detik.com/berita/d-8347511/cak-imin-hadiri-peringatan-hari-pers-di-serang-ingatkan-bahaya-brain-root",
+      "time": "11:53 WIB"
+    },
+    {
+      "title": "Hasil Rapat di DPR: Layanan Tetap Jalan, PBI BPJS Dibayar Pemerintah 3 Bulan",
+      "link": "https://news.detik.com/berita/d-8347508/hasil-rapat-di-dpr-layanan-tetap-jalan-pbi-bpjs-dibayar-pemerintah-3-bulan",
+      "time": "11:53 WIB"
+    },
+    {
+      "title": "Waka MPR Soroti Pentingnya Peran Komunitas bagi Penyintas Kanker",
+      "link": "https://news.detik.com/berita/d-8347501/waka-mpr-soroti-pentingnya-peran-komunitas-bagi-penyintas-kanker",
+      "time": "11:49 WIB"
+    },
+    {
+      "title": "Pelaku Mutilasi Mayat dalam Freezer di Tangerang Divonis Bui Seumur Hidup",
+      "link": "https://news.detik.com/berita/d-8347491/pelaku-mutilasi-mayat-dalam-freezer-di-tangerang-divonis-bui-seumur-hidup",
+      "time": "11:41 WIB"
+    },
+    {
+      "title": "Kreator Konten di Lampung Diperkosa 2 Pemuda, iPhone dan Motor Dirampok",
+      "link": "https://news.detik.com/berita/d-8347471/kreator-konten-di-lampung-diperkosa-2-pemuda-iphone-dan-motor-dirampok",
+      "time": "11:35 WIB"
+    },
+    {
+      "title": "Tebing 15 Meter di Sukaraja Bogor Longsor, 4 Rumah Warga Terancam",
+      "link": "https://news.detik.com/berita/d-8347470/tebing-15-meter-di-sukaraja-bogor-longsor-4-rumah-warga-terancam",
+      "time": "11:33 WIB"
+    },
+    {
+      "title": "Sekretaris BKPSDM Lampung Tengah Dipanggil KPK Terkait Suap Bupati Ardito",
+      "link": "https://news.detik.com/berita/d-8347467/sekretaris-bkpsdm-lampung-tengah-dipanggil-kpk-terkait-suap-bupati-ardito",
+      "time": "11:30 WIB"
+    },
+    {
+      "title": "KPK Panggil Eks PPK Balai KA Jatim Terkait Kasus Korupsi Rel",
+      "link": "https://news.detik.com/berita/d-8347456/kpk-panggil-eks-ppk-balai-ka-jatim-terkait-kasus-korupsi-rel",
+      "time": "11:21 WIB"
+    },
+    {
+      "title": "Menteri Koperasi Ferry Juliantono Terima Golden Leader Award",
+      "link": "https://news.detik.com/berita/d-8347448/menteri-koperasi-ferry-juliantono-terima-golden-leader-award",
+      "time": "11:20 WIB"
+    },
+    {
+      "title": "Elite Demokrat Bicara Hubungan SBY dan Jokowi di Tengah Isu Ijazah",
+      "link": "https://news.detik.com/berita/d-8347447/elite-demokrat-bicara-hubungan-sby-dan-jokowi-di-tengah-isu-ijazah",
+      "time": "11:20 WIB"
+    },
+    {
+      "title": "Andre Rosiade Letakkan Batu Pertama Sekretariat Galapagos SMAN 1 Padang",
+      "link": "https://news.detik.com/berita/d-8347444/andre-rosiade-letakkan-batu-pertama-sekretariat-galapagos-sman-1-padang",
+      "time": "11:16 WIB"
+    },
+    {
+      "title": "Sopir Mobil MBG di Kebumen Mabuk Saat Tabrak Sekolah dan Hajar 15 Orang",
+      "link": "https://news.detik.com/berita/d-8347442/sopir-mobil-mbg-di-kebumen-mabuk-saat-tabrak-sekolah-dan-hajar-15-orang",
+      "time": "11:16 WIB"
+    },
+    {
+      "title": "Menkes: Pasien Cuci Darah di RI Capai 200 Ribu, Tiap Tahun Tambah 60 Ribu",
+      "link": "https://news.detik.com/berita/d-8347440/menkes-pasien-cuci-darah-di-ri-capai-200-ribu-tiap-tahun-tambah-60-ribu",
+      "time": "11:15 WIB"
+    },
+    {
+      "title": "Pramono Minta Jalan Rusak Segera Diperbaiki: Tak Bisa Tunggu Hujan Berhenti",
+      "link": "https://news.detik.com/berita/d-8347430/pramono-minta-jalan-rusak-segera-diperbaiki-tak-bisa-tunggu-hujan-berhenti",
+      "time": "11:09 WIB"
+    },
+    {
+      "title": "Aipda Iwan 15 Tahun Bina Ratusan Petani Hingga Ekonomi Desa di Ogan Ilir Meningkat",
+      "link": "https://news.detik.com/berita/d-8347410/aipda-iwan-15-tahun-bina-ratusan-petani-hingga-ekonomi-desa-di-ogan-ilir-meningkat",
+      "time": "11:02 WIB"
+    },
+    {
+      "title": "Pengantin di Sumsel Gelar Resepsi Nikah di Tengah Banjir",
+      "link": "https://news.detik.com/berita/d-8347406/pengantin-di-sumsel-gelar-resepsi-nikah-di-tengah-banjir",
+      "time": "10:59 WIB"
+    },
+    {
+      "title": "Prabowo Mau Bangun Gedung MUI di Area Bundaran HI, Pramono Siap Support",
+      "link": "https://news.detik.com/berita/d-8347405/prabowo-mau-bangun-gedung-mui-di-area-bundaran-hi-pramono-siap-support",
+      "time": "10:59 WIB"
+    },
+    {
+      "title": "3 Remaja Penyiram Air Keras ke Pelajar di Cempaka Putih Ditangkap",
+      "link": "https://news.detik.com/berita/d-8347385/3-remaja-penyiram-air-keras-ke-pelajar-di-cempaka-putih-ditangkap",
+      "time": "10:53 WIB"
+    },
+    {
+      "title": "Mensos Buka Peluang 100 Ribu Pasien Kronis BPJS PBI Direaktivasi Otomatis",
+      "link": "https://news.detik.com/berita/d-8347384/mensos-buka-peluang-100-ribu-pasien-kronis-bpjs-pbi-direaktivasi-otomatis",
+      "time": "10:51 WIB"
+    },
+    {
+      "title": "PWI Pusat &amp;amp; Artha Graha Gelar Baksos di Ponpes Nurul Ibad Jelang HPN 2026",
+      "link": "https://news.detik.com/berita/d-8347378/pwi-pusat-artha-graha-gelar-baksos-di-ponpes-nurul-ibad-jelang-hpn-2026",
+      "time": "10:48 WIB"
+    },
     {
       "title": "Andre Rosiade Ajak Siswa SMAN 1 Padang Bangun Sumbar Lewat Pendidikan",
       "link": "https://news.detik.com/berita/d-8347373/andre-rosiade-ajak-siswa-sman-1-padang-bangun-sumbar-lewat-pendidikan",
