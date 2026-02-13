@@ -1,6 +1,256 @@
 {
   "Kompas": [
     {
+      "title": "Pemutihan Tunggakan Iuran BPJS Kesehatan Diminta Berpihak ke Masyarakat Miskin",
+      "link": "https://nasional.kompas.com/read/2026/02/13/11251481/pemutihan-tunggakan-iuran-bpjs-kesehatan-diminta-berpihak-ke-masyarakat?utm_source=ABC&utm_medium=rss",
+      "time": "11:25 WIB"
+    },
+    {
+      "title": "Benfica Susun Proposal Perpanjangan Kontrak Target Barcelona, Sertakan Klausul Rp 1,5 Triliun",
+      "link": "https://bola.kompas.com/read/2026/02/13/11243468/benfica-susun-proposal-perpanjangan-kontrak-target-barcelona-sertakan-klausul-rp?utm_source=ABC&utm_medium=rss",
+      "time": "11:24 WIB"
+    },
+    {
+      "title": "Segini Biaya Perbaikan di AppleCare+ Indonesia",
+      "link": "https://tekno.kompas.com/read/2026/02/13/11230077/segini-biaya-perbaikan-di-applecare-indonesia?utm_source=ABC&utm_medium=rss",
+      "time": "11:23 WIB"
+    },
+    {
+      "title": "Prabowo Resmikan 1.072 SPPG-18 Gudang Ketahanan Pangan Polri",
+      "link": "https://nasional.kompas.com/read/2026/02/13/11225681/prabowo-resmikan-1072-sppg-18-gudang-ketahanan-pangan-polri?utm_source=ABC&utm_medium=rss",
+      "time": "11:22 WIB"
+    },
+    {
+      "title": "KPR Lunas Tapi Sertifikat Rumah Belum Jadi, Ketahui Penyebabnya",
+      "link": "https://properti.kompas.com/read/2026/02/13/112243721/kpr-lunas-tapi-sertifikat-rumah-belum-jadi-ketahui-penyebabnya?utm_source=ABC&utm_medium=rss",
+      "time": "11:22 WIB"
+    },
+    {
+      "title": "Simulasi Kredit Mobil Listrik Xpeng di IIMS 2026",
+      "link": "https://otomotif.kompas.com/read/2026/02/13/112200315/simulasi-kredit-mobil-listrik-xpeng-di-iims-2026?utm_source=ABC&utm_medium=rss",
+      "time": "11:22 WIB"
+    },
+    {
+      "title": "3 Langkah Strategis Pemerintah Bangun Rusun Subsidi di Bandung",
+      "link": "https://www.kompas.com/properti/read/2026/02/13/112027321/3-langkah-strategis-pemerintah-bangun-rusun-subsidi-di-bandung?utm_source=ABC&utm_medium=rss",
+      "time": "11:20 WIB"
+    },
+    {
+      "title": "Prabowo Minta Qodari Kumpulkan Video Hina MBG, Mau Ditonton Tiap Malam",
+      "link": "https://nasional.kompas.com/read/2026/02/13/11182961/prabowo-minta-qodari-kumpulkan-video-hina-mbg-mau-ditonton-tiap-malam?utm_source=ABC&utm_medium=rss",
+      "time": "11:18 WIB"
+    },
+    {
+      "title": "2 Hari Usai Kebakaran 16 Rumah di Mampang, Api Sempat Muncul Lagi",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/11171081/2-hari-usai-kebakaran-16-rumah-di-mampang-api-sempat-muncul-lagi?utm_source=ABC&utm_medium=rss",
+      "time": "11:17 WIB"
+    },
+    {
+      "title": "Puji Kapolri, Prabowo Bahagia Polri Mengurusi MBG",
+      "link": "https://nasional.kompas.com/read/2026/02/13/11161911/puji-kapolri-prabowo-bahagia-polri-mengurusi-mbg?utm_source=ABC&utm_medium=rss",
+      "time": "11:16 WIB"
+    },
+    {
+      "title": "Histeria Warga Palmerah Saat Prabowo Tiba: Ya Allah Pak, Saya Orang Kecil",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/11120271/histeria-warga-palmerah-saat-prabowo-tiba-ya-allah-pak-saya-orang-kecil?utm_source=ABC&utm_medium=rss",
+      "time": "11:12 WIB"
+    },
+    {
+      "title": "Penjelasan KNKT Kenapa Truk Sering Mundur saat Tak Kuat Nanjak",
+      "link": "https://otomotif.kompas.com/read/2026/02/13/111200715/penjelasan-knkt-kenapa-truk-sering-mundur-saat-tak-kuat-nanjak?utm_source=ABC&utm_medium=rss",
+      "time": "11:12 WIB"
+    },
+    {
+      "title": "Menghidupkan Jalur Tertua Nusantara, Visi Strategis KAI dalam Reaktivasi Kedungjati–Tanggung",
+      "link": "https://money.kompas.com/read/2026/02/13/111138326/menghidupkan-jalur-tertua-nusantara-visi-strategis-kai-dalam-reaktivasi?utm_source=ABC&utm_medium=rss",
+      "time": "11:11 WIB"
+    },
+    {
+      "title": "Kebakaran Gudang Kimia di Tangsel, Pemkot Disebut Perlu Tegaskan Jarak Aman",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/11112251/kebakaran-gudang-kimia-di-tangsel-pemkot-disebut-perlu-tegaskan-jarak?utm_source=ABC&utm_medium=rss",
+      "time": "11:11 WIB"
+    },
+    {
+      "title": "Sebut Masih Banyak Kebocoran, Prabowo: Saya Ingin Menyelamatkan Kekayaan Negara",
+      "link": "https://nasional.kompas.com/read/2026/02/13/11093661/sebut-masih-banyak-kebocoran-prabowo-saya-ingin-menyelamatkan-kekayaan?utm_source=ABC&utm_medium=rss",
+      "time": "11:09 WIB"
+    },
+    {
+      "title": "Mudik Gratis BUMN Tersedia untuk 100.000 Pemudik, Simak Syarat dan Cara Daftarnya",
+      "link": "https://money.kompas.com/read/2026/02/13/110900326/mudik-gratis-bumn-tersedia-untuk-100.000-pemudik-simak-syarat-dan-cara?utm_source=ABC&utm_medium=rss",
+      "time": "11:09 WIB"
+    },
+    {
+      "title": "Motor Masuk Kolong Bus Transjakarta di Flyover Cijantung, Pengendara Diduga Mengantuk",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/11060351/motor-masuk-kolong-bus-transjakarta-di-flyover-cijantung-pengendara?utm_source=ABC&utm_medium=rss",
+      "time": "11:06 WIB"
+    },
+    {
+      "title": "TNI AU Kedatangan 2 Jet Latih Tempur T-50i dari Korsel",
+      "link": "https://nasional.kompas.com/read/2026/02/13/11055961/tni-au-kedatangan-2-jet-latih-tempur-t-50i-dari-korsel?utm_source=ABC&utm_medium=rss",
+      "time": "11:05 WIB"
+    },
+    {
+      "title": "Kapolri Ungkap Pesan Prabowo: Kita Harus Jadi Polisi Rakyat",
+      "link": "https://nasional.kompas.com/read/2026/02/13/11055791/kapolri-ungkap-pesan-prabowo-kita-harus-jadi-polisi-rakyat?utm_source=ABC&utm_medium=rss",
+      "time": "11:05 WIB"
+    },
+    {
+      "title": "Tampil Apik dengan Como, Jean Butez Dipantau Pelatih Timnas Perancis",
+      "link": "https://bola.kompas.com/read/2026/02/13/11041218/tampil-apik-dengan-como-jean-butez-dipantau-pelatih-timnas-perancis?utm_source=ABC&utm_medium=rss",
+      "time": "11:04 WIB"
+    },
+    {
+      "title": "Bulan Paling Beruntung dan Tak Beruntung 12 Shio di Tahun Kuda Api 2026",
+      "link": "https://lifestyle.kompas.com/read/2026/02/13/110300020/bulan-paling-beruntung-dan-tak-beruntung-12-shio-di-tahun-kuda-api-2026?utm_source=ABC&utm_medium=rss",
+      "time": "11:03 WIB"
+    },
+    {
+      "title": "iPhone 17 Laris di China Ternyata karena Alasan Sederhana",
+      "link": "https://tekno.kompas.com/read/2026/02/13/11030027/iphone-17-laris-di-china-ternyata-karena-alasan-sederhana?utm_source=ABC&utm_medium=rss",
+      "time": "11:03 WIB"
+    },
+    {
+      "title": "Pilihan Motor di Atas Rp 200 Juta di IIMS 2026",
+      "link": "https://otomotif.kompas.com/read/2026/02/13/110200015/pilihan-motor-di-atas-rp-200-juta-di-iims-2026?utm_source=ABC&utm_medium=rss",
+      "time": "11:02 WIB"
+    },
+    {
+      "title": "KAI Bakal Reaktivasi Jalur Bersejarah Kedungjati–Tanggung",
+      "link": "https://money.kompas.com/read/2026/02/13/110000726/kai-bakal-reaktivasi-jalur-bersejarah-kedungjati-tanggung-?utm_source=ABC&utm_medium=rss",
+      "time": "11:00 WIB"
+    },
+    {
+      "title": "Prabowo: Saya Diejek dan Dihina Profesor Terkenal Saat Lancarkan MBG",
+      "link": "https://nasional.kompas.com/read/2026/02/13/10572341/prabowo-saya-diejek-dan-dihina-profesor-terkenal-saat-lancarkan-mbg?utm_source=ABC&utm_medium=rss",
+      "time": "10:57 WIB"
+    },
+    {
+      "title": "Viral Jalan Abdul Muis di Belakang Kemenhub Berlubang, Begini Kondisinya Kini",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/10560771/viral-jalan-abdul-muis-di-belakang-kemenhub-berlubang-begini-kondisinya?utm_source=ABC&utm_medium=rss",
+      "time": "10:56 WIB"
+    },
+    {
+      "title": "Diskon Tiket Pesawat Mudik Lebaran 2026 Pelita Air, Berlaku untuk 11 Rute",
+      "link": "https://travel.kompas.com/read/2026/02/13/104903427/diskon-tiket-pesawat-mudik-lebaran-2026-pelita-air-berlaku-untuk-11-rute?utm_source=ABC&utm_medium=rss",
+      "time": "10:49 WIB"
+    },
+    {
+      "title": "Kapolri Targetkan Bangun 1.500 SPPG Polri di Seluruh Indonesia pada 2026",
+      "link": "https://nasional.kompas.com/read/2026/02/13/10435241/kapolri-targetkan-bangun-1500-sppg-polri-di-seluruh-indonesia-pada-2026?utm_source=ABC&utm_medium=rss",
+      "time": "10:43 WIB"
+    },
+    {
+      "title": "Sayang Dibuang, Mahal Diperbaiki: Alasan Masyarakat Menimbun Barang Elektronik Bekas",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/10431461/sayang-dibuang-mahal-diperbaiki-alasan-masyarakat-menimbun-barang?utm_source=ABC&utm_medium=rss",
+      "time": "10:43 WIB"
+    },
+    {
+      "title": "14 Tahun Lalu Steam Rilis Platform Kontroversial, Awal Mula Membludaknya Game di Steam",
+      "link": "https://tekno.kompas.com/read/2026/02/12/19030047/14-tahun-lalu-steam-rilis-platform-kontroversial-awal-mula-membludaknya-game-di?utm_source=ABC&utm_medium=rss",
+      "time": "10:43 WIB"
+    },
+    {
+      "title": "Swedia Lirik Investasi Multi Sektor di Jatim",
+      "link": "https://money.kompas.com/read/2026/02/13/104303426/swedia-lirik-investasi-multi-sektor-di-jatim?utm_source=ABC&utm_medium=rss",
+      "time": "10:43 WIB"
+    },
+    {
+      "title": "Prabowo: Saya Dituduh Hamburkan Uang untuk MBG, Padahal Hasil Penghematan",
+      "link": "https://nasional.kompas.com/read/2026/02/13/10421451/prabowo-saya-dituduh-hamburkan-uang-untuk-mbg-padahal-hasil-penghematan?utm_source=ABC&utm_medium=rss",
+      "time": "10:42 WIB"
+    },
+    {
+      "title": "Hitung Skema Kredit QJMotor Tourino 250 DX di IIMS 2026",
+      "link": "https://otomotif.kompas.com/read/2026/02/13/104200115/hitung-skema-kredit-qjmotor-tourino-250-dx-di-iims-2026?utm_source=ABC&utm_medium=rss",
+      "time": "10:42 WIB"
+    },
+    {
+      "title": "Jejak Racun di Balik Elektronik Bekas: Bahaya Buang E-Waste Sembarangan",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/10415741/jejak-racun-di-balik-elektronik-bekas-bahaya-buang-e-waste-sembarangan?utm_source=ABC&utm_medium=rss",
+      "time": "10:41 WIB"
+    },
+    {
+      "title": "Dampak Kebakaran Gudang Kimia di Tangsel Disebut Punya Dampak Panjang bagi Lingkungan",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/10411501/dampak-kebakaran-gudang-kimia-di-tangsel-disebut-punya-dampak-panjang?utm_source=ABC&utm_medium=rss",
+      "time": "10:41 WIB"
+    },
+    {
+      "title": "5 Cara Mengatasi Rambut Rusak akibat Proses Pewarnaan",
+      "link": "https://lifestyle.kompas.com/read/2026/02/13/103500120/5-cara-mengatasi-rambut-rusak-akibat-proses-pewarnaan?utm_source=ABC&utm_medium=rss",
+      "time": "10:35 WIB"
+    },
+    {
+      "title": "Link dan Cara Tukar Uang Baru Lebaran 2026 via Pintar BI, Buka Hari Ini",
+      "link": "https://tekno.kompas.com/read/2026/02/13/10350087/link-dan-cara-tukar-uang-baru-lebaran-2026-via-pintar-bi-buka-hari-ini?utm_source=ABC&utm_medium=rss",
+      "time": "10:35 WIB"
+    },
+    {
+      "title": "Hashim Djojohadikusumo Ungkap Alasan Petinggi BEI dan OJK Diminta Mundur: Tidak Ada Transparansi",
+      "link": "https://money.kompas.com/read/2026/02/13/103300426/hashim-djojohadikusumo-ungkap-alasan-petinggi-bei-dan-ojk-diminta-mundur-tidak?utm_source=ABC&utm_medium=rss",
+      "time": "10:33 WIB"
+    },
+    {
+      "title": "Jelang Mudik Lebaran, TRAC Kenalkan Inovasi Baru",
+      "link": "https://otomotif.kompas.com/read/2026/02/13/103100115/jelang-mudik-lebaran-trac-kenalkan-inovasi-baru?utm_source=ABC&utm_medium=rss",
+      "time": "10:31 WIB"
+    },
+    {
+      "title": "Prabowo Beri Penghargaan ke Kepala BGN, Wakapolri hingga Irwasum Polri",
+      "link": "https://nasional.kompas.com/read/2026/02/13/10303851/prabowo-beri-penghargaan-ke-kepala-bgn-wakapolri-hingga-irwasum-polri?utm_source=ABC&utm_medium=rss",
+      "time": "10:30 WIB"
+    },
+    {
+      "title": "Republik Irlandia Diminta Ajukan Mosi Usai Satu Grup dengan Israel di UEFA Nations League",
+      "link": "https://bola.kompas.com/read/2026/02/13/10300638/republik-irlandia-diminta-ajukan-mosi-usai-satu-grup-dengan-israel-di-uefa?utm_source=ABC&utm_medium=rss",
+      "time": "10:30 WIB"
+    },
+    {
+      "title": "Ekonomi Tak Pasti, KPR Rumah Seken Malah Makin Moncer",
+      "link": "https://www.kompas.com/properti/read/2026/02/13/102612421/ekonomi-tak-pasti-kpr-rumah-seken-malah-makin-moncer?utm_source=ABC&utm_medium=rss",
+      "time": "10:26 WIB"
+    },
+    {
+      "title": "Jumlah Investor Kripto RI 20,19 Juta, INDODAX Catat Transaksi Rp 201 Triliun",
+      "link": "https://money.kompas.com/read/2026/02/13/102228926/jumlah-investor-kripto-ri-2019-juta-indodax-catat-transaksi-rp-201-triliun?utm_source=ABC&utm_medium=rss",
+      "time": "10:22 WIB"
+    },
+    {
+      "title": "Motor termahal di IIMS 2026, Harga Rp 2,6 Miliar Off The Road",
+      "link": "https://otomotif.kompas.com/read/2026/02/13/102200615/motor-termahal-di-iims-2026-harga-rp-2-6-miliar-off-the-road?utm_source=ABC&utm_medium=rss",
+      "time": "10:22 WIB"
+    },
+    {
+      "title": "Update Harga Emas Antam Hari Ini 13 Februari 2026, Turun ke Rp 2,90 Juta per Gram",
+      "link": "https://money.kompas.com/read/2026/02/13/102131026/update-harga-emas-antam-hari-ini-13-februari-2026-turun-ke-rp-290-juta-per?utm_source=ABC&utm_medium=rss",
+      "time": "10:21 WIB"
+    },
+    {
+      "title": "Prabowo Tiba di Palmerah, Lalu Lintas Terhenti 4 Menit",
+      "link": "https://megapolitan.kompas.com/read/2026/02/13/10210961/prabowo-tiba-di-palmerah-lalu-lintas-terhenti-4-menit?utm_source=ABC&utm_medium=rss",
+      "time": "10:21 WIB"
+    },
+    {
+      "title": "Kapolri: Polri Punya 1.179 Dapur MBG, Serap 58 Ribu Tenaga Kerja",
+      "link": "https://nasional.kompas.com/read/2026/02/13/10204461/kapolri-polri-punya-1179-dapur-mbg-serap-58-ribu-tenaga-kerja?utm_source=ABC&utm_medium=rss",
+      "time": "10:20 WIB"
+    },
+    {
+      "title": "Mitigasi Bencana Saat Libur Lebaran, BNPB Susun Peta Jalur Mudik Aman",
+      "link": "https://nasional.kompas.com/read/2026/02/13/10183571/mitigasi-bencana-saat-libur-lebaran-bnpb-susun-peta-jalur-mudik-aman?utm_source=ABC&utm_medium=rss",
+      "time": "10:18 WIB"
+    },
+    {
+      "title": "Sistem Planet “Terbalik” Ini Bikin Ilmuwan Bingung: Planet Berbatu Justru Ada di Paling Luar",
+      "link": "https://www.kompas.com/sains/read/2026/02/13/101308223/sistem-planet-terbalik-ini-bikin-ilmuwan-bingung-planet-berbatu-justru-ada?utm_source=ABC&utm_medium=rss",
+      "time": "10:13 WIB"
+    },
+    {
+      "title": "Makin Meriah, Malam Ini Ada Penampilan Ari Lasso di IIMS 2026",
+      "link": "https://otomotif.kompas.com/read/2026/02/13/101200515/makin-meriah-malam-ini-ada-penampilan-ari-lasso-di-iims-2026?utm_source=ABC&utm_medium=rss",
+      "time": "10:12 WIB"
+    },
+    {
       "title": "35 Ide Tukar Kado Hari Valentine yang Unik dan Berkesan",
       "link": "https://lifestyle.kompas.com/read/2026/02/13/090500820/35-ide-tukar-kado-hari-valentine-yang-unik-dan-berkesan?utm_source=ABC&utm_medium=rss",
       "time": "09:05 WIB"
@@ -341,11 +591,6 @@
       "time": "05:48 WIB"
     },
     {
-      "title": "14 Tahun Lalu Steam Rilis Platform Kontroversial, Awal Mula Membludaknya Game di Steam",
-      "link": "https://tekno.kompas.com/read/2026/02/12/19030047/14-tahun-lalu-steam-rilis-platform-kontroversial-awal-mula-membludaknya-game-di?utm_source=ABC&utm_medium=rss",
-      "time": "05:48 WIB"
-    },
-    {
       "title": "Purbaya Optimistis Tekan Defisit APBN, Reformasi Pajak Jadi Tumpuan",
       "link": "https://money.kompas.com/read/2026/02/13/054610026/purbaya-optimistis-tekan-defisit-apbn-reformasi-pajak-jadi-tumpuan?utm_source=ABC&utm_medium=rss",
       "time": "05:46 WIB"
@@ -462,6 +707,146 @@
     }
   ],
   "Detik": [
+    {
+      "title": "Prabowo Dapat Laporan Statistik Indonesia Lebih Baik dari Jepang dan Eropa",
+      "link": "https://news.detik.com/berita/d-8354143/prabowo-dapat-laporan-statistik-indonesia-lebih-baik-dari-jepang-dan-eropa",
+      "time": "11:13 WIB"
+    },
+    {
+      "title": "Prabowo: Polisi Banyak Jadi Sasaran Itu Risiko, Ya Tabah",
+      "link": "https://news.detik.com/berita/d-8354126/prabowo-polisi-banyak-jadi-sasaran-itu-risiko-ya-tabah",
+      "time": "11:05 WIB"
+    },
+    {
+      "title": "Terpeleset Saat Main di Pinggir Kali Bogor, Balita Tewas Terbawa Arus",
+      "link": "https://news.detik.com/berita/d-8354116/terpeleset-saat-main-di-pinggir-kali-bogor-balita-tewas-terbawa-arus",
+      "time": "11:02 WIB"
+    },
+    {
+      "title": "Prabowo Resmikan 1.179 SPPG dan 18 Gudang Ketahanan Pangan Polri",
+      "link": "https://news.detik.com/berita/d-8354115/prabowo-resmikan-1-179-sppg-dan-18-gudang-ketahanan-pangan-polri",
+      "time": "11:00 WIB"
+    },
+    {
+      "title": "Prabowo Minta Video Hina MBG Dikumpulkan, Mau Nonton Setiap Malam",
+      "link": "https://news.detik.com/berita/d-8354111/prabowo-minta-video-hina-mbg-dikumpulkan-mau-nonton-setiap-malam",
+      "time": "10:57 WIB"
+    },
+    {
+      "title": "Sidang Tuntutan Marcella Santoso dkk di Kasus Suap Migor Digelar 18 Februari",
+      "link": "https://news.detik.com/berita/d-8354110/sidang-tuntutan-marcella-santoso-dkk-di-kasus-suap-migor-digelar-18-februari",
+      "time": "10:57 WIB"
+    },
+    {
+      "title": "Pemkab Bogor Bakal Normalisasi Sungai Cegah Banjir Babakan Madang Terulang",
+      "link": "https://news.detik.com/berita/d-8354101/pemkab-bogor-bakal-normalisasi-sungai-cegah-banjir-babakan-madang-terulang",
+      "time": "10:54 WIB"
+    },
+    {
+      "title": "Prabowo Ungkap MBG RI Setara Beri Makan Warga Singapura 10 Kali Tiap Hari",
+      "link": "https://news.detik.com/berita/d-8354083/prabowo-ungkap-mbg-ri-setara-beri-makan-warga-singapura-10-kali-tiap-hari",
+      "time": "10:51 WIB"
+    },
+    {
+      "title": "Prabowo Bangga Capaian Kapolri: Saya Akan Beri Bintang Mahaputera",
+      "link": "https://news.detik.com/berita/d-8354081/prabowo-bangga-capaian-kapolri-saya-akan-beri-bintang-mahaputera",
+      "time": "10:49 WIB"
+    },
+    {
+      "title": "Prabowo Beri Tanda Kehormatan ke Kepala BGN, Wakapolri hingga Kapolda Metro",
+      "link": "https://news.detik.com/berita/d-8354080/prabowo-beri-tanda-kehormatan-ke-kepala-bgn-wakapolri-hingga-kapolda-metro",
+      "time": "10:48 WIB"
+    },
+    {
+      "title": "Prabowo Puji Kapolri Tak Cuma Jalankan Tugas Pokok tapi Peka Kebutuhan Rakyat",
+      "link": "https://news.detik.com/berita/d-8354072/prabowo-puji-kapolri-tak-cuma-jalankan-tugas-pokok-tapi-peka-kebutuhan-rakyat",
+      "time": "10:41 WIB"
+    },
+    {
+      "title": "KOKAM-Pemuda Muhammadiyah Dukung Polri Tetap di Bawah Presiden",
+      "link": "https://news.detik.com/berita/d-8354068/kokam-pemuda-muhammadiyah-dukung-polri-tetap-di-bawah-presiden",
+      "time": "10:39 WIB"
+    },
+    {
+      "title": "Prabowo: MBG Ini Hasil Efisiensi yang Kalau Tak Dihemat akan Dikorupsi",
+      "link": "https://news.detik.com/berita/d-8354067/prabowo-mbg-ini-hasil-efisiensi-yang-kalau-tak-dihemat-akan-dikorupsi",
+      "time": "10:39 WIB"
+    },
+    {
+      "title": "Prioritaskan Standarisasi Mutu, Kapolri Pastikan Zero Accident di SPPG Polri",
+      "link": "https://news.detik.com/berita/d-8354063/prioritaskan-standarisasi-mutu-kapolri-pastikan-zero-accident-di-sppg-polri",
+      "time": "10:37 WIB"
+    },
+    {
+      "title": "Kabareskrim Minta Satgas Saber Pangan Tak Ragu Tindak Pelaku Usaha Nakal",
+      "link": "https://news.detik.com/berita/d-8354051/kabareskrim-minta-satgas-saber-pangan-tak-ragu-tindak-pelaku-usaha-nakal",
+      "time": "10:36 WIB"
+    },
+    {
+      "title": "Kapolri Pedomani Pesan Prabowo Agar Kepolisian Jadi Polisi Rakyat",
+      "link": "https://news.detik.com/berita/d-8354047/kapolri-pedomani-pesan-prabowo-agar-kepolisian-jadi-polisi-rakyat",
+      "time": "10:33 WIB"
+    },
+    {
+      "title": "Kapolri Berencana Bikin Gudang Ketahanan Pangan di Semua Polda",
+      "link": "https://news.detik.com/berita/d-8354042/kapolri-berencana-bikin-gudang-ketahanan-pangan-di-semua-polda",
+      "time": "10:28 WIB"
+    },
+    {
+      "title": "Prabowo Bahagia Polri Institusi Sangat Penting Ambil Inisiatif Bangun SPPG",
+      "link": "https://news.detik.com/berita/d-8354041/prabowo-bahagia-polri-institusi-sangat-penting-ambil-inisiatif-bangun-sppg",
+      "time": "10:27 WIB"
+    },
+    {
+      "title": "Polisi Tangkap Pria Viral Curi Besi Jembatan di Sunter Jakut",
+      "link": "https://news.detik.com/berita/d-8354026/polisi-tangkap-pria-viral-curi-besi-jembatan-di-sunter-jakut",
+      "time": "10:20 WIB"
+    },
+    {
+      "title": "Kapolri: SPPG Polda Metro Punya Ekosistem Bahan Baku, Ada Tambak-Kandang Ayam",
+      "link": "https://news.detik.com/berita/d-8354025/kapolri-sppg-polda-metro-punya-ekosistem-bahan-baku-ada-tambak-kandang-ayam",
+      "time": "10:20 WIB"
+    },
+    {
+      "title": "Bupati Bogor Jamin Stadion Pakansari Bisa Dipakai Meski Atap Rusak",
+      "link": "https://news.detik.com/berita/d-8354021/bupati-bogor-jamin-stadion-pakansari-bisa-dipakai-meski-atap-rusak",
+      "time": "10:15 WIB"
+    },
+    {
+      "title": "Kapolri Ungkap Polri Punya 1.179 SPPG, Beri Manfaat 2,9 Juta Orang",
+      "link": "https://news.detik.com/berita/d-8354011/kapolri-ungkap-polri-punya-1-179-sppg-beri-manfaat-2-9-juta-orang",
+      "time": "10:06 WIB"
+    },
+    {
+      "title": "Pelayanan MBG hingga ke Daerah Terluar, Polri Survei Lokasi SPPG di Papua",
+      "link": "https://news.detik.com/berita/d-8354010/pelayanan-mbg-hingga-ke-daerah-terluar-polri-survei-lokasi-sppg-di-papua",
+      "time": "10:05 WIB"
+    },
+    {
+      "title": "Kapolri Targetkan 1.500 SPPG Polri Dibangun Tahun Ini di Seluruh Indonesia",
+      "link": "https://news.detik.com/berita/d-8354008/kapolri-targetkan-1-500-sppg-polri-dibangun-tahun-ini-di-seluruh-indonesia",
+      "time": "10:03 WIB"
+    },
+    {
+      "title": "Prabowo Cek Pemeriksaan Food Safety yang Jadi Pembeda di SPPG Polri",
+      "link": "https://news.detik.com/berita/d-8353999/prabowo-cek-pemeriksaan-food-safety-yang-jadi-pembeda-di-sppg-polri",
+      "time": "09:50 WIB"
+    },
+    {
+      "title": "Prabowo Hadiri Peresmian SPPG Polri di Palmerah Jakbar",
+      "link": "https://news.detik.com/berita/d-8353946/prabowo-hadiri-peresmian-sppg-polri-di-palmerah-jakbar",
+      "time": "09:07 WIB"
+    },
+    {
+      "title": "Jelang Mudik 2026, Pemerintah Optimalkan Kolaborasi Lintas Sektor",
+      "link": "https://news.detik.com/berita/d-8353945/jelang-mudik-2026-pemerintah-optimalkan-kolaborasi-lintas-sektor",
+      "time": "09:07 WIB"
+    },
+    {
+      "title": "Kondisi Terkini 13 Penumpang Smart Air yang Selamat dari Penembakan KKB",
+      "link": "https://news.detik.com/berita/d-8353939/kondisi-terkini-13-penumpang-smart-air-yang-selamat-dari-penembakan-kkb",
+      "time": "09:00 WIB"
+    },
     {
       "title": "Kebakaran Pabrik Pestisida Bikin Cisadane Tercemar, Polisi Usut Unsur Pidana",
       "link": "https://news.detik.com/berita/d-8353924/kebakaran-pabrik-pestisida-bikin-cisadane-tercemar-polisi-usut-unsur-pidana",
