@@ -11,5 +11,16 @@
       "time": "00:03 WIB"
     }
   ],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "Gempa M 3,7 Terjadi di Gayo Lues",
+      "link": "https://news.detik.com/berita/d-8369576/gempa-m-3-7-terjadi-di-gayo-lues",
+      "time": "01:37 WIB"
+    },
+    {
+      "title": "7 Desa di Pasuruan Banjir Akibat Sungai Meluap",
+      "link": "https://news.detik.com/berita/d-8369571/7-desa-di-pasuruan-banjir-akibat-sungai-meluap",
+      "time": "01:04 WIB"
+    }
+  ]
 }
