@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Minggu, 01-03-2026
-Terakhir diperbarui: 04:47 WIB
+Terakhir diperbarui: 04:57 WIB
 ========================================
 
 Minggu, 01-03-2026
@@ -50,6 +50,8 @@ Minggu, 01-03-2026
 
 [Detik]
 
+- TNI-Polri Razia Warung di Terminal Cibinong Bogor, Sita 124 Botol Miras (04:35 WIB)
+  https://news.detik.com/berita/d-8377801/tni-polri-razia-warung-di-terminal-cibinong-bogor-sita-124-botol-miras
 - Disetop 47 SPPG Selama Ramadan gegara Menu MBG Tak Layak Makan (03:32 WIB)
   https://news.detik.com/berita/d-8377778/disetop-47-sppg-selama-ramadan-gegara-menu-mbg-tak-layak-makan
 - Jadwal Imsak Jakarta dan Sekitarnya Hari Ini 1 Maret 2026 (03:00 WIB)
