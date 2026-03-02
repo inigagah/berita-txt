@@ -1,6 +1,256 @@
 {
   "Kompas": [
     {
+      "title": "Server AWS di UEA Terbakar setelah &quot;Dihantam Objek&quot;, Layanan Down",
+      "link": "https://tekno.kompas.com/read/2026/03/02/08550897/server-aws-di-uea-terbakar-setelah-dihantam-objek-layanan-down?utm_source=ABC&utm_medium=rss",
+      "time": "08:55 WIB"
+    },
+    {
+      "title": "AMPHURI Imbau Penyelenggara Umrah Prioritaskan Keamanan Jamaah",
+      "link": "https://travel.kompas.com/read/2026/03/02/084518327/amphuri-imbau-penyelenggara-umrah-prioritaskan-keamanan-jamaah?utm_source=ABC&utm_medium=rss",
+      "time": "08:45 WIB"
+    },
+    {
+      "title": "Media Perancis Kritik Calvin Verdonk Usai Bawa Lille Menang 1-0 Kontra Nantes",
+      "link": "https://bola.kompas.com/read/2026/03/02/08423118/media-perancis-kritik-calvin-verdonk-usai-bawa-lille-menang-1-0-kontra-nantes?utm_source=ABC&utm_medium=rss",
+      "time": "08:42 WIB"
+    },
+    {
+      "title": "Honda CBR400R E-Clutch Segera Meluncur, Pakai Sistem Kopling Elektrik",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/084200315/honda-cbr400r-e-clutch-segera-meluncur-pakai-sistem-kopling-elektrik?utm_source=ABC&utm_medium=rss",
+      "time": "08:42 WIB"
+    },
+    {
+      "title": "Jadwal Lengkap 13 Wakil Indonesia di Babak Pertama All England 2026",
+      "link": "https://www.kompas.com/badminton/read/2026/03/02/08404908/jadwal-lengkap-13-wakil-indonesia-di-babak-pertama-all-england-2026?utm_source=ABC&utm_medium=rss",
+      "time": "08:40 WIB"
+    },
+    {
+      "title": "Try Sutrisno Meninggal Dunia, Ini Profil Wapres ke-6 Republik Indonesia",
+      "link": "https://nasional.kompas.com/read/2026/03/02/08380441/try-sutrisno-meninggal-dunia-ini-profil-wapres-ke-6-republik-indonesia?utm_source=ABC&utm_medium=rss",
+      "time": "08:38 WIB"
+    },
+    {
+      "title": "Krisis Memori Akibat AI, HP Akui 35 Persen Biaya PC Kini Habis untuk RAM",
+      "link": "https://tekno.kompas.com/read/2026/03/01/15160087/krisis-memori-akibat-ai-hp-akui-35-persen-biaya-pc-kini-habis-untuk-ram?utm_source=ABC&utm_medium=rss",
+      "time": "08:37 WIB"
+    },
+    {
+      "title": "Pramono Akan Keluarkan SE Mudik Lebaran 2026, Warga Diminta Lapor RT, RW atau Lurah",
+      "link": "https://megapolitan.kompas.com/read/2026/03/02/08362161/pramono-akan-keluarkan-se-mudik-lebaran-2026-warga-diminta-lapor-rt-rw?utm_source=ABC&utm_medium=rss",
+      "time": "08:36 WIB"
+    },
+    {
+      "title": "Try Sutrisno Meninggal Dunia, Istana Sampaikan Duka Mendalam",
+      "link": "https://nasional.kompas.com/read/2026/03/02/08351721/try-sutrisno-meninggal-dunia-istana-sampaikan-duka-mendalam?utm_source=ABC&utm_medium=rss",
+      "time": "08:35 WIB"
+    },
+    {
+      "title": "Populasi Robot AI Diprediksi Meledak, Pekerja Manusia Makin Terdesak",
+      "link": "https://tekno.kompas.com/read/2026/03/01/19070037/populasi-robot-ai-diprediksi-meledak-pekerja-manusia-makin-terdesak?utm_source=ABC&utm_medium=rss",
+      "time": "08:33 WIB"
+    },
+    {
+      "title": "Tips Memilih Baju Lebaran agar Nyaman dan Tak Cuma Dipakai Sekali",
+      "link": "https://lifestyle.kompas.com/read/2026/03/02/083200220/tips-memilih-baju-lebaran-agar-nyaman-dan-tak-cuma-dipakai-sekali?utm_source=ABC&utm_medium=rss",
+      "time": "08:32 WIB"
+    },
+    {
+      "title": "Xiaomi 17 Ultra Meluncur Global, Leica Leitz Phone Rilis dengan Ring &quot;Zoom&quot; Fisik",
+      "link": "https://tekno.kompas.com/read/2026/03/01/13590047/xiaomi-17-ultra-meluncur-global-leica-leitz-phone-rilis-dengan-ring-zoom-fisik?utm_source=ABC&utm_medium=rss",
+      "time": "08:27 WIB"
+    },
+    {
+      "title": "Hantam Lubang Merusak Sensor ABS, Bisa Rugi Jutaan Rupiah",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/082200215/hantam-lubang-merusak-sensor-abs-bisa-rugi-jutaan-rupiah?utm_source=ABC&utm_medium=rss",
+      "time": "08:22 WIB"
+    },
+    {
+      "title": "Hilangnya Situ-situ Pengendali Banjir di Jabodetabek, dari Ribuan Kini Tinggal 187",
+      "link": "https://megapolitan.kompas.com/read/2026/03/02/08205181/hilangnya-situ-situ-pengendali-banjir-di-jabodetabek-dari-ribuan-kini?utm_source=ABC&utm_medium=rss",
+      "time": "08:20 WIB"
+    },
+    {
+      "title": "Analis: Konflik AS-Israel–Iran Bisa Picu Risiko Resesi Global dari Harga Minyak",
+      "link": "https://money.kompas.com/read/2026/03/02/081800026/analis--konflik-as-israel-iran-bisa-picu-risiko-resesi-global-dari-harga?utm_source=ABC&utm_medium=rss",
+      "time": "08:18 WIB"
+    },
+    {
+      "title": "Wapres Ke-6 RI Try Sutrisno Meninggal Dunia",
+      "link": "https://nasional.kompas.com/read/2026/03/02/08170211/wapres-ke-6-ri-try-sutrisno-meninggal-dunia?utm_source=ABC&utm_medium=rss",
+      "time": "08:17 WIB"
+    },
+    {
+      "title": "Konflik di Iran Memanas, Rupiah Berpotensi Melemah ke Rp 17.000 Pekan Ini",
+      "link": "https://money.kompas.com/read/2026/03/02/081429726/konflik-di-iran-memanas-rupiah-berpotensi-melemah-ke-rp-17000-pekan-ini?utm_source=ABC&utm_medium=rss",
+      "time": "08:14 WIB"
+    },
+    {
+      "title": "Maarten Paes Jadi Pemain Terbaik Ajax, Analis Tetap Mengkritik",
+      "link": "https://bola.kompas.com/read/2026/03/02/08135358/maarten-paes-jadi-pemain-terbaik-ajax-analis-tetap-mengkritik?utm_source=ABC&utm_medium=rss",
+      "time": "08:13 WIB"
+    },
+    {
+      "title": "IHSG Hari Ini Dibayangi Perang Iran-Israel, Berisiko Melemah",
+      "link": "https://money.kompas.com/read/2026/03/02/081225926/ihsg-hari-ini-dibayangi-perang-iran-israel-berisiko-melemah?utm_source=ABC&utm_medium=rss",
+      "time": "08:12 WIB"
+    },
+    {
+      "title": "Estimasi Biaya Mudik Jakarta–Yogyakarta Naik Mitsubishi Xpander",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/081200815/estimasi-biaya-mudik-jakarta-yogyakarta-naik-mitsubishi-xpander?utm_source=ABC&utm_medium=rss",
+      "time": "08:12 WIB"
+    },
+    {
+      "title": "Jantung Mikel Arteta &quot;Hampir Berhenti&quot; Saat Arsenal Libas Chelsea 2-1",
+      "link": "https://bola.kompas.com/read/2026/03/02/08114078/jantung-mikel-arteta-hampir-berhenti-saat-arsenal-libas-chelsea-2-1?utm_source=ABC&utm_medium=rss",
+      "time": "08:11 WIB"
+    },
+    {
+      "title": "Menyorot Niat Prabowo Jadi Mediator Usai AS-Israel Serang Iran...",
+      "link": "https://nasional.kompas.com/read/2026/03/02/08094871/menyorot-niat-prabowo-jadi-mediator-usai-as-israel-serang-iran?utm_source=ABC&utm_medium=rss",
+      "time": "08:09 WIB"
+    },
+    {
+      "title": "Rekomendasi Rutinitas Pagi untuk Kebugaran di Usia 50an",
+      "link": "https://lifestyle.kompas.com/read/2026/03/02/080500020/rekomendasi-rutinitas-pagi-untuk-kebugaran-di-usia-50an?utm_source=ABC&utm_medium=rss",
+      "time": "08:05 WIB"
+    },
+    {
+      "title": "Apple Tutup Sementara Seluruh Apple Store di UEA",
+      "link": "https://tekno.kompas.com/read/2026/03/02/08020077/apple-tutup-sementara-seluruh-apple-store-di-uea?utm_source=ABC&utm_medium=rss",
+      "time": "08:02 WIB"
+    },
+    {
+      "title": "Bedah Tampilan iCar V23, Jip Listrik Bertampang Retro Modern",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/080200215/bedah-tampilan-icar-v23-jip-listrik-bertampang-retro-modern?utm_source=ABC&utm_medium=rss",
+      "time": "08:02 WIB"
+    },
+    {
+      "title": "Polemik Impor 105.000 Pikap India, Agrinas Klaim Hemat Rp 46,5 T, DPR Minta Kajian Ulang",
+      "link": "https://money.kompas.com/read/2026/03/02/080000326/polemik-impor-105.000-pikap-india-agrinas-klaim-hemat-rp-46-5-t-dpr-minta?utm_source=ABC&utm_medium=rss",
+      "time": "08:00 WIB"
+    },
+    {
+      "title": "Harga Minyak Dunia Melonjak, Konflik AS-Iran Ganggu Pengiriman",
+      "link": "https://money.kompas.com/read/2026/03/02/075706126/harga-minyak-dunia-melonjak-konflik-as-iran-ganggu-pengiriman?utm_source=ABC&utm_medium=rss",
+      "time": "07:57 WIB"
+    },
+    {
+      "title": "Dorong Pengembangan SDM, Prudential Indonesia Beri Akses Belajar di Singapura",
+      "link": "https://money.kompas.com/read/2026/03/02/075308326/dorong-pengembangan-sdm-prudential-indonesia-beri-akses-belajar-di-singapura?utm_source=ABC&utm_medium=rss",
+      "time": "07:53 WIB"
+    },
+    {
+      "title": "Teka-teki Senjata Tajam dan Pelat Palsu dalam Mobil Calya Lawan Arah di Gunung Sahari",
+      "link": "https://megapolitan.kompas.com/read/2026/03/02/07520341/teka-teki-senjata-tajam-dan-pelat-palsu-dalam-mobil-calya-lawan-arah-di?utm_source=ABC&utm_medium=rss",
+      "time": "07:52 WIB"
+    },
+    {
+      "title": "Perang Iran Ancam Finalissima Spanyol vs Argentina, RFEF-UEFA-CONMEBOL Gelar Rapat",
+      "link": "https://bola.kompas.com/read/2026/03/02/07501098/perang-iran-ancam-finalissima-spanyol-vs-argentina-rfef-uefa-conmebol-gelar?utm_source=ABC&utm_medium=rss",
+      "time": "07:50 WIB"
+    },
+    {
+      "title": "Penjelasan Ducati Soal Ban Motor Marc Marquez di MotoGP Thailand",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/074200815/penjelasan-ducati-soal-ban-motor-marc-marquez-di-motogp-thailand?utm_source=ABC&utm_medium=rss",
+      "time": "07:42 WIB"
+    },
+    {
+      "title": "Harga Minyak Melonjak 13 Persen Usai Serangan AS dan Israel ke Iran",
+      "link": "https://money.kompas.com/read/2026/03/02/074023426/harga-minyak-melonjak-13-persen-usai-serangan-as-dan-israel-ke-iran?utm_source=ABC&utm_medium=rss",
+      "time": "07:40 WIB"
+    },
+    {
+      "title": "Kapan Sebaiknya Anak Cowok dan Cewek Punya Kamar Tidur Terpisah?",
+      "link": "https://properti.kompas.com/read/2026/03/02/073248121/kapan-sebaiknya-anak-cowok-dan-cewek-punya-kamar-tidur-terpisah?utm_source=ABC&utm_medium=rss",
+      "time": "07:32 WIB"
+    },
+    {
+      "title": "Fenomena Pizza Pentagon Kembali Muncul Sebelum Serangan ke Iran",
+      "link": "https://tekno.kompas.com/read/2026/03/02/07320027/fenomena-pizza-pentagon-kembali-muncul-sebelum-serangan-ke-iran?utm_source=ABC&utm_medium=rss",
+      "time": "07:32 WIB"
+    },
+    {
+      "title": "Mudik Gratis Angkutan Motor dengan Kereta Dibuka, Cek Syaratnya",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/073100315/mudik-gratis-angkutan-motor-dengan-kereta-dibuka-cek-syaratnya?utm_source=ABC&utm_medium=rss",
+      "time": "07:31 WIB"
+    },
+    {
+      "title": "Deretan Gaun yang Serba Senada Sarifah Suraidah Istri Gubernur Kaltim",
+      "link": "https://lifestyle.kompas.com/read/2026/03/02/072641420/deretan-gaun-yang-serba-senada-sarifah-suraidah-istri-gubernur-kaltim?utm_source=ABC&utm_medium=rss",
+      "time": "07:26 WIB"
+    },
+    {
+      "title": "Lara UMKM Mi Ayam di Bekasi: Bayar Endorse Influencer, tapi &quot;Digantung&quot;",
+      "link": "https://megapolitan.kompas.com/read/2026/03/02/07235321/lara-umkm-mi-ayam-di-bekasi-bayar-endorse-influencer-tapi-digantung?utm_source=ABC&utm_medium=rss",
+      "time": "07:23 WIB"
+    },
+    {
+      "title": "BMKG: Cuaca Jakarta Hari Ini Diguyur Hujan Ringan Sore hingga Malam",
+      "link": "https://megapolitan.kompas.com/read/2026/03/02/07221141/bmkg-cuaca-jakarta-hari-ini-diguyur-hujan-ringan-sore-hingga-malam?utm_source=ABC&utm_medium=rss",
+      "time": "07:22 WIB"
+    },
+    {
+      "title": "Harga Pertamax Naik, Hitung Biaya BBM Full Tank Avanza dan Xpander",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/072200715/harga-pertamax-naik-hitung-biaya-bbm-full-tank-avanza-dan-xpander?utm_source=ABC&utm_medium=rss",
+      "time": "07:22 WIB"
+    },
+    {
+      "title": "Imbas Konflik Iran-Israel, Menhub Minta Maskapai dan Pengelola Bandara Tangani Pembatalan Sesuai Prosedur",
+      "link": "https://money.kompas.com/read/2026/03/02/071916526/imbas-konflik-iran-israel-menhub-minta-maskapai-dan-pengelola-bandara-tangani?utm_source=ABC&utm_medium=rss",
+      "time": "07:19 WIB"
+    },
+    {
+      "title": "Hasil Drawing ASEAN Futsal Championship 2026, Indonesia Segrup dengan Malaysia",
+      "link": "https://bola.kompas.com/read/2026/03/02/07184458/hasil-drawing-asean-futsal-championship-2026-indonesia-segrup-dengan-malaysia?utm_source=ABC&utm_medium=rss",
+      "time": "07:18 WIB"
+    },
+    {
+      "title": "Konflik Iran-AS-Israel Picu Lonjakan Harga Emas dan Perak Dunia",
+      "link": "https://money.kompas.com/read/2026/03/02/071700826/konflik-iran-as-israel-picu-lonjakan-harga-emas-dan-perak-dunia?utm_source=ABC&utm_medium=rss",
+      "time": "07:17 WIB"
+    },
+    {
+      "title": "Deretan Imbauan untuk WNI Usai Serangan AS ke Iran: Tunda Perjalanan hinga Tetap Waspada",
+      "link": "https://nasional.kompas.com/read/2026/03/02/07125931/deretan-imbauan-untuk-wni-usai-serangan-as-ke-iran-tunda-perjalanan-hinga?utm_source=ABC&utm_medium=rss",
+      "time": "07:12 WIB"
+    },
+    {
+      "title": "Estimasi Biaya Mudik Pakai Innova Zenix Hybrid Rute Jakarta-Yogyakarta",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/071200215/estimasi-biaya-mudik-pakai-innova-zenix-hybrid-rute-jakarta-yogyakarta?utm_source=ABC&utm_medium=rss",
+      "time": "07:12 WIB"
+    },
+    {
+      "title": "Laba Bersih BWPT Naik 39 Persen Jadi Rp 379 Miliar pada 2025, Ditopang Kenaikan Harga CPO",
+      "link": "https://money.kompas.com/read/2026/03/02/070900226/laba-bersih-bwpt-naik-39-persen-jadi-rp-379-miliar-pada-2025-ditopang-kenaikan?utm_source=ABC&utm_medium=rss",
+      "time": "07:09 WIB"
+    },
+    {
+      "title": "Daftar Unggulan All England 2026: Harapan di Pundak Jojo dan Fajar/Fikri",
+      "link": "https://www.kompas.com/badminton/read/2026/03/02/07052058/daftar-unggulan-all-england-2026-harapan-di-pundak-jojo-dan-fajar-fikri?utm_source=ABC&utm_medium=rss",
+      "time": "07:05 WIB"
+    },
+    {
+      "title": "Beberapa Maskapai Internasional Batalkan Penerbangan dan Setop Operasi Sementara Imbas Konflik Iran-Israel",
+      "link": "https://money.kompas.com/read/2026/03/02/070413126/beberapa-maskapai-internasional-batalkan-penerbangan-dan-setop-operasi?utm_source=ABC&utm_medium=rss",
+      "time": "07:04 WIB"
+    },
+    {
+      "title": "Tren Motor Listrik 2026: Insentif Hilang, Konsumen Makin Rasional",
+      "link": "https://otomotif.kompas.com/read/2026/03/02/070200815/tren-motor-listrik-2026--insentif-hilang-konsumen-makin-rasional?utm_source=ABC&utm_medium=rss",
+      "time": "07:02 WIB"
+    },
+    {
+      "title": "Harga Emas Dunia Melonjak Lebih dari 1 Persen Usai Serangan AS-Israel ke Iran",
+      "link": "https://money.kompas.com/read/2026/03/02/070112426/harga-emas-dunia-melonjak-lebih-dari-1-persen-usai-serangan-as-israel-ke-iran?utm_source=ABC&utm_medium=rss",
+      "time": "07:01 WIB"
+    },
+    {
+      "title": "Anthropic Tolak Buka Akses AI ke Pentagon, Trump Perintahkan Pemblokiran",
+      "link": "https://tekno.kompas.com/read/2026/03/02/07010047/anthropic-tolak-buka-akses-ai-ke-pentagon-trump-perintahkan-pemblokiran?utm_source=ABC&utm_medium=rss",
+      "time": "07:01 WIB"
+    },
+    {
       "title": "Jadwal Persebaya Vs Persib, Satu Atensi Federico Barba",
       "link": "https://bola.kompas.com/read/2026/03/02/06521818/jadwal-persebaya-vs-persib-satu-atensi-federico-barba?utm_source=ABC&utm_medium=rss",
       "time": "06:52 WIB"
@@ -342,6 +592,61 @@
     }
   ],
   "Detik": [
+    {
+      "title": "Wapres ke-6 RI Try Sutrisno Meninggal Dunia",
+      "link": "https://news.detik.com/berita/d-8379161/wapres-ke-6-ri-try-sutrisno-meninggal-dunia",
+      "time": "08:31 WIB"
+    },
+    {
+      "title": "Suami di Kepri Mutilasi Istri, Penguatan Layanan Korban KDRT Diminta Dikuatkan",
+      "link": "https://news.detik.com/berita/d-8379153/suami-di-kepri-mutilasi-istri-penguatan-layanan-korban-kdrt-diminta-dikuatkan",
+      "time": "08:24 WIB"
+    },
+    {
+      "title": "⁠Dampak Timur Tengah Membara ke Penerbangan dari dan ke Indonesia",
+      "link": "https://news.detik.com/berita/d-8379148/dampak-timur-tengah-membara-ke-penerbangan-dari-dan-ke-indonesia",
+      "time": "08:17 WIB"
+    },
+    {
+      "title": "KRL Bogor-Jakarta Kota Gangguan gegara Masalah Rel di Stasiun Bogor-Cilebut",
+      "link": "https://news.detik.com/berita/d-8379141/krl-bogor-jakarta-kota-gangguan-gegara-masalah-rel-di-stasiun-bogor-cilebut",
+      "time": "07:59 WIB"
+    },
+    {
+      "title": "Konflik AS-Israel-Iran Picu Krisis Energi hingga Perang Dunia",
+      "link": "https://news.detik.com/berita/d-8378944/konflik-as-israel-iran-picu-krisis-energi-hingga-perang-dunia",
+      "time": "07:58 WIB"
+    },
+    {
+      "title": "Taman Kota Cawang Diduga Lokasi Asusila, Gerindra Minta Pengawasan Diperketat",
+      "link": "https://news.detik.com/berita/d-8379138/taman-kota-cawang-diduga-lokasi-asusila-gerindra-minta-pengawasan-diperketat",
+      "time": "07:49 WIB"
+    },
+    {
+      "title": "Kecelakaan Truk Tabrak Pembatas Jalan di Jakbar, Lalin Padat",
+      "link": "https://news.detik.com/berita/d-8379134/kecelakaan-truk-tabrak-pembatas-jalan-di-jakbar-lalin-padat",
+      "time": "07:33 WIB"
+    },
+    {
+      "title": "PAN Desak Pemerintah Prioritaskan WNI di Situasi Konflik Timur Tengah",
+      "link": "https://news.detik.com/berita/d-8379129/pan-desak-pemerintah-prioritaskan-wni-di-situasi-konflik-timur-tengah",
+      "time": "07:23 WIB"
+    },
+    {
+      "title": "Kolaborasi Kemenbud, 17.000 Paket Rendang Disalurkan ke Sumatera",
+      "link": "https://news.detik.com/berita/d-8379124/kolaborasi-kemenbud-17-000-paket-rendang-disalurkan-ke-sumatera",
+      "time": "07:05 WIB"
+    },
+    {
+      "title": "Imbauan Tunda Umrah dari Kemenhaj Saat Timur Tengah Memanas",
+      "link": "https://news.detik.com/berita/d-8379123/imbauan-tunda-umrah-dari-kemenhaj-saat-timur-tengah-memanas",
+      "time": "07:00 WIB"
+    },
+    {
+      "title": "Prediksi Pakar soal Sosok Penerus Ali Khamenei di Iran",
+      "link": "https://news.detik.com/berita/d-8379108/prediksi-pakar-soal-sosok-penerus-ali-khamenei-di-iran",
+      "time": "06:47 WIB"
+    },
     {
       "title": "Ledakan Terjadi di Rumah Warga Ponorogo Jatim, 1 Orang Tewas",
       "link": "https://news.detik.com/berita/d-8379071/ledakan-terjadi-di-rumah-warga-ponorogo-jatim-1-orang-tewas",
