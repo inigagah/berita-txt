@@ -1,6 +1,171 @@
 {
   "Kompas": [
     {
+      "title": "Dua Spesies Burung Baru Ditemukan di Amazon, Terungkap dari Analisis Suara dan AI",
+      "link": "https://www.kompas.com/sains/read/2026/03/10/130308523/dua-spesies-burung-baru-ditemukan-di-amazon-terungkap-dari-analisis-suara?utm_source=ABC&utm_medium=rss",
+      "time": "13:03 WIB"
+    },
+    {
+      "title": "Pembunuh Pensiunan JICT Ermanto Usman Ditangkap Polisi",
+      "link": "https://megapolitan.kompas.com/read/2026/03/10/13020681/pembunuh-pensiunan-jict-ermanto-usman-ditangkap-polisi?utm_source=ABC&utm_medium=rss",
+      "time": "13:02 WIB"
+    },
+    {
+      "title": "Smartwatch Huawei Watch Ultimate 2 Resmi di Indonesia, Bisa Menyelam 150 Meter dan Kirim Pesan di Bawah Air",
+      "link": "https://tekno.kompas.com/read/2026/03/10/13010047/smartwatch-huawei-watch-ultimate-2-resmi-di-indonesia-bisa-menyelam-150-meter?utm_source=ABC&utm_medium=rss",
+      "time": "13:01 WIB"
+    },
+    {
+      "title": "Daftar 10 Merek Mobil Terlaris di Indonesia Februari 2026",
+      "link": "https://otomotif.kompas.com/read/2026/03/10/130100915/daftar-10-merek-mobil-terlaris-di-indonesia-februari-2026?utm_source=ABC&utm_medium=rss",
+      "time": "13:01 WIB"
+    },
+    {
+      "title": "Liburan ke Jepang? Turis Asing Berpotensi Bayar Tiket Museum 3 Kali Lipat Lebih Mahal",
+      "link": "https://travel.kompas.com/read/2026/03/10/130000227/liburan-ke-jepang-turis-asing-berpotensi-bayar-tiket-museum-3-kali-lipat?utm_source=ABC&utm_medium=rss",
+      "time": "13:00 WIB"
+    },
+    {
+      "title": "THR Karyawan Swasta Bisa Tak Dikenai Pajak, Begini Caranya Menurut DJP",
+      "link": "https://money.kompas.com/read/2026/03/10/130000426/thr-karyawan-swasta-bisa-tak-dikenai-pajak-begini-caranya-menurut-djp?utm_source=ABC&utm_medium=rss",
+      "time": "13:00 WIB"
+    },
+    {
+      "title": "Kota dengan Penjualan Ritel Tertinggi Awal 2026: Surabaya Memimpin",
+      "link": "https://money.kompas.com/read/2026/03/10/125903126/kota-dengan-penjualan-ritel-tertinggi-awal-2026-surabaya-memimpin?utm_source=ABC&utm_medium=rss",
+      "time": "12:59 WIB"
+    },
+    {
+      "title": "Galatasaray Vs Liverpool, Arne Slot Lupakan Kekalahan di Fase Liga",
+      "link": "https://bola.kompas.com/read/2026/03/10/12584648/galatasaray-vs-liverpool-arne-slot-lupakan-kekalahan-di-fase-liga?utm_source=ABC&utm_medium=rss",
+      "time": "12:58 WIB"
+    },
+    {
+      "title": "Wamendagri Sebut Pj Gubernur Harusnya Bisa Jauhi Korupsi karena Tak Ada Beban Politik",
+      "link": "https://nasional.kompas.com/read/2026/03/10/12555681/wamendagri-sebut-pj-gubernur-harusnya-bisa-jauhi-korupsi-karena-tak-ada?utm_source=ABC&utm_medium=rss",
+      "time": "12:55 WIB"
+    },
+    {
+      "title": "5 Zodiak dengan Positive Vibes, Dikenal Energinya Menular ke Sekitar",
+      "link": "https://lifestyle.kompas.com/read/2026/03/10/125500320/5-zodiak-dengan-positive-vibes-dikenal-energinya-menular-ke-sekitar?utm_source=ABC&utm_medium=rss",
+      "time": "12:55 WIB"
+    },
+    {
+      "title": "Puluhan Bangunan Liar dan Parkir Liar di Belakang Plaza Indonesia Ditertibkan",
+      "link": "https://megapolitan.kompas.com/read/2026/03/10/12521391/puluhan-bangunan-liar-dan-parkir-liar-di-belakang-plaza-indonesia?utm_source=ABC&utm_medium=rss",
+      "time": "12:52 WIB"
+    },
+    {
+      "title": "SPPG di Jatim yang Berikan Menu MBG Lele Mentah Dihentikan Sementara",
+      "link": "https://nasional.kompas.com/read/2026/03/10/12465951/sppg-di-jatim-yang-berikan-menu-mbg-lele-mentah-dihentikan-sementara?utm_source=ABC&utm_medium=rss",
+      "time": "12:46 WIB"
+    },
+    {
+      "title": "Dibangun di Ruang Terbuka Hijau, Lapangan Padel di Kembangan Disegel",
+      "link": "https://megapolitan.kompas.com/read/2026/03/10/12445151/dibangun-di-ruang-terbuka-hijau-lapangan-padel-di-kembangan-disegel?utm_source=ABC&utm_medium=rss",
+      "time": "12:44 WIB"
+    },
+    {
+      "title": "Puan Minta Pemerintah Antisipasi Kondisi yang Bebani Rakyat Jelang Lebaran",
+      "link": "https://nasional.kompas.com/read/2026/03/10/12435991/puan-minta-pemerintah-antisipasi-kondisi-yang-bebani-rakyat-jelang-lebaran?utm_source=ABC&utm_medium=rss",
+      "time": "12:43 WIB"
+    },
+    {
+      "title": "Permintaan Emas di RI Menguat Jelang Ramadhan, Cek Promo Maret HRTA",
+      "link": "https://money.kompas.com/read/2026/03/10/124211726/permintaan-emas-di-ri-menguat-jelang-ramadhan-cek-promo-maret-hrta?utm_source=ABC&utm_medium=rss",
+      "time": "12:42 WIB"
+    },
+    {
+      "title": "Kemenperin: Industri Makanan Minuman Belum Terdampak Perang, Bahan Baku Sudah Masuk",
+      "link": "https://money.kompas.com/read/2026/03/10/124112226/kemenperin-industri-makanan-minuman-belum-terdampak-perang-bahan-baku-sudah?utm_source=ABC&utm_medium=rss",
+      "time": "12:41 WIB"
+    },
+    {
+      "title": "Ini Pernyataan Prabowo yang Wanti-wanti Bahaya Menggunungnya Sampah di Bantargebang",
+      "link": "https://nasional.kompas.com/read/2026/03/10/12385281/ini-pernyataan-prabowo-yang-wanti-wanti-bahaya-menggunungnya-sampah-di?utm_source=ABC&utm_medium=rss",
+      "time": "12:38 WIB"
+    },
+    {
+      "title": "WIFI dan Nokia Jajaki Pengembangan Infrastruktur Digital 6G",
+      "link": "https://money.kompas.com/read/2026/03/10/123716426/wifi-dan-nokia-jajaki-pengembangan-infrastruktur-digital-6g?utm_source=ABC&utm_medium=rss",
+      "time": "12:37 WIB"
+    },
+    {
+      "title": "Banjir di Periuk Tangerang Berangsur Surut, Masih Ada yang Terendam 4 Meter",
+      "link": "https://megapolitan.kompas.com/read/2026/03/10/12352191/banjir-di-periuk-tangerang-berangsur-surut-masih-ada-yang-terendam-4?utm_source=ABC&utm_medium=rss",
+      "time": "12:35 WIB"
+    },
+    {
+      "title": "Mudik Gratis Pemprov DKI Berangkat 17 Maret, Siapkan 709 Bus untuk 30.774 Pemudik",
+      "link": "https://megapolitan.kompas.com/read/2026/03/10/12351291/mudik-gratis-pemprov-dki-berangkat-17-maret-siapkan-709-bus-untuk-30774?utm_source=ABC&utm_medium=rss",
+      "time": "12:35 WIB"
+    },
+    {
+      "title": "Harga HP Samsung Terbaru 10 Maret 2026, Galaxy Z Fold 7 Turun Rp 4 Juta",
+      "link": "https://tekno.kompas.com/read/2026/03/10/12350057/harga-hp-samsung-terbaru-10-maret-2026-galaxy-z-fold-7-turun-rp-4-juta?utm_source=ABC&utm_medium=rss",
+      "time": "12:35 WIB"
+    },
+    {
+      "title": "Puan Sebut DPR Dukung Pembatasan Medsos untuk Anak agar Tak Kebablasan",
+      "link": "https://nasional.kompas.com/read/2026/03/10/12344451/puan-sebut-dpr-dukung-pembatasan-medsos-untuk-anak-agar-tak-kebablasan?utm_source=ABC&utm_medium=rss",
+      "time": "12:34 WIB"
+    },
+    {
+      "title": "Mengapa Beberapa Burung Bisa “Bicara” Seperti Manusia?",
+      "link": "https://www.kompas.com/sains/read/2026/03/10/123247723/mengapa-beberapa-burung-bisa-bicara-seperti-manusia?utm_source=ABC&utm_medium=rss",
+      "time": "12:32 WIB"
+    },
+    {
+      "title": "Ingin Tidur Lebih Pulas? Coba Gunakan Penutup Mata",
+      "link": "https://lifestyle.kompas.com/read/2026/03/10/123100720/ingin-tidur-lebih-pulas-coba-gunakan-penutup-mata?utm_source=ABC&utm_medium=rss",
+      "time": "12:31 WIB"
+    },
+    {
+      "title": "Diskon Tarif Tol 30 Persen Jasa Marga, Cek Tanggal, Rute, dan Jam Berlakunya di Sini",
+      "link": "https://money.kompas.com/read/2026/03/10/123000826/diskon-tarif-tol-30-persen-jasa-marga-cek-tanggal-rute-dan-jam-berlakunya-di?utm_source=ABC&utm_medium=rss",
+      "time": "12:30 WIB"
+    },
+    {
+      "title": "DPR Nilai Pasal Polis Asuransi Ini Tak Bertentangan dengan UUD 1945",
+      "link": "https://nasional.kompas.com/read/2026/03/10/12272851/dpr-nilai-pasal-polis-asuransi-ini-tak-bertentangan-dengan-uud-1945?utm_source=ABC&utm_medium=rss",
+      "time": "12:27 WIB"
+    },
+    {
+      "title": "Bos AirAsia Tony Fernandes Didukung Jadi Presiden Baru FAM",
+      "link": "https://bola.kompas.com/read/2026/03/10/12271608/bos-airasia-tony-fernandes-didukung-jadi-presiden-baru-fam?utm_source=ABC&utm_medium=rss",
+      "time": "12:27 WIB"
+    },
+    {
+      "title": "Di MK, Wamenkum Tegaskan Pasal Penghinaan Presiden Bersifat Delik Aduan",
+      "link": "https://nasional.kompas.com/read/2026/03/10/12262321/di-mk-wamenkum-tegaskan-pasal-penghinaan-presiden-bersifat-delik-aduan?utm_source=ABC&utm_medium=rss",
+      "time": "12:26 WIB"
+    },
+    {
+      "title": "Kata Marquez soal Pensiun dari MotoGP dan Sebut Lorenzo Rival Tersulit",
+      "link": "https://www.kompas.com/motogp/read/2026/03/10/12235388/kata-marquez-soal-pensiun-dari-motogp-dan-sebut-lorenzo-rival-tersulit?utm_source=ABC&utm_medium=rss",
+      "time": "12:23 WIB"
+    },
+    {
+      "title": "SPAM Lampahan di Bener Meriah Kini Bisa Layani Air Bersih 3.000 KK",
+      "link": "https://www.kompas.com/properti/read/2026/03/10/122323321/spam-lampahan-di-bener-meriah-kini-bisa-layani-air-bersih-3000-kk?utm_source=ABC&utm_medium=rss",
+      "time": "12:23 WIB"
+    },
+    {
+      "title": "Kena OTT KPK, Wakil Bupati Rejang Lebong Punya Harta Rp 29,3 Miliar",
+      "link": "https://nasional.kompas.com/read/2026/03/10/12202711/kena-ott-kpk-wakil-bupati-rejang-lebong-punya-harta-rp-293-miliar?utm_source=ABC&utm_medium=rss",
+      "time": "12:20 WIB"
+    },
+    {
+      "title": "Kejar Prestasi Internasional, IPL Komitmen Bangun Ekosistem Tenis Meja Nasional",
+      "link": "https://www.kompas.com/sports/read/2026/03/10/12194708/kejar-prestasi-internasional-ipl-komitmen-bangun-ekosistem-tenis-meja?utm_source=ABC&utm_medium=rss",
+      "time": "12:19 WIB"
+    },
+    {
+      "title": "Car Free Night Akan Digelar di Sudirman-Thamrin Saat Malam Takbiran",
+      "link": "https://megapolitan.kompas.com/read/2026/03/10/12175571/car-free-night-akan-digelar-di-sudirman-thamrin-saat-malam-takbiran?utm_source=ABC&utm_medium=rss",
+      "time": "12:17 WIB"
+    },
+    {
       "title": "Premi Asuransi Banjir Bisa Berubah, Risiko Bencana Jadi Pertimbangan",
       "link": "https://money.kompas.com/read/2026/03/10/121200126/premi-asuransi-banjir-bisa-berubah-risiko-bencana-jadi-pertimbangan?utm_source=ABC&utm_medium=rss",
       "time": "12:12 WIB"
@@ -1002,6 +1167,111 @@
     }
   ],
   "Detik": [
+    {
+      "title": "Ketua DPR Soroti Perintah Siaga 1, Minta Komisi I Tanya TNI",
+      "link": "https://news.detik.com/berita/d-8393052/ketua-dpr-soroti-perintah-siaga-1-minta-komisi-i-tanya-tni",
+      "time": "13:01 WIB"
+    },
+    {
+      "title": "KIP Kabulkan Sebagian Gugatan Terkait Informasi Studi Jokowi di UGM",
+      "link": "https://news.detik.com/berita/d-8393049/kip-kabulkan-sebagian-gugatan-terkait-informasi-studi-jokowi-di-ugm",
+      "time": "12:56 WIB"
+    },
+    {
+      "title": "BPJS Kesehatan Ingatkan Peserta JKN Lakukan Skrining Riwayat Kesehatan",
+      "link": "https://news.detik.com/berita/d-8393041/bpjs-kesehatan-ingatkan-peserta-jkn-lakukan-skrining-riwayat-kesehatan",
+      "time": "12:54 WIB"
+    },
+    {
+      "title": "Bapas Dampingi Remaja Kalsel ABH Kasus Pemerkosaan saat Diperiksa Polisi",
+      "link": "https://news.detik.com/berita/d-8393032/bapas-dampingi-remaja-kalsel-abh-kasus-pemerkosaan-saat-diperiksa-polisi",
+      "time": "12:51 WIB"
+    },
+    {
+      "title": "Sidang Kasus Chromebook, Nadiem Cerita Awal Mula Dirikan Gojek",
+      "link": "https://news.detik.com/berita/d-8393030/sidang-kasus-chromebook-nadiem-cerita-awal-mula-dirikan-gojek",
+      "time": "12:50 WIB"
+    },
+    {
+      "title": "Jasa Marga Prediksi 3,5 Juta Kendaraan Keluar Jakarta saat Mudik 2026",
+      "link": "https://news.detik.com/berita/d-8393029/jasa-marga-prediksi-3-5-juta-kendaraan-keluar-jakarta-saat-mudik-2026",
+      "time": "12:49 WIB"
+    },
+    {
+      "title": "DPR Bakal Uji Kelayakan Dewan Komisioner OJK, Dibawa ke Paripurna Lusa",
+      "link": "https://news.detik.com/berita/d-8393006/dpr-bakal-uji-kelayakan-dewan-komisioner-ojk-dibawa-ke-paripurna-lusa",
+      "time": "12:41 WIB"
+    },
+    {
+      "title": "Terjebak Jaring Nelayan, 11 Paus Pilot di NTT Mati",
+      "link": "https://news.detik.com/berita/d-8392999/terjebak-jaring-nelayan-11-paus-pilot-di-ntt-mati",
+      "time": "12:38 WIB"
+    },
+    {
+      "title": "KPK Sita Uang Tunai Saat OTT Bupati Rejang Lebong",
+      "link": "https://news.detik.com/berita/d-8392998/kpk-sita-uang-tunai-saat-ott-bupati-rejang-lebong",
+      "time": "12:38 WIB"
+    },
+    {
+      "title": "DKI Perdana Gelar &#x27;Mudik ke Jakarta&#x27;, Ada Paket Wisata Ancol hingga TMII",
+      "link": "https://news.detik.com/berita/d-8392980/dki-perdana-gelar-mudik-ke-jakarta-ada-paket-wisata-ancol-hingga-tmii",
+      "time": "12:33 WIB"
+    },
+    {
+      "title": "DPR Janji Penuhi &#x27;Meaningful Participation&#x27; di Pembahasan RUU PPRT",
+      "link": "https://news.detik.com/berita/d-8392976/dpr-janji-penuhi-meaningful-participation-di-pembahasan-ruu-pprt",
+      "time": "12:32 WIB"
+    },
+    {
+      "title": "Pramono Luncurkan Logo 5 Abad Jakarta, Puncak Perayaan Digelar 22 Juni 2027",
+      "link": "https://news.detik.com/berita/d-8392959/pramono-luncurkan-logo-5-abad-jakarta-puncak-perayaan-digelar-22-juni-2027",
+      "time": "12:23 WIB"
+    },
+    {
+      "title": "Puan Bilang Perang Timur Tengah Bisa Ganggu Ekonomi RI, Beber Langkah DPR",
+      "link": "https://news.detik.com/berita/d-8392953/puan-bilang-perang-timur-tengah-bisa-ganggu-ekonomi-ri-beber-langkah-dpr",
+      "time": "12:18 WIB"
+    },
+    {
+      "title": "Jalan Tol Tangerang-Merak Rusak, Andra Soni Harap Perbaikan Dikebut",
+      "link": "https://news.detik.com/berita/d-8392942/jalan-tol-tangerang-merak-rusak-andra-soni-harap-perbaikan-dikebut",
+      "time": "12:13 WIB"
+    },
+    {
+      "title": "Kapolda Sumsel Pastikan Tol Kapal Betung Siap Hadapi Arus Mudik 2026",
+      "link": "https://news.detik.com/berita/d-8392939/kapolda-sumsel-pastikan-tol-kapal-betung-siap-hadapi-arus-mudik-2026",
+      "time": "12:11 WIB"
+    },
+    {
+      "title": "Selain Bupati, KPK Juga OTT Wakil Bupati Rejang Lebong",
+      "link": "https://news.detik.com/berita/d-8392935/selain-bupati-kpk-juga-ott-wakil-bupati-rejang-lebong",
+      "time": "12:09 WIB"
+    },
+    {
+      "title": "Marak OTT Kepala Daerah, Puan Ungkit Biaya Politik Mahal",
+      "link": "https://news.detik.com/berita/d-8392922/marak-ott-kepala-daerah-puan-ungkit-biaya-politik-mahal",
+      "time": "12:04 WIB"
+    },
+    {
+      "title": "Jatanras Polda Metro Tangkap Pelaku Pembunuhan Ermanto Usman di Bekasi!",
+      "link": "https://news.detik.com/berita/d-8392917/jatanras-polda-metro-tangkap-pelaku-pembunuhan-ermanto-usman-di-bekasi",
+      "time": "12:01 WIB"
+    },
+    {
+      "title": "Pemprov Jakarta Bakal Berangkatkan 30 Ribu Orang Mudik Gratis 2026",
+      "link": "https://news.detik.com/berita/d-8392916/pemprov-jakarta-bakal-berangkatkan-30-ribu-orang-mudik-gratis-2026",
+      "time": "12:00 WIB"
+    },
+    {
+      "title": "Pemprov DKI Bakal Gelar Car Free Night Saat Malam Takbiran",
+      "link": "https://news.detik.com/berita/d-8392915/pemprov-dki-bakal-gelar-car-free-night-saat-malam-takbiran",
+      "time": "11:59 WIB"
+    },
+    {
+      "title": "Kronologi Wanita Tewas Tinggal Tulang di Depok Dibunuh Suami Siri",
+      "link": "https://news.detik.com/berita/d-8392909/kronologi-wanita-tewas-tinggal-tulang-di-depok-dibunuh-suami-siri",
+      "time": "11:53 WIB"
+    },
     {
       "title": "Puan Dukung Komdigi Batasi Anak Pakai Medsos: Saat Ini Sudah Kebablasan",
       "link": "https://news.detik.com/berita/d-8392900/puan-dukung-komdigi-batasi-anak-pakai-medsos-saat-ini-sudah-kebablasan",
