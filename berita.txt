@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Kamis, 12-03-2026
-Terakhir diperbarui: 05:34 WIB
+Terakhir diperbarui: 05:57 WIB
 ========================================
 
 Kamis, 12-03-2026
@@ -9,6 +9,16 @@ Kamis, 12-03-2026
 
 [Kompas]
 
+- Premier League Tersungkur di Liga Champions, 6 Tim Tanpa Kemenangan (05:56 WIB)
+  https://bola.kompas.com/read/2026/03/12/05565178/premier-league-tersungkur-di-liga-champions-6-tim-tanpa-kemenangan?utm_source=ABC&utm_medium=rss
+- Kata-kata Mikel Arteta Usai Hasil Leverkusen Vs Arsenal 1-1 (05:46 WIB)
+  https://bola.kompas.com/read/2026/03/12/05460268/kata-kata-mikel-arteta-usai-hasil-leverkusen-vs-arsenal-1-1?utm_source=ABC&utm_medium=rss
+- Tutupi Bau Busuk, Suami Siri Taburi Kopi ke Jasad Wanita Tinggal Tulang di Depok (05:42 WIB)
+  https://megapolitan.kompas.com/read/2026/03/12/05421171/tutupi-bau-busuk-suami-siri-taburi-kopi-ke-jasad-wanita-tinggal-tulang-di?utm_source=ABC&utm_medium=rss
+- Logistik Tetap Ngebut Saat Ramadhan, Arus Petikemas IPC TPK Naik 8,7 Persen (05:42 WIB)
+  https://money.kompas.com/read/2026/03/12/054200126/logistik-tetap-ngebut-saat-ramadhan-arus-petikemas-ipc-tpk-naik-8-7-persen?utm_source=ABC&utm_medium=rss
+- Timur Tengah Memanas, Nasib Nvidia, OpenAI, dkk Dipertaruhkan (05:40 WIB)
+  https://tekno.kompas.com/read/2026/03/11/09070067/timur-tengah-memanas-nasib-nvidia-openai-dkk-dipertaruhkan?utm_source=ABC&utm_medium=rss
 - Trump Blokir AI Anthropic, Microsoft Langsung Pasang Badan (05:28 WIB)
   https://tekno.kompas.com/read/2026/03/11/14020067/trump-blokir-ai-anthropic-microsoft-langsung-pasang-badan?utm_source=ABC&utm_medium=rss
 - Suami Siri Pegang HP Istri Usai Membunuhnya 5 Bulan Lalu, Pura-pura Jadi Korban (05:27 WIB)
@@ -80,6 +90,8 @@ Kamis, 12-03-2026
 
 [Detik]
 
+- Kakorlantas Ungkap Strategi Kelola Arus Mudik di Pelabuhan, Terapkan Delay System (05:47 WIB)
+  https://news.detik.com/berita/d-8396028/kakorlantas-ungkap-strategi-kelola-arus-mudik-di-pelabuhan-terapkan-delay-system
 - Korlantas Polri Andalkan Teknologi Digital Kelola Arus Mudik dan Balik Lebaran 2026 (05:21 WIB)
   https://news.detik.com/berita/d-8396015/korlantas-polri-andalkan-teknologi-digital-kelola-arus-mudik-dan-balik-lebaran-2026
 - Polisi Ungkap &#x27;Ramuan Maut&#x27; Pabrik Mi Mengandung Formalin di Boyolali (05:02 WIB)
