@@ -1,6 +1,236 @@
 {
   "Kompas": [
     {
+      "title": "Review Detail Changan Lumin: Kenyamanan, Keselamatan, &amp; Infotainment",
+      "link": "https://otomotif.kompas.com/read/2026/03/12/160100415/review-detail-changan-lumin--kenyamanan-keselamatan-infotainment?utm_source=ABC&utm_medium=rss",
+      "time": "16:01 WIB"
+    },
+    {
+      "title": "Ini 7 Sunscreen No White Cast Terbaik yang Bikin Kulit Tetap Natural",
+      "link": "https://lifestyle.kompas.com/read/2026/03/12/160018020/ini-7-sunscreen-no-white-cast-terbaik-yang-bikin-kulit-tetap-natural?utm_source=ABC&utm_medium=rss",
+      "time": "16:00 WIB"
+    },
+    {
+      "title": "Bansos BPNT Maret 2026 Rp 600.000 Sudah Cair, Ini Cara Cek Penerima Lewat HP",
+      "link": "https://money.kompas.com/read/2026/03/12/160005026/bansos-bpnt-maret-2026-rp-600000-sudah-cair-ini-cara-cek-penerima-lewat-hp?utm_source=ABC&utm_medium=rss",
+      "time": "16:00 WIB"
+    },
+    {
+      "title": "Kekurangan Petugas, Waktu Antre di Sejumlah Bandara Amerika Capai 3,5 Jam",
+      "link": "https://travel.kompas.com/read/2026/03/12/160000427/kekurangan-petugas-waktu-antre-di-sejumlah-bandara-amerika-capai-3-5-jam?utm_source=ABC&utm_medium=rss",
+      "time": "16:00 WIB"
+    },
+    {
+      "title": "Kondisi Jalur Mudik Pantura Jateng-DIY 94,20 Persen Mantap",
+      "link": "https://www.kompas.com/properti/read/2026/03/12/160000221/kondisi-jalur-mudik-pantura-jateng-diy-94-20-persen-mantap?utm_source=ABC&utm_medium=rss",
+      "time": "16:00 WIB"
+    },
+    {
+      "title": "Daftar Tarif Tol dari Jakarta ke Semarang, Solo, Jogja, dan Surabaya Jelang Lebaran 2026",
+      "link": "https://money.kompas.com/read/2026/03/12/160000326/daftar-tarif-tol-dari-jakarta-ke-semarang-solo-jogja-dan-surabaya-jelang?utm_source=ABC&utm_medium=rss",
+      "time": "16:00 WIB"
+    },
+    {
+      "title": "Pentingnya Ruang Olahraga Aman dan Nyaman di Sepak Bola Putri",
+      "link": "https://bola.kompas.com/read/2026/03/12/15592928/pentingnya-ruang-olahraga-aman-dan-nyaman-di-sepak-bola-putri?utm_source=ABC&utm_medium=rss",
+      "time": "15:59 WIB"
+    },
+    {
+      "title": "Goldman Sachs Perkirakan The Fed Baru Turunkan Suku Bunga pada September 2026",
+      "link": "https://money.kompas.com/read/2026/03/12/155850326/goldman-sachs-perkirakan-the-fed-baru-turunkan-suku-bunga-pada-september-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:58 WIB"
+    },
+    {
+      "title": "Permintaan Beras Zakat Naik Dua Kali Lipat Jelang Lebaran",
+      "link": "https://money.kompas.com/read/2026/03/12/155759826/permintaan-beras-zakat-naik-dua-kali-lipat-jelang-lebaran?utm_source=ABC&utm_medium=rss",
+      "time": "15:57 WIB"
+    },
+    {
+      "title": "Borneo FC Vs Persib, Hodak Hadapi Masalah di Laga Krusial",
+      "link": "https://bola.kompas.com/read/2026/03/12/15572488/borneo-fc-vs-persib-hodak-hadapi-masalah-di-laga-krusial?utm_source=ABC&utm_medium=rss",
+      "time": "15:57 WIB"
+    },
+    {
+      "title": "Warga China Shifting Diet Pakai Kopi Santan, Wamentan: Yang Untung Kita",
+      "link": "https://money.kompas.com/read/2026/03/12/155523126/warga-china-shifting-diet-pakai-kopi-santan-wamentan-yang-untung-kita?utm_source=ABC&utm_medium=rss",
+      "time": "15:55 WIB"
+    },
+    {
+      "title": "Presiden FIFA Apresiasi Progres Pusat Pelatihan Nasional PSSI di IKN",
+      "link": "https://bola.kompas.com/read/2026/03/12/15515238/presiden-fifa-apresiasi-progres-pusat-pelatihan-nasional-pssi-di-ikn?utm_source=ABC&utm_medium=rss",
+      "time": "15:51 WIB"
+    },
+    {
+      "title": "Bukan Hanya Masjid, 45 Rumah Ibadah Buddha Siap Jadi Tempat Singgah Saat Mudik Lebaran",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15492941/bukan-hanya-masjid-45-rumah-ibadah-buddha-siap-jadi-tempat-singgah-saat?utm_source=ABC&utm_medium=rss",
+      "time": "15:49 WIB"
+    },
+    {
+      "title": "Mahalnya Harga Tiket Mudik Jelang Lebaran yang Disorot DPR",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15483471/mahalnya-harga-tiket-mudik-jelang-lebaran-yang-disorot-dpr?utm_source=ABC&utm_medium=rss",
+      "time": "15:48 WIB"
+    },
+    {
+      "title": "Transjabodetabek Blok M-Bandara Soetta: Rute, Titik Pemberhentian, Tarif, Fasilitas",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15480721/transjabodetabek-blok-m-bandara-soetta-rute-titik-pemberhentian-tarif?utm_source=ABC&utm_medium=rss",
+      "time": "15:48 WIB"
+    },
+    {
+      "title": "Alasan JPU Tuntut Ammar Zoni 9 Tahun Penjara: Pernah Dihukum 3 Kali Kasus Narkoba",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15473901/alasan-jpu-tuntut-ammar-zoni-9-tahun-penjara-pernah-dihukum-3-kali-kasus?utm_source=ABC&utm_medium=rss",
+      "time": "15:47 WIB"
+    },
+    {
+      "title": "Prabowo Bakal Bentuk Area Preservasi Koridor Gajah demi Selamatkan Populasi",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15425661/prabowo-bakal-bentuk-area-preservasi-koridor-gajah-demi-selamatkan-populasi?utm_source=ABC&utm_medium=rss",
+      "time": "15:42 WIB"
+    },
+    {
+      "title": "Pinjol Resmi OJK Maret 2026, Ini Daftar 95 Aplikasi Pinjaman Online Legal",
+      "link": "https://money.kompas.com/read/2026/03/12/154210026/pinjol-resmi-ojk-maret-2026-ini-daftar-95-aplikasi-pinjaman-online-legal?utm_source=ABC&utm_medium=rss",
+      "time": "15:42 WIB"
+    },
+    {
+      "title": "GAC Dirikan Posko Siaga Mudik Lebaran 2026",
+      "link": "https://otomotif.kompas.com/read/2026/03/12/154100915/gac-dirikan-posko-siaga-mudik-lebaran-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:41 WIB"
+    },
+    {
+      "title": "Gunungan Sampah Bantargebang Setinggi 17 Lantai, Bakal Diubah Jadi Listrik",
+      "link": "https://money.kompas.com/read/2026/03/12/154025526/gunungan-sampah-bantargebang-setinggi-17-lantai-bakal-diubah-jadi-listrik?utm_source=ABC&utm_medium=rss",
+      "time": "15:40 WIB"
+    },
+    {
+      "title": "Sering Dianggap Sama, Ini Beda Katarak dan Glaukoma",
+      "link": "https://lifestyle.kompas.com/read/2026/03/12/153500020/sering-dianggap-sama-ini-beda-katarak-dan-glaukoma?utm_source=ABC&utm_medium=rss",
+      "time": "15:35 WIB"
+    },
+    {
+      "title": "RUU Keuangan Haji akan Mengatur soal Angsuran dan Investasi oleh BPKH",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15323651/ruu-keuangan-haji-akan-mengatur-soal-angsuran-dan-investasi-oleh-bpkh?utm_source=ABC&utm_medium=rss",
+      "time": "15:32 WIB"
+    },
+    {
+      "title": "Di Sidang di MK, TNI Ungkap Alasan Peradilan Militer Perlu Dipisahkan dari Pengadilan Umum",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15323551/di-sidang-di-mk-tni-ungkap-alasan-peradilan-militer-perlu-dipisahkan-dari?utm_source=ABC&utm_medium=rss",
+      "time": "15:32 WIB"
+    },
+    {
+      "title": "Banggar DPR Sebut MBG Wajib Jalan karena Masuk Mandatori Anggaran Pendidikan",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15303391/banggar-dpr-sebut-mbg-wajib-jalan-karena-masuk-mandatori-anggaran-pendidikan?utm_source=ABC&utm_medium=rss",
+      "time": "15:30 WIB"
+    },
+    {
+      "title": "Jadwal Buka Puasa Kabupaten Tangerang Hari Ini 12 Maret 2026",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15300051/jadwal-buka-puasa-kabupaten-tangerang-hari-ini-12-maret-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:30 WIB"
+    },
+    {
+      "title": "Pasar Butuh Kepastian, Analis Jelaskan Perlunya Pucuk Pimpinan OJK Segera Diisi",
+      "link": "https://money.kompas.com/read/2026/03/12/152941826/pasar-butuh-kepastian-analis-jelaskan-perlunya-pucuk-pimpinan-ojk-segera-diisi?utm_source=ABC&utm_medium=rss",
+      "time": "15:29 WIB"
+    },
+    {
+      "title": "Parkir Liar Depan Polres Jakarta Timur Sudah Kerap Ditertibkan, tapi Kembali Muncul",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15275801/parkir-liar-depan-polres-jakarta-timur-sudah-kerap-ditertibkan-tapi?utm_source=ABC&utm_medium=rss",
+      "time": "15:27 WIB"
+    },
+    {
+      "title": "iPhone 16e Setop Produksi, Ini Daftar Perangkat Apple yang Turut Dihentikan",
+      "link": "https://tekno.kompas.com/read/2026/03/11/09204737/iphone-16e-setop-produksi-ini-daftar-perangkat-apple-yang-turut-dihentikan?utm_source=ABC&utm_medium=rss",
+      "time": "15:27 WIB"
+    },
+    {
+      "title": "Jadwal Buka Puasa Tangerang Selatan Hari Ini 12 Maret 2026",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15260001/jadwal-buka-puasa-tangerang-selatan-hari-ini-12-maret-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:26 WIB"
+    },
+    {
+      "title": "Roy Suryo Bertekad Tak Ikuti Rismon Sianipar Ajukan Restorative Justice Kasus Ijazah Jokowi",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15220651/roy-suryo-bertekad-tak-ikuti-rismon-sianipar-ajukan-restorative-justice?utm_source=ABC&utm_medium=rss",
+      "time": "15:22 WIB"
+    },
+    {
+      "title": "Jadwal Buka Puasa Kota Tangerang Hari Ini 12 Maret 2026",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15220071/jadwal-buka-puasa-kota-tangerang-hari-ini-12-maret-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:22 WIB"
+    },
+    {
+      "title": "Rapor Penjualan Mobil Astra Group di Februari 2026",
+      "link": "https://otomotif.kompas.com/read/2026/03/12/152100115/rapor-penjualan-mobil-astra-group-di-februari-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:21 WIB"
+    },
+    {
+      "title": "Sepanjang 2025, Ajinomoto Kurangi Penggunaan Plastik hingga 1.736 Ton",
+      "link": "https://money.kompas.com/read/2026/03/12/152033126/sepanjang-2025-ajinomoto-kurangi-penggunaan-plastik-hingga-1736-ton?utm_source=ABC&utm_medium=rss",
+      "time": "15:20 WIB"
+    },
+    {
+      "title": "35 Miliarder Termuda Dunia 2026 Didominasi Gen Z, Mayoritas Pewaris Bisnis Keluarga",
+      "link": "https://money.kompas.com/read/2026/03/12/152025226/35-miliarder-termuda-dunia-2026-didominasi-gen-z-mayoritas-pewaris-bisnis?utm_source=ABC&utm_medium=rss",
+      "time": "15:20 WIB"
+    },
+    {
+      "title": "Jadwal Buka Puasa Kota Bogor Hari Ini 12 Maret 2026",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15180021/jadwal-buka-puasa-kota-bogor-hari-ini-12-maret-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:18 WIB"
+    },
+    {
+      "title": "Baleg DPR Pastikan RUU Hak Cipta Juga Lindungi Karya Jurnalistik, Penggunaan Harus Izin",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15162391/baleg-dpr-pastikan-ruu-hak-cipta-juga-lindungi-karya-jurnalistik-penggunaan?utm_source=ABC&utm_medium=rss",
+      "time": "15:16 WIB"
+    },
+    {
+      "title": "Jafar/Felis Keluhkan Nasib Apes Ganda Campuran Indonesia di Swiss Open",
+      "link": "https://www.kompas.com/badminton/read/2026/03/12/15150838/jafar-felis-keluhkan-nasib-apes-ganda-campuran-indonesia-di-swiss-open?utm_source=ABC&utm_medium=rss",
+      "time": "15:15 WIB"
+    },
+    {
+      "title": "Hasan Nasbi Mendadak Dipanggil Prabowo ke Istana",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15144121/hasan-nasbi-mendadak-dipanggil-prabowo-ke-istana?utm_source=ABC&utm_medium=rss",
+      "time": "15:14 WIB"
+    },
+    {
+      "title": "Eks Pembalap Bongkar Rivalitas Klasik Marquez, Rossi, dan Lorenzo di MotoGP",
+      "link": "https://www.kompas.com/motogp/read/2026/03/12/15143978/eks-pembalap-bongkar-rivalitas-klasik-marquez-rossi-dan-lorenzo-di-motogp?utm_source=ABC&utm_medium=rss",
+      "time": "15:14 WIB"
+    },
+    {
+      "title": "Viral Mobil Berdebu Parkir Sembarangan di Tikungan Jalan Tangerang, Warga Sebut Sudah Bulanan",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15140241/viral-mobil-berdebu-parkir-sembarangan-di-tikungan-jalan-tangerang-warga?utm_source=ABC&utm_medium=rss",
+      "time": "15:14 WIB"
+    },
+    {
+      "title": "Jadwal Buka Puasa Kota Depok Hari Ini 12 Maret 2026",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15140001/jadwal-buka-puasa-kota-depok-hari-ini-12-maret-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:14 WIB"
+    },
+    {
+      "title": "Kemenag Siapkan 6.859 Masjid untuk Pemudik Lebaran, Ini Layanannya",
+      "link": "https://nasional.kompas.com/read/2026/03/12/15134891/kemenag-siapkan-6859-masjid-untuk-pemudik-lebaran-ini-layanannya?utm_source=ABC&utm_medium=rss",
+      "time": "15:13 WIB"
+    },
+    {
+      "title": "AS Mulai Proses Hukum Tarif Baru, RI Pastikan Perjanjian Dagang ART Tetap Jadi Pegangan",
+      "link": "https://money.kompas.com/read/2026/03/12/151215526/as-mulai-proses-hukum-tarif-baru-ri-pastikan-perjanjian-dagang-art-tetap-jadi?utm_source=ABC&utm_medium=rss",
+      "time": "15:12 WIB"
+    },
+    {
+      "title": "Tips Mudik Pakai Mobil Listrik: Jangan Sampai Kehabisan Daya di Perjalanan",
+      "link": "https://otomotif.kompas.com/read/2026/03/12/151200915/tips-mudik-pakai-mobil-listrik--jangan-sampai-kehabisan-daya-di-perjalanan?utm_source=ABC&utm_medium=rss",
+      "time": "15:12 WIB"
+    },
+    {
+      "title": "Jadwal Buka Puasa Kota Bekasi Hari Ini 12 Maret 2026",
+      "link": "https://megapolitan.kompas.com/read/2026/03/12/15100011/jadwal-buka-puasa-kota-bekasi-hari-ini-12-maret-2026?utm_source=ABC&utm_medium=rss",
+      "time": "15:10 WIB"
+    },
+    {
+      "title": "Harga Cabai Rawit Tembus Rp 95.000, Pedagang Pasar Surabaya Keluhkan Sepi Pembeli",
+      "link": "https://money.kompas.com/read/2026/03/12/150929026/harga-cabai-rawit-tembus-rp-95000-pedagang-pasar-surabaya-keluhkan-sepi?utm_source=ABC&utm_medium=rss",
+      "time": "15:09 WIB"
+    },
+    {
       "title": "Waktu Buka Puasa Ramadhan 2026 di Kabupaten Bekasi Hari Ini 12 Maret",
       "link": "https://megapolitan.kompas.com/read/2026/03/12/15070001/waktu-buka-puasa-ramadhan-2026-di-kabupaten-bekasi-hari-ini-12-maret?utm_source=ABC&utm_medium=rss",
       "time": "15:07 WIB"
@@ -1522,6 +1752,51 @@
     }
   ],
   "Detik": [
+    {
+      "title": "Jaksa: Tuntutan 9 Tahun Penjara untuk Ammar Zoni Berdasarkan Fakta Sidang",
+      "link": "https://news.detik.com/berita/d-8397048/jaksa-tuntutan-9-tahun-penjara-untuk-ammar-zoni-berdasarkan-fakta-sidang",
+      "time": "15:56 WIB"
+    },
+    {
+      "title": "Pemudik Bisa Cari 496 Posko Mudik Kementerian PU Lewat Google Maps",
+      "link": "https://news.detik.com/berita/d-8397038/pemudik-bisa-cari-496-posko-mudik-kementerian-pu-lewat-google-maps",
+      "time": "15:52 WIB"
+    },
+    {
+      "title": "Menag Mulai Cairkan Bertahap Tunjangan Profesi Guru Madrasah-Agama Lain",
+      "link": "https://news.detik.com/berita/d-8397024/menag-mulai-cairkan-bertahap-tunjangan-profesi-guru-madrasah-agama-lain",
+      "time": "15:48 WIB"
+    },
+    {
+      "title": "Polda Sumsel dan Pertamina Perkuat Sinergi Pengamanan Energi dan Jalur Mudik",
+      "link": "https://news.detik.com/berita/d-8397018/polda-sumsel-dan-pertamina-perkuat-sinergi-pengamanan-energi-dan-jalur-mudik",
+      "time": "15:46 WIB"
+    },
+    {
+      "title": "Prabowo Akan Bentuk Satgas Pendanaan Taman Nasional, Hashim Ketua-Raja Juli Wakil",
+      "link": "https://news.detik.com/berita/d-8396993/prabowo-akan-bentuk-satgas-pendanaan-taman-nasional-hashim-ketua-raja-juli-wakil",
+      "time": "15:36 WIB"
+    },
+    {
+      "title": "DPR Mulai Bahas RUU Hukum Perdata Internasional, Pakar Singgung soal Konser",
+      "link": "https://news.detik.com/berita/d-8396987/dpr-mulai-bahas-ruu-hukum-perdata-internasional-pakar-singgung-soal-konser",
+      "time": "15:32 WIB"
+    },
+    {
+      "title": "Hal Memberatkan Tuntutan 9 Tahun Penjara Ammar Zoni: 3 Kali Terjerat Narkoba",
+      "link": "https://news.detik.com/berita/d-8396962/hal-memberatkan-tuntutan-9-tahun-penjara-ammar-zoni-3-kali-terjerat-narkoba",
+      "time": "15:23 WIB"
+    },
+    {
+      "title": "Hasan Nasbi Dipanggil Prabowo ke Istana, Bahas Apa?",
+      "link": "https://news.detik.com/berita/d-8396948/hasan-nasbi-dipanggil-prabowo-ke-istana-bahas-apa",
+      "time": "15:16 WIB"
+    },
+    {
+      "title": "Kakorlantas Ajak Media Kawal Operasi Ketupat 2026: Mudik Aman, Keluarga Bahagia",
+      "link": "https://news.detik.com/berita/d-8396934/kakorlantas-ajak-media-kawal-operasi-ketupat-2026-mudik-aman-keluarga-bahagia",
+      "time": "15:08 WIB"
+    },
     {
       "title": "Jadwal Buka Puasa Jakarta dan Sekitarnya Hari Ini 12 Maret 2026",
       "link": "https://news.detik.com/berita/d-8395925/jadwal-buka-puasa-jakarta-dan-sekitarnya-hari-ini-12-maret-2026",
