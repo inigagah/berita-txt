@@ -1,6 +1,6 @@
 Berita Hari Ini (Versi TXT)
 Senin, 16-03-2026
-Terakhir diperbarui: 06:39 WIB
+Terakhir diperbarui: 06:59 WIB
 ========================================
 
 Senin, 16-03-2026
@@ -9,6 +9,10 @@ Senin, 16-03-2026
 
 [Kompas]
 
+- Fakta-Fakta Penyiraman Air Keras terhadap Aktivis KontraS Andrie Yunus (06:54 WIB)
+  https://megapolitan.kompas.com/read/2026/03/16/06545891/fakta-fakta-penyiraman-air-keras-terhadap-aktivis-kontras-andrie-yunus?utm_source=ABC&utm_medium=rss
+- Mudik 2026, Catat Titik Buffer Zone Menuju Pelabuhan (06:42 WIB)
+  https://otomotif.kompas.com/read/2026/03/16/064200915/mudik-2026-catat-titik-buffer-zone-menuju-pelabuhan?utm_source=ABC&utm_medium=rss
 - Bahaya Menahan Buang Air Kecil saat Macet Mudik Lebaran (06:34 WIB)
   https://lifestyle.kompas.com/read/2026/03/16/063439520/bahaya-menahan-buang-air-kecil-saat-macet-mudik-lebaran?utm_source=ABC&utm_medium=rss
 - Tekanan Global dan Fiskal Bayangi Rupiah, Analis Proyeksi Tembus Rp 17.150 (06:30 WIB)
@@ -100,6 +104,10 @@ Senin, 16-03-2026
 
 [Detik]
 
+- Taman Margasatwa Ragunan Akan Buka H+1 Libur Lebaran Pukul 06.00-16.00 (06:45 WIB)
+  https://news.detik.com/berita/d-8401907/taman-margasatwa-ragunan-akan-buka-h-1-libur-lebaran-pukul-06-00-16-00
+- Terungkapnya Penjualan Obat Keras Berkedok Toko Pulsa-Sembako di Depok-Jaksel (06:32 WIB)
+  https://news.detik.com/berita/d-8401904/terungkapnya-penjualan-obat-keras-berkedok-toko-pulsa-sembako-di-depok-jaksel
 - Kondisi Terkini Aktivis KontraS Korban Penyeriman Air Keras (06:15 WIB)
   https://news.detik.com/berita/d-8401900/kondisi-terkini-aktivis-kontras-korban-penyeriman-air-keras
 - Perintah Prabowo ke Kapolri Usut Tuntas Penyiram Air Keras ke Aktivis Kontras (06:01 WIB)
