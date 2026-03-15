@@ -1,4 +1,16 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "Hasil Barcelona Vs Sevilla 5-2: Blaugrana Pesta Gol, Raphinha Hattrick",
+      "link": "https://bola.kompas.com/read/2026/03/16/00294308/hasil-barcelona-vs-sevilla-5-2-blaugrana-pesta-gol-raphinha-hattrick?utm_source=ABC&utm_medium=rss",
+      "time": "00:29 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Bus Tabrak 5 Mobil Pemudik di Tol Batang, Tak Ada Korban Jiwa",
+      "link": "https://news.detik.com/berita/d-8401816/bus-tabrak-5-mobil-pemudik-di-tol-batang-tak-ada-korban-jiwa",
+      "time": "00:11 WIB"
+    }
+  ]
 }
