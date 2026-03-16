@@ -21,5 +21,16 @@
       "time": "00:00 WIB"
     }
   ],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "Gempa M 3,3 Terjadi di Blitar Jatim",
+      "link": "https://news.detik.com/berita/d-8403580/gempa-m-3-3-terjadi-di-blitar-jatim",
+      "time": "00:58 WIB"
+    },
+    {
+      "title": "Kakorlantas: One Way Nasional Mudik 2026 Digelar 18 Maret Pukul 10.00 Pagi",
+      "link": "https://news.detik.com/berita/d-8403578/kakorlantas-one-way-nasional-mudik-2026-digelar-18-maret-pukul-10-00-pagi",
+      "time": "00:47 WIB"
+    }
+  ]
 }
