@@ -1,4 +1,21 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "Hasil HT Barcelona Vs Newcastle United 3-2, Pesta 5 Gol dalam 45 Menit",
+      "link": "https://bola.kompas.com/read/2026/03/19/01410978/hasil-ht-barcelona-vs-newcastle-united-3-2-pesta-5-gol-dalam-45-menit?utm_source=ABC&utm_medium=rss",
+      "time": "01:41 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Polisi Sikat Komplotan Curanmor di Tangerang, 7 Debt Collector Gadungan Ditangkap",
+      "link": "https://news.detik.com/berita/d-8406724/polisi-sikat-komplotan-curanmor-di-tangerang-7-debt-collector-gadungan-ditangkap",
+      "time": "01:34 WIB"
+    },
+    {
+      "title": "Jelang Idul Fitri, Ketua DPD RI Minta Semua Pihak Tahan Diri di Tengah Perang",
+      "link": "https://news.detik.com/berita/d-8406720/jelang-idul-fitri-ketua-dpd-ri-minta-semua-pihak-tahan-diri-di-tengah-perang",
+      "time": "01:13 WIB"
+    }
+  ]
 }
