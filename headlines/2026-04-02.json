@@ -1,6 +1,11 @@
 {
   "Kompas": [
     {
+      "title": "Update Kebakaran SPBE Cimuning Bekasi: 12 Orang Luka Bakar Serius, Polisi Dirikan Posko",
+      "link": "https://megapolitan.kompas.com/read/2026/04/02/01414651/update-kebakaran-spbe-cimuning-bekasi-12-orang-luka-bakar-serius-polisi?utm_source=ABC&utm_medium=rss",
+      "time": "01:41 WIB"
+    },
+    {
       "title": "SPBE Cimuning Bekasi Kebakaran, 10 Orang Luka Bakar di Atas 50 Persen",
       "link": "https://megapolitan.kompas.com/read/2026/04/02/00433681/spbe-cimuning-bekasi-kebakaran-10-orang-luka-bakar-di-atas-50-persen?utm_source=ABC&utm_medium=rss",
       "time": "00:43 WIB"
@@ -21,5 +26,31 @@
       "time": "00:04 WIB"
     }
   ],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "Pria di Sulsel Tega Mutilasi Ayah Kandung gegara Tak Diakui Sebagai Anak",
+      "link": "https://news.detik.com/berita/d-8425908/pria-di-sulsel-tega-mutilasi-ayah-kandung-gegara-tak-diakui-sebagai-anak",
+      "time": "02:10 WIB"
+    },
+    {
+      "title": "Polda Metro Ungkap Clandestine Lab Ekstasi dan Happy Water di Jaktim",
+      "link": "https://news.detik.com/berita/d-8425902/polda-metro-ungkap-clandestine-lab-ekstasi-dan-happy-water-di-jaktim",
+      "time": "01:25 WIB"
+    },
+    {
+      "title": "Malaysia Juga Bakal Terapkan WFH bagi ASN Mulai 15 April",
+      "link": "https://news.detik.com/berita/d-8425901/malaysia-juga-bakal-terapkan-wfh-bagi-asn-mulai-15-april",
+      "time": "01:02 WIB"
+    },
+    {
+      "title": "Petisi Ahli Siapkan 1.000 Pengacara Dukung Polri Hadapi Gugatan Kasus Ijazah Jokowi",
+      "link": "https://news.detik.com/berita/d-8425897/petisi-ahli-siapkan-1-000-pengacara-dukung-polri-hadapi-gugatan-kasus-ijazah-jokowi",
+      "time": "00:35 WIB"
+    },
+    {
+      "title": "Stasiun Pengisian Elpiji di Cimuning Bekasi Kebakaran, Api Berkobar",
+      "link": "https://news.detik.com/berita/d-8425896/stasiun-pengisian-elpiji-di-cimuning-bekasi-kebakaran-api-berkobar",
+      "time": "00:04 WIB"
+    }
+  ]
 }
