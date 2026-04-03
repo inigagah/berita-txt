@@ -1,4 +1,15 @@
 {
   "Kompas": [],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "2.560 Warga Kunjungi Monas saat Libur Jumat Agung",
+      "link": "https://news.detik.com/berita/d-8428563/2-560-warga-kunjungi-monas-saat-libur-jumat-agung",
+      "time": "01:50 WIB"
+    },
+    {
+      "title": "Macan Tutul Terjerat Dekat Permukiman Warga di Bogor Dievakuasi",
+      "link": "https://news.detik.com/berita/d-8428550/macan-tutul-terjerat-dekat-permukiman-warga-di-bogor-dievakuasi",
+      "time": "00:56 WIB"
+    }
+  ]
 }
