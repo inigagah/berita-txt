@@ -1,6 +1,11 @@
 {
   "Kompas": [
     {
+      "title": "Hasil Juventus Vs Genoa 2-0, Bianconeri Tundukkan Pasukan De Rossi",
+      "link": "https://bola.kompas.com/read/2026/04/07/00583538/hasil-juventus-vs-genoa-2-0-bianconeri-tundukkan-pasukan-de-rossi?utm_source=ABC&utm_medium=rss",
+      "time": "00:58 WIB"
+    },
+    {
       "title": "Kans Teja Paku Alam Pecahkan Rekor Clean Sheet Yoo Jae-hoon",
       "link": "https://bola.kompas.com/read/2026/04/07/00242748/kans-teja-paku-alam-pecahkan-rekor-clean-sheet-yoo-jae-hoon?utm_source=ABC&utm_medium=rss",
       "time": "00:24 WIB"
@@ -11,5 +16,16 @@
       "time": "00:12 WIB"
     }
   ],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "KAI: 8 Perjalanan Dibatalkan Imbas KA Bangunkarta Anjlok",
+      "link": "https://news.detik.com/berita/d-8432353/kai-8-perjalanan-dibatalkan-imbas-ka-bangunkarta-anjlok",
+      "time": "01:22 WIB"
+    },
+    {
+      "title": "Hakim Sidang Kasus Chromebook Pertimbangkan Alih Status Tahanan Nadiem",
+      "link": "https://news.detik.com/berita/d-8432351/hakim-sidang-kasus-chromebook-pertimbangkan-alih-status-tahanan-nadiem",
+      "time": "01:03 WIB"
+    }
+  ]
 }
