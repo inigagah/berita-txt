@@ -1,4 +1,15 @@
 {
   "Kompas": [],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "SAR Tutup Pencarian Mahasiswa yang Tenggelam di Danau Toba",
+      "link": "https://news.detik.com/berita/d-8449651/sar-tutup-pencarian-mahasiswa-yang-tenggelam-di-danau-toba",
+      "time": "01:43 WIB"
+    },
+    {
+      "title": "Momen Ketua MPR-DPR-DPD RI Makan Siang di Kantin DPR Bahas Geopolitik",
+      "link": "https://news.detik.com/berita/d-8449649/momen-ketua-mpr-dpr-dpd-ri-makan-siang-di-kantin-dpr-bahas-geopolitik",
+      "time": "01:25 WIB"
+    }
+  ]
 }
