@@ -1,4 +1,46 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "“Ya Allah…” Tangis Pecah Saat Keluarga Identifikasi Korban Kecelakaan KA Argo Bromo Vs KRL",
+      "link": "https://megapolitan.kompas.com/read/2026/04/28/01013101/ya-allah-tangis-pecah-saat-keluarga-identifikasi-korban-kecelakaan-ka?utm_source=ABC&utm_medium=rss",
+      "time": "01:01 WIB"
+    },
+    {
+      "title": "KAI Setop Kereta dari Jakarta ke Jawa Usai KA Argo Bromo Tabrak KRL di Bekasi",
+      "link": "https://megapolitan.kompas.com/read/2026/04/28/00430451/kai-setop-kereta-dari-jakarta-ke-jawa-usai-ka-argo-bromo-tabrak-krl-di?utm_source=ABC&utm_medium=rss",
+      "time": "00:43 WIB"
+    },
+    {
+      "title": "38 Penumpang Luka Dirawat di RS Usai KA Argo Bromo Tabrak KRL di Bekasi",
+      "link": "https://megapolitan.kompas.com/read/2026/04/28/00362591/38-penumpang-luka-dirawat-di-rs-usai-ka-argo-bromo-tabrak-krl-di-bekasi?utm_source=ABC&utm_medium=rss",
+      "time": "00:36 WIB"
+    },
+    {
+      "title": "7 Penumpang Masih Terjepit di Gerbong KRL, Evakuasi Terkendala Ruang Sempit",
+      "link": "https://megapolitan.kompas.com/read/2026/04/28/00153091/7-penumpang-masih-terjepit-di-gerbong-krl-evakuasi-terkendala-ruang?utm_source=ABC&utm_medium=rss",
+      "time": "00:15 WIB"
+    },
+    {
+      "title": "Evakuasi Belum Selesai, Ada Korban Masih Terjebak di Gerbong KRL Bekasi",
+      "link": "https://megapolitan.kompas.com/read/2026/04/28/00103841/evakuasi-belum-selesai-ada-korban-masih-terjebak-di-gerbong-krl-bekasi?utm_source=ABC&utm_medium=rss",
+      "time": "00:10 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Penampakan Taksi Tertemper KRL Sebelum Tabrakan 2 Kereta di Bekasi",
+      "link": "https://news.detik.com/berita/d-8464373/penampakan-taksi-tertemper-krl-sebelum-tabrakan-2-kereta-di-bekasi",
+      "time": "00:15 WIB"
+    },
+    {
+      "title": "Daftar Perjalanan KA Jarak Jauh Batal Usai Kecelakaan 2 Kereta di Bekasi",
+      "link": "https://news.detik.com/berita/d-8464370/daftar-perjalanan-ka-jarak-jauh-batal-usai-kecelakaan-2-kereta-di-bekasi",
+      "time": "00:07 WIB"
+    },
+    {
+      "title": "240 Penumpang KA Argo Bromo yang Tabrak KRL di Bekasi Dievakuasi, Semua Selamat",
+      "link": "https://news.detik.com/berita/d-8464369/240-penumpang-ka-argo-bromo-yang-tabrak-krl-di-bekasi-dievakuasi-semua-selamat",
+      "time": "00:06 WIB"
+    }
+  ]
 }
