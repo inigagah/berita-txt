@@ -1,4 +1,16 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "Ultras Juventus Protes di Luar Stadion Allianz Usai Kalah dari Fiorentina",
+      "link": "https://bola.kompas.com/read/2026/05/18/00545528/ultras-juventus-protes-di-luar-stadion-allianz-usai-kalah-dari-fiorentina?utm_source=ABC&utm_medium=rss",
+      "time": "00:54 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Kakorlantas Ungkap Tidak Ada Kemacetan Menonjol Pada Long Weekend",
+      "link": "https://news.detik.com/berita/d-8492796/kakorlantas-ungkap-tidak-ada-kemacetan-menonjol-pada-long-weekend",
+      "time": "01:11 WIB"
+    }
+  ]
 }
