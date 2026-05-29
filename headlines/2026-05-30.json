@@ -1,4 +1,31 @@
 {
-  "Kompas": [],
-  "Detik": []
+  "Kompas": [
+    {
+      "title": "100 Ide Caption untuk Peringatan Hari Lahirnya Pancasila di Media Sosial",
+      "link": "https://tekno.kompas.com/read/2026/05/30/02350037/100-ide-caption-untuk-peringatan-hari-lahirnya-pancasila-di-media-sosial?utm_source=ABC&utm_medium=rss",
+      "time": "02:35 WIB"
+    },
+    {
+      "title": "Arteta Bidik Sejarah di Liga Champions, Arsenal Ingin Rebut Takhta PSG",
+      "link": "https://bola.kompas.com/read/2026/05/30/00295938/arteta-bidik-sejarah-di-liga-champions-arsenal-ingin-rebut-takhta-psg?utm_source=ABC&utm_medium=rss",
+      "time": "00:29 WIB"
+    }
+  ],
+  "Detik": [
+    {
+      "title": "Pak Guru Ditemukan Tewas di Kos Semarang, Tak Ada Tanda Kekerasan",
+      "link": "https://news.detik.com/berita/d-8510359/pak-guru-ditemukan-tewas-di-kos-semarang-tak-ada-tanda-kekerasan",
+      "time": "02:17 WIB"
+    },
+    {
+      "title": "Perbaikan Dikebut, Lajur Kanan Jalan Lenteng Agung Arah Depok Dibongkar",
+      "link": "https://news.detik.com/berita/d-8510343/perbaikan-dikebut-lajur-kanan-jalan-lenteng-agung-arah-depok-dibongkar",
+      "time": "00:40 WIB"
+    },
+    {
+      "title": "Bareskrim Geledah Kantor PT MMS Terkait Dugaan Manipulasi Ekspor Sawit",
+      "link": "https://news.detik.com/berita/d-8510340/bareskrim-geledah-kantor-pt-mms-terkait-dugaan-manipulasi-ekspor-sawit",
+      "time": "00:22 WIB"
+    }
+  ]
 }
