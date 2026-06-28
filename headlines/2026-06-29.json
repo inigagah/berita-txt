@@ -1,4 +1,15 @@
 {
   "Kompas": [],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "Gempa M 4,5 Terjadi di Melonguane Sulut",
+      "link": "https://news.detik.com/berita/d-8551433/gempa-m-4-5-terjadi-di-melonguane-sulut",
+      "time": "01:20 WIB"
+    },
+    {
+      "title": "Tabrakan Beruntun di Jalan Tentara Pelajar Semarang, Pengemudi Hyundai Kabur",
+      "link": "https://news.detik.com/berita/d-8551424/tabrakan-beruntun-di-jalan-tentara-pelajar-semarang-pengemudi-hyundai-kabur",
+      "time": "00:34 WIB"
+    }
+  ]
 }
