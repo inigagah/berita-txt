@@ -2,6 +2,336 @@
   "Kompas": [],
   "Detik": [
     {
+      "title": "Siswa Sespimmen Polri Tinjau Lahan Bekas Karhutla di Sungai Sembilan, Edukasi Masyarakat",
+      "link": "https://news.detik.com/berita/d-8657317/siswa-sespimmen-polri-tinjau-lahan-bekas-karhutla-di-sungai-sembilan-edukasi-masyarakat",
+      "time": "17:32 WIB"
+    },
+    {
+      "title": "Sidang Tuntutan Eks Ketua Ombudsman Hery Susanto Digelar 24 September",
+      "link": "https://news.detik.com/berita/d-8657310/sidang-tuntutan-eks-ketua-ombudsman-hery-susanto-digelar-24-september",
+      "time": "17:27 WIB"
+    },
+    {
+      "title": "Ibas: Kreativitas Bukanlah Sekadar Konten, tapi Kekuatan Ekonomi",
+      "link": "https://news.detik.com/berita/d-8657309/ibas-kreativitas-bukanlah-sekadar-konten-tapi-kekuatan-ekonomi",
+      "time": "17:27 WIB"
+    },
+    {
+      "title": "Imigrasi Amankan 5 WNA di Tangerang Terkait Pemalsuan Tiket dan Terlibat Judol",
+      "link": "https://news.detik.com/berita/d-8657265/imigrasi-amankan-5-wna-di-tangerang-terkait-pemalsuan-tiket-dan-terlibat-judol",
+      "time": "17:15 WIB"
+    },
+    {
+      "title": "Duduk Perkara Pabrik Gula Serobot Lahan Buat Kebun Tebu, Rp 1 T Lebih Disita",
+      "link": "https://news.detik.com/berita/d-8657261/duduk-perkara-pabrik-gula-serobot-lahan-buat-kebun-tebu-rp-1-t-lebih-disita",
+      "time": "17:13 WIB"
+    },
+    {
+      "title": "Kemensos Dukung Uji Coba Digitalisasi Bansos di 258 Kabupaten/Kota",
+      "link": "https://news.detik.com/berita/d-8657240/kemensos-dukung-uji-coba-digitalisasi-bansos-di-258-kabupaten-kota",
+      "time": "17:03 WIB"
+    },
+    {
+      "title": "Ruangan Tak Cukup, Tak Semua Duit Rp 1 T Lebih yang Disita Ditampilkan Jaksa",
+      "link": "https://news.detik.com/berita/d-8657231/ruangan-tak-cukup-tak-semua-duit-rp-1-t-lebih-yang-disita-ditampilkan-jaksa",
+      "time": "17:00 WIB"
+    },
+    {
+      "title": "Asal-usul &#x27;Kasur&#x27; Duit Rp 1 T Lebih yang Disita Kejagung",
+      "link": "https://news.detik.com/berita/d-8657230/asal-usul-kasur-duit-rp-1-t-lebih-yang-disita-kejagung",
+      "time": "17:00 WIB"
+    },
+    {
+      "title": "KH Ma&#x27;ruf Khozin Maafkan Bos Sound Horeg yang Sebut MUI Jatim &#x27;Goblok&#x27;",
+      "link": "https://news.detik.com/berita/d-8657225/kh-maruf-khozin-maafkan-bos-sound-horeg-yang-sebut-mui-jatim-goblok",
+      "time": "16:55 WIB"
+    },
+    {
+      "title": "Andre Rosiade Salurkan Bantuan Rp10 Juta untuk Fatih, Balita Pengidap Tumor",
+      "link": "https://news.detik.com/berita/d-8657213/andre-rosiade-salurkan-bantuan-rp10-juta-untuk-fatih-balita-pengidap-tumor",
+      "time": "16:44 WIB"
+    },
+    {
+      "title": "Polres Tangsel Selidiki Dugaan Peredaran Dolar Singapura Palsu Rp 4,7 M",
+      "link": "https://news.detik.com/berita/d-8657192/polres-tangsel-selidiki-dugaan-peredaran-dolar-singapura-palsu-rp-4-7-m",
+      "time": "16:36 WIB"
+    },
+    {
+      "title": "Kesaksian Eks Menpora Dito di Sidang Kasus Kuota Haji",
+      "link": "https://news.detik.com/berita/d-8657178/kesaksian-eks-menpora-dito-di-sidang-kasus-kuota-haji",
+      "time": "16:33 WIB"
+    },
+    {
+      "title": "Kereta Bandara yang Dioper ke KRL Pink Line Bikin Takjub Anker",
+      "link": "https://news.detik.com/berita/d-8657174/kereta-bandara-yang-dioper-ke-krl-pink-line-bikin-takjub-anker",
+      "time": "16:32 WIB"
+    },
+    {
+      "title": "Potret Gunungan Uang Rp 1 T Sitaan Kejagung dari Kasus Pemanfaatan Hutan Lampung",
+      "link": "https://news.detik.com/berita/d-8657159/potret-gunungan-uang-rp-1-t-sitaan-kejagung-dari-kasus-pemanfaatan-hutan-lampung",
+      "time": "16:25 WIB"
+    },
+    {
+      "title": "BMKG Ungkap Abu Vulkanik Anak Krakatau Tak Lagi Terpantau di Wilayah RI",
+      "link": "https://news.detik.com/berita/d-8657154/bmkg-ungkap-abu-vulkanik-anak-krakatau-tak-lagi-terpantau-di-wilayah-ri",
+      "time": "16:23 WIB"
+    },
+    {
+      "title": "Kemenkes Ungkap Korban Karhutla di 6 Provinsi: 4 Meninggal, 347 Luka-luka",
+      "link": "https://news.detik.com/berita/d-8657143/kemenkes-ungkap-korban-karhutla-di-6-provinsi-4-meninggal-347-luka-luka",
+      "time": "16:15 WIB"
+    },
+    {
+      "title": "Sejoli Tega Bunuh Bayi Baru Lahir di Jakbar Terancam 15 Tahun Bui",
+      "link": "https://news.detik.com/berita/d-8657138/sejoli-tega-bunuh-bayi-baru-lahir-di-jakbar-terancam-15-tahun-bui",
+      "time": "16:14 WIB"
+    },
+    {
+      "title": "KNKT Usul Sistem Hidran di Kapal Feri Dirancang Ulang Lewat Atas",
+      "link": "https://news.detik.com/berita/d-8657136/knkt-usul-sistem-hidran-di-kapal-feri-dirancang-ulang-lewat-atas",
+      "time": "16:11 WIB"
+    },
+    {
+      "title": "Mensos Ajak SDM Sekolah Rakyat Jadi Agen Perlinsos",
+      "link": "https://news.detik.com/berita/d-8657117/mensos-ajak-sdm-sekolah-rakyat-jadi-agen-perlinsos",
+      "time": "16:03 WIB"
+    },
+    {
+      "title": "Gibran Minta Maaf Kalsel Belum Pulih dari Asap Karhutla",
+      "link": "https://news.detik.com/berita/d-8657111/gibran-minta-maaf-kalsel-belum-pulih-dari-asap-karhutla",
+      "time": "15:58 WIB"
+    },
+    {
+      "title": "Walkot Pekanbaru Agung Nugroho Raih 4 Penghargaan IMT-GT Green City Award",
+      "link": "https://news.detik.com/berita/d-8657108/walkot-pekanbaru-agung-nugroho-raih-4-penghargaan-imt-gt-green-city-award",
+      "time": "15:57 WIB"
+    },
+    {
+      "title": "Andre Rosiade-Pemprov Sumbar Bakal Temui Warga untuk Dialog Bahas Tol Bukittinggi-Sicincin",
+      "link": "https://news.detik.com/berita/d-8657101/andre-rosiade-pemprov-sumbar-bakal-temui-warga-untuk-dialog-bahas-tol-bukittinggi-sicincin",
+      "time": "15:51 WIB"
+    },
+    {
+      "title": "Hampir Rampung, Dua Jembatan Utama di Aceh Siap Beroperasi",
+      "link": "https://news.detik.com/berita/d-8657100/hampir-rampung-dua-jembatan-utama-di-aceh-siap-beroperasi",
+      "time": "15:49 WIB"
+    },
+    {
+      "title": "Bupati Badung Dorong PSPS Bhakti Negara Cup Jadi Wadah Pembinaan Atlet",
+      "link": "https://news.detik.com/berita/d-8657093/bupati-badung-dorong-psps-bhakti-negara-cup-jadi-wadah-pembinaan-atlet",
+      "time": "15:46 WIB"
+    },
+    {
+      "title": "421 Hektare Karhutla Dipadamkan, Kalbar-Sumsel Masih Jadi Prioritas Pemadaman",
+      "link": "https://news.detik.com/berita/d-8657088/421-hektare-karhutla-dipadamkan-kalbar-sumsel-masih-jadi-prioritas-pemadaman",
+      "time": "15:41 WIB"
+    },
+    {
+      "title": "Eks Bendahara Amphuri Beri USD 40 Ribu ke Pegawai Kemenag untuk Kuota Haji",
+      "link": "https://news.detik.com/berita/d-8657081/eks-bendahara-amphuri-beri-usd-40-ribu-ke-pegawai-kemenag-untuk-kuota-haji",
+      "time": "15:33 WIB"
+    },
+    {
+      "title": "BMKG Ungkap Kondisi Cuaca di Anak Krakatau Saat 5 Jurnalis Hilang Kontak",
+      "link": "https://news.detik.com/berita/d-8657068/bmkg-ungkap-kondisi-cuaca-di-anak-krakatau-saat-5-jurnalis-hilang-kontak",
+      "time": "15:31 WIB"
+    },
+    {
+      "title": "Andre Rosiade Bantu Gadis Pasaman Rp25 Juta Wujudkan Mimpi Kuliah di Al-Azhar Mesir",
+      "link": "https://news.detik.com/berita/d-8657062/andre-rosiade-bantu-gadis-pasaman-rp25-juta-wujudkan-mimpi-kuliah-di-al-azhar-mesir",
+      "time": "15:29 WIB"
+    },
+    {
+      "title": "Kapal Jepang Bawa 3 Heli Chinook Tiba di Kalbar, Siap Bantu Atasi Karhutla",
+      "link": "https://news.detik.com/berita/d-8657055/kapal-jepang-bawa-3-heli-chinook-tiba-di-kalbar-siap-bantu-atasi-karhutla",
+      "time": "15:24 WIB"
+    },
+    {
+      "title": "TP PKK Badung Rutinkan Jalan Sehat dan Cek Kesehatan Tiap Pekan",
+      "link": "https://news.detik.com/berita/d-8657041/tp-pkk-badung-rutinkan-jalan-sehat-dan-cek-kesehatan-tiap-pekan",
+      "time": "15:20 WIB"
+    },
+    {
+      "title": "Aksi Caca Gonta-ganti &#x27;Skin&#x27; Saat Bobol Rumah Warga di Jaktim",
+      "link": "https://news.detik.com/berita/d-8657037/aksi-caca-gonta-ganti-skin-saat-bobol-rumah-warga-di-jaktim",
+      "time": "15:16 WIB"
+    },
+    {
+      "title": "Jaga Canggu Tetap Hijau, Pemkab Badung Tanam Pohon &amp;amp; Tambah RTH",
+      "link": "https://news.detik.com/berita/d-8657022/jaga-canggu-tetap-hijau-pemkab-badung-tanam-pohon-tambah-rth",
+      "time": "15:06 WIB"
+    },
+    {
+      "title": "BNPP-KSP Kolaborasi Percepat Transformasi Kawasan Perbatasan Negara",
+      "link": "https://news.detik.com/berita/d-8657018/bnpp-ksp-kolaborasi-percepat-transformasi-kawasan-perbatasan-negara",
+      "time": "15:03 WIB"
+    },
+    {
+      "title": "Polisi Tetapkan 1 Orang Tersangka Ledakan Maut di Rumah Mewah Medan",
+      "link": "https://news.detik.com/berita/d-8657001/polisi-tetapkan-1-orang-tersangka-ledakan-maut-di-rumah-mewah-medan",
+      "time": "14:56 WIB"
+    },
+    {
+      "title": "Gedung SMP di Kembangan Jakbar Kebakaran",
+      "link": "https://news.detik.com/berita/d-8656968/gedung-smp-di-kembangan-jakbar-kebakaran",
+      "time": "14:39 WIB"
+    },
+    {
+      "title": "Eks Analis Kemenag Sebut Gus Alex Full Power soal Haji Meski Cuma Stafsus Yaqut",
+      "link": "https://news.detik.com/berita/d-8656967/eks-analis-kemenag-sebut-gus-alex-full-power-soal-haji-meski-cuma-stafsus-yaqut",
+      "time": "14:38 WIB"
+    },
+    {
+      "title": "Gangster Berulah di Jakut, Serang Pemuda Nongkrong hingga Luka Bacok",
+      "link": "https://news.detik.com/berita/d-8656964/gangster-berulah-di-jakut-serang-pemuda-nongkrong-hingga-luka-bacok",
+      "time": "14:36 WIB"
+    },
+    {
+      "title": "Saling Sindir Berujung Keributan, 4 Pelajar di Bogor Diamankan",
+      "link": "https://news.detik.com/berita/d-8656963/saling-sindir-berujung-keributan-4-pelajar-di-bogor-diamankan",
+      "time": "14:36 WIB"
+    },
+    {
+      "title": "Pedagang Yakin Pasar Taman Puring Ditata Ulang: Ikon Jakarta Ini",
+      "link": "https://news.detik.com/berita/d-8656962/pedagang-yakin-pasar-taman-puring-ditata-ulang-ikon-jakarta-ini",
+      "time": "14:35 WIB"
+    },
+    {
+      "title": "Basarnas Kerahkan Helikopter untuk Cari Jurnalis Hilang di Anak Krakatau",
+      "link": "https://news.detik.com/berita/d-8656957/basarnas-kerahkan-helikopter-untuk-cari-jurnalis-hilang-di-anak-krakatau",
+      "time": "14:33 WIB"
+    },
+    {
+      "title": "Bos Sound Horeg Minta Maaf Sebut MUI Jatim Goblok: Saya Khilaf",
+      "link": "https://news.detik.com/berita/d-8656954/bos-sound-horeg-minta-maaf-sebut-mui-jatim-goblok-saya-khilaf",
+      "time": "14:30 WIB"
+    },
+    {
+      "title": "Menjajal Nyamannya Naik Kereta Bandara yang Dioper di KRL Pink Line",
+      "link": "https://news.detik.com/berita/d-8656943/menjajal-nyamannya-naik-kereta-bandara-yang-dioper-di-krl-pink-line",
+      "time": "14:23 WIB"
+    },
+    {
+      "title": "Anggota DPR Usul Merger BMKG-BNPB-Badan Geologi: Bisa Jadi Kementerian",
+      "link": "https://news.detik.com/berita/d-8656912/anggota-dpr-usul-merger-bmkg-bnpb-badan-geologi-bisa-jadi-kementerian",
+      "time": "14:11 WIB"
+    },
+    {
+      "title": "Wagub Jabar Target Seluruh Masyarakat Terdaftar Perlinsos Digital di 2027",
+      "link": "https://news.detik.com/berita/d-8656841/wagub-jabar-target-seluruh-masyarakat-terdaftar-perlinsos-digital-di-2027",
+      "time": "14:00 WIB"
+    },
+    {
+      "title": "RI dan 7 Negara Islam Sambut Baik Inggris Larang Impor dari Pemukiman Israel",
+      "link": "https://news.detik.com/berita/d-8656893/ri-dan-7-negara-islam-sambut-baik-inggris-larang-impor-dari-pemukiman-israel",
+      "time": "13:54 WIB"
+    },
+    {
+      "title": "KPK Terbitkan Sprindik Baru di Kasus Suap Ijon Proyek Bupati Ade Kuswara",
+      "link": "https://news.detik.com/berita/d-8656892/kpk-terbitkan-sprindik-baru-di-kasus-suap-ijon-proyek-bupati-ade-kuswara",
+      "time": "13:53 WIB"
+    },
+    {
+      "title": "Pegawai Kementerian PU Terindikasi Judol Mulai Dijatuhi Sanksi Disiplin",
+      "link": "https://news.detik.com/berita/d-8656890/pegawai-kementerian-pu-terindikasi-judol-mulai-dijatuhi-sanksi-disiplin",
+      "time": "13:52 WIB"
+    },
+    {
+      "title": "Seskab: Presiden Langsung Instruksikan Cari 5 Jurnalis Hilang, 11 Kapal Dikirim",
+      "link": "https://news.detik.com/berita/d-8656888/seskab-presiden-langsung-instruksikan-cari-5-jurnalis-hilang-11-kapal-dikirim",
+      "time": "13:51 WIB"
+    },
+    {
+      "title": "KPK Panggil Sekda Muara Enim Terkait Kasus Suap Bupati Edison",
+      "link": "https://news.detik.com/berita/d-8656870/kpk-panggil-sekda-muara-enim-terkait-kasus-suap-bupati-edison",
+      "time": "13:42 WIB"
+    },
+    {
+      "title": "27 Pelajar Dilatih Bela Negara, Pramono: Biar Lebih Hargai Negaranya",
+      "link": "https://news.detik.com/berita/d-8656869/27-pelajar-dilatih-bela-negara-pramono-biar-lebih-hargai-negaranya",
+      "time": "13:42 WIB"
+    },
+    {
+      "title": "LPDB Dorong Koperasi Simpan Pinjam TLM Kembangkan KDKMP di Indonesia Timur",
+      "link": "https://news.detik.com/berita/d-8656838/lpdb-dorong-koperasi-simpan-pinjam-tlm-kembangkan-kdkmp-di-indonesia-timur",
+      "time": "13:40 WIB"
+    },
+    {
+      "title": "KAMMI Puji Kinerja Mentan, Kebijakan Pupuk &amp;amp; Harga Gabah Dirasakan Petani",
+      "link": "https://news.detik.com/berita/d-8656861/kammi-puji-kinerja-mentan-kebijakan-pupuk-harga-gabah-dirasakan-petani",
+      "time": "13:38 WIB"
+    },
+    {
+      "title": "Bupati Fadia Arafiq Klaim THR dari Bawahan Sudah Tradisi",
+      "link": "https://news.detik.com/berita/d-8656859/bupati-fadia-arafiq-klaim-thr-dari-bawahan-sudah-tradisi",
+      "time": "13:37 WIB"
+    },
+    {
+      "title": "Walkot Semarang Puji Toleransi Lintas Agama yang Warnai MTQ Nasional XXXI",
+      "link": "https://news.detik.com/berita/d-8656857/walkot-semarang-puji-toleransi-lintas-agama-yang-warnai-mtq-nasional-xxxi",
+      "time": "13:36 WIB"
+    },
+    {
+      "title": "Lewat Program Poe Ibu, ASN Jabar Renovasi 18 RTLH di Kabupaten Garut",
+      "link": "https://news.detik.com/berita/d-8656798/lewat-program-poe-ibu-asn-jabar-renovasi-18-rtlh-di-kabupaten-garut",
+      "time": "13:35 WIB"
+    },
+    {
+      "title": "RUU Reforma Agraria, Ikahi Nilai Tak Perlu Ada Pengadilan Khusus",
+      "link": "https://news.detik.com/berita/d-8656856/ruu-reforma-agraria-ikahi-nilai-tak-perlu-ada-pengadilan-khusus",
+      "time": "13:34 WIB"
+    },
+    {
+      "title": "KDM Imbau Warga Tetap Tenang Hadapi Sebaran Abu Vulkanik Anak Krakatau",
+      "link": "https://news.detik.com/berita/d-8656848/kdm-imbau-warga-tetap-tenang-hadapi-sebaran-abu-vulkanik-anak-krakatau",
+      "time": "13:28 WIB"
+    },
+    {
+      "title": "Pramono Dukung Teknologi Pirolisis untuk Olah Sampah di Bantargebang",
+      "link": "https://news.detik.com/berita/d-8656847/pramono-dukung-teknologi-pirolisis-untuk-olah-sampah-di-bantargebang",
+      "time": "13:27 WIB"
+    },
+    {
+      "title": "Viral 2 Pria Berkelahi gegara Rebutan Casan Baterai EV di Tangerang",
+      "link": "https://news.detik.com/berita/d-8656845/viral-2-pria-berkelahi-gegara-rebutan-casan-baterai-ev-di-tangerang",
+      "time": "13:27 WIB"
+    },
+    {
+      "title": "KPK Geledah Kantor Dinas PUPR dan PBJ Muara Enim Terkait Kasus Bupati Edison",
+      "link": "https://news.detik.com/berita/d-8656843/kpk-geledah-kantor-dinas-pupr-dan-pbj-muara-enim-terkait-kasus-bupati-edison",
+      "time": "13:25 WIB"
+    },
+    {
+      "title": "Menilik Pasar Taman Puring Setahun Pascakebakaran, Pedagang Kini Buka Tenda",
+      "link": "https://news.detik.com/berita/d-8656839/menilik-pasar-taman-puring-setahun-pascakebakaran-pedagang-kini-buka-tenda",
+      "time": "13:24 WIB"
+    },
+    {
+      "title": "Pramono Bakal Nonton Persija Vs Persib Jika Pertandingan Digelar di Jakarta",
+      "link": "https://news.detik.com/berita/d-8656831/pramono-bakal-nonton-persija-vs-persib-jika-pertandingan-digelar-di-jakarta",
+      "time": "13:16 WIB"
+    },
+    {
+      "title": "Perkuat Ekonomi Komunitas, LPDB Ajak Suporter Sepakbola Bentuk Koperasi",
+      "link": "https://news.detik.com/berita/d-8656814/perkuat-ekonomi-komunitas-lpdb-ajak-suporter-sepakbola-bentuk-koperasi",
+      "time": "13:06 WIB"
+    },
+    {
+      "title": "Pemprov Jabar Beri 1.500 Kg Beras, Pastikan Bantuan Pangan Tepat Sasaran",
+      "link": "https://news.detik.com/berita/d-8656793/pemprov-jabar-beri-1-500-kg-beras-pastikan-bantuan-pangan-tepat-sasaran",
+      "time": "13:05 WIB"
+    },
+    {
+      "title": "Buka Rakor Korwas PPNS, Kabareskrim Tekankan Pentingnya Kolaborasi Antarpenyidik",
+      "link": "https://news.detik.com/berita/d-8656801/buka-rakor-korwas-ppns-kabareskrim-tekankan-pentingnya-kolaborasi-antarpenyidik",
+      "time": "13:03 WIB"
+    },
+    {
+      "title": "Dalih Sejoli di Jakbar Bunuh Bayi yang Baru Lahir: Takut Tetangga Tahu",
+      "link": "https://news.detik.com/berita/d-8656799/dalih-sejoli-di-jakbar-bunuh-bayi-yang-baru-lahir-takut-tetangga-tahu",
+      "time": "13:00 WIB"
+    },
+    {
       "title": "Pemprov DKI Siapkan Rp 90 M untuk Tata Kabel di 8 Ruas Jalan",
       "link": "https://news.detik.com/berita/d-8656792/pemprov-dki-siapkan-rp-90-m-untuk-tata-kabel-di-8-ruas-jalan",
       "time": "12:53 WIB"
