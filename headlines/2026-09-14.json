@@ -2,6 +2,496 @@
   "Kompas": [],
   "Detik": [
     {
+      "title": "Lintasarta Kenalkan Bandwidth on Demand untuk Infrastruktur Digital Bank",
+      "link": "https://news.detik.com/berita/d-8662868/lintasarta-kenalkan-bandwidth-on-demand-untuk-infrastruktur-digital-bank",
+      "time": "20:55 WIB"
+    },
+    {
+      "title": "Polda Metro Bekali Pelajar Perlindungan Digital di Era AI",
+      "link": "https://news.detik.com/berita/d-8662864/polda-metro-bekali-pelajar-perlindungan-digital-di-era-ai",
+      "time": "20:54 WIB"
+    },
+    {
+      "title": "SAR Ungkap Kendala Cari 5 Jurnalis di Anak Krakatau: Jarak Pandang 1 Mil Laut",
+      "link": "https://news.detik.com/berita/d-8662859/sar-ungkap-kendala-cari-5-jurnalis-di-anak-krakatau-jarak-pandang-1-mil-laut",
+      "time": "20:49 WIB"
+    },
+    {
+      "title": "Suahasil Nazara Dilantik Jadi Menkeu, Pramono Doakan Sukses",
+      "link": "https://news.detik.com/berita/d-8662856/suahasil-nazara-dilantik-jadi-menkeu-pramono-doakan-sukses",
+      "time": "20:46 WIB"
+    },
+    {
+      "title": "Polri Siagakan 140 Personel DVI dan 5 Posko Identifikasi Korban KM Virgo",
+      "link": "https://news.detik.com/berita/d-8662848/polri-siagakan-140-personel-dvi-dan-5-posko-identifikasi-korban-km-virgo",
+      "time": "20:36 WIB"
+    },
+    {
+      "title": "1 Peserta Karnaval yang Dituding Satanik di Jateng Meninggal, Diduga Kelelahan",
+      "link": "https://news.detik.com/berita/d-8662823/1-peserta-karnaval-yang-dituding-satanik-di-jateng-meninggal-diduga-kelelahan",
+      "time": "20:13 WIB"
+    },
+    {
+      "title": "Urusan Bau Gas Bikin Konser di Kota Tua Bubar Jalan",
+      "link": "https://news.detik.com/berita/d-8662816/urusan-bau-gas-bikin-konser-di-kota-tua-bubar-jalan",
+      "time": "20:09 WIB"
+    },
+    {
+      "title": "Perkuat Perlindungan Digital Warga, Polda Metro Siapkan Pelatih Paham AI",
+      "link": "https://news.detik.com/berita/d-8662815/perkuat-perlindungan-digital-warga-polda-metro-siapkan-pelatih-paham-ai",
+      "time": "20:09 WIB"
+    },
+    {
+      "title": "Memahami Nilai 4 Pilar MPR Lewat Literasi Kreatif Aromaterapi",
+      "link": "https://news.detik.com/berita/d-8662804/memahami-nilai-4-pilar-mpr-lewat-literasi-kreatif-aromaterapi",
+      "time": "20:06 WIB"
+    },
+    {
+      "title": "Inovasi Perpustakaan MPR Tingkatkan Minat Baca Melalui Literasi Kreatif",
+      "link": "https://news.detik.com/berita/d-8662801/inovasi-perpustakaan-mpr-tingkatkan-minat-baca-melalui-literasi-kreatif",
+      "time": "19:59 WIB"
+    },
+    {
+      "title": "Bamsoet Uji Disertasi soal Malapraktik dan Salah Diagnosis",
+      "link": "https://news.detik.com/berita/d-8662795/bamsoet-uji-disertasi-soal-malapraktik-dan-salah-diagnosis",
+      "time": "19:54 WIB"
+    },
+    {
+      "title": "Hari Ke-8 Pemadaman Kebakaran TPA Galuga, Sisa Lahan Terbakar Kurang 1 Ha",
+      "link": "https://news.detik.com/berita/d-8662794/hari-ke-8-pemadaman-kebakaran-tpa-galuga-sisa-lahan-terbakar-kurang-1-ha",
+      "time": "19:53 WIB"
+    },
+    {
+      "title": "Polisi Tangkap Pria Bawa Sajam Saat Ricuh Antarsuporter di Bogor",
+      "link": "https://news.detik.com/berita/d-8662791/polisi-tangkap-pria-bawa-sajam-saat-ricuh-antarsuporter-di-bogor",
+      "time": "19:50 WIB"
+    },
+    {
+      "title": "Pemerintah Serahkan DIM RUU Pelindungan Ketenagakerjaan ke Komisi IX DPR",
+      "link": "https://news.detik.com/berita/d-8662783/pemerintah-serahkan-dim-ruu-pelindungan-ketenagakerjaan-ke-komisi-ix-dpr",
+      "time": "19:38 WIB"
+    },
+    {
+      "title": "Legislator Gerindra Berduka KM Virgo Tenggelam, Minta Kemenhub Investigasi",
+      "link": "https://news.detik.com/berita/d-8662771/legislator-gerindra-berduka-km-virgo-tenggelam-minta-kemenhub-investigasi",
+      "time": "19:28 WIB"
+    },
+    {
+      "title": "SAR Resmi Perpanjang Pencarian 5 Jurnalis-3 Kru Kapal di Gunung Anak Krakatau",
+      "link": "https://news.detik.com/berita/d-8662742/sar-resmi-perpanjang-pencarian-5-jurnalis-3-kru-kapal-di-gunung-anak-krakatau",
+      "time": "19:22 WIB"
+    },
+    {
+      "title": "KSOP Sebut Tak Ada Peringatan Cuaca Buruk dari BMKG Saat KM Virgo Terbalik",
+      "link": "https://news.detik.com/berita/d-8662739/ksop-sebut-tak-ada-peringatan-cuaca-buruk-dari-bmkg-saat-km-virgo-terbalik",
+      "time": "19:16 WIB"
+    },
+    {
+      "title": "DPD RI Apresiasi Kemensos Libatkan Masyarakat dalam Pemutakhiran Data",
+      "link": "https://news.detik.com/berita/d-8662710/dpd-ri-apresiasi-kemensos-libatkan-masyarakat-dalam-pemutakhiran-data",
+      "time": "18:47 WIB"
+    },
+    {
+      "title": "KPK Cecar Eks Aspri Ridwan Kamil soal Transaksi di Rekening",
+      "link": "https://news.detik.com/berita/d-8662706/kpk-cecar-eks-aspri-ridwan-kamil-soal-transaksi-di-rekening",
+      "time": "18:42 WIB"
+    },
+    {
+      "title": "Pramono Ungkap Modifikasi Cuaca Digencarkan tapi Awan Hampir Tak Ada",
+      "link": "https://news.detik.com/berita/d-8662703/pramono-ungkap-modifikasi-cuaca-digencarkan-tapi-awan-hampir-tak-ada",
+      "time": "18:37 WIB"
+    },
+    {
+      "title": "Angkot Oleng Tabrak Tiang Lampu Jalan di Jaksel, Sopir Diamankan",
+      "link": "https://news.detik.com/berita/d-8662666/angkot-oleng-tabrak-tiang-lampu-jalan-di-jaksel-sopir-diamankan",
+      "time": "18:21 WIB"
+    },
+    {
+      "title": "Kapolri: RUU Ketenagakerjaan Harus Perkuat Perlindungan dan Kesejahteraan Buruh",
+      "link": "https://news.detik.com/berita/d-8662661/kapolri-ruu-ketenagakerjaan-harus-perkuat-perlindungan-dan-kesejahteraan-buruh",
+      "time": "18:19 WIB"
+    },
+    {
+      "title": "Pencarian Jurnalis di Anak Krakatau Masih Berlanjut, Polisi Sisir Pulau Cangkir",
+      "link": "https://news.detik.com/berita/d-8662655/pencarian-jurnalis-di-anak-krakatau-masih-berlanjut-polisi-sisir-pulau-cangkir",
+      "time": "18:14 WIB"
+    },
+    {
+      "title": "Kapolri: Perjuangkan Hak Buruh dengan Damai dan Jaga Ketertiban",
+      "link": "https://news.detik.com/berita/d-8662641/kapolri-perjuangkan-hak-buruh-dengan-damai-dan-jaga-ketertiban",
+      "time": "18:09 WIB"
+    },
+    {
+      "title": "Kapolri Apresiasi Buruh Dorong Desk Ketenagakerjaan Polri Masuk RUU Ketenagakerjaan",
+      "link": "https://news.detik.com/berita/d-8662633/kapolri-apresiasi-buruh-dorong-desk-ketenagakerjaan-polri-masuk-ruu-ketenagakerjaan",
+      "time": "18:01 WIB"
+    },
+    {
+      "title": "Perpustakaan Hadapi Tantangan Zaman, Waka MPR Dorong Kolaborasi",
+      "link": "https://news.detik.com/berita/d-8662617/perpustakaan-hadapi-tantangan-zaman-waka-mpr-dorong-kolaborasi",
+      "time": "17:56 WIB"
+    },
+    {
+      "title": "Desk Ketenagakerjaan Polri Bantu 4.236 Buruh Kembali Bekerja Sejak 2025",
+      "link": "https://news.detik.com/berita/d-8662616/desk-ketenagakerjaan-polri-bantu-4-236-buruh-kembali-bekerja-sejak-2025",
+      "time": "17:55 WIB"
+    },
+    {
+      "title": "Polisi Tangkap Pengedar Narkoba di Jakbar, Sita 7,2 Kg Sabu Senilai Rp 10 M",
+      "link": "https://news.detik.com/berita/d-8662611/polisi-tangkap-pengedar-narkoba-di-jakbar-sita-7-2-kg-sabu-senilai-rp-10-m",
+      "time": "17:52 WIB"
+    },
+    {
+      "title": "Pemerintah Setujui Pembahasan Lanjutan 15 RUU di Kalbar, Kalteng &amp;amp; Kalsel",
+      "link": "https://news.detik.com/berita/d-8662596/pemerintah-setujui-pembahasan-lanjutan-15-ruu-di-kalbar-kalteng-kalsel",
+      "time": "17:48 WIB"
+    },
+    {
+      "title": "Cegah Inflasi, Mendagri Minta Pemda Waspadai Kenaikan Harga Ayam-Beras",
+      "link": "https://news.detik.com/berita/d-8662595/cegah-inflasi-mendagri-minta-pemda-waspadai-kenaikan-harga-ayam-beras",
+      "time": "17:46 WIB"
+    },
+    {
+      "title": "Kapolri Sebut Buruh Tekstil Pahlawan Devisa, Dorong Industri Terus Tumbuh",
+      "link": "https://news.detik.com/berita/d-8662591/kapolri-sebut-buruh-tekstil-pahlawan-devisa-dorong-industri-terus-tumbuh",
+      "time": "17:45 WIB"
+    },
+    {
+      "title": "Nikahi Gadis Desa, 2 WNA Puji Cepatnya Layanan KUA Sedan",
+      "link": "https://news.detik.com/berita/d-8662585/nikahi-gadis-desa-2-wna-puji-cepatnya-layanan-kua-sedan",
+      "time": "17:39 WIB"
+    },
+    {
+      "title": "Asa Khusnul Tunggu Kabar Kakak yang Jadi Penumpang KM Virgo Transport",
+      "link": "https://news.detik.com/berita/d-8662581/asa-khusnul-tunggu-kabar-kakak-yang-jadi-penumpang-km-virgo-transport",
+      "time": "17:37 WIB"
+    },
+    {
+      "title": "Kapolri Beberkan Langkah Pemerintah Lindungi Industri Tekstil Nasional",
+      "link": "https://news.detik.com/berita/d-8662578/kapolri-beberkan-langkah-pemerintah-lindungi-industri-tekstil-nasional",
+      "time": "17:37 WIB"
+    },
+    {
+      "title": "Dispendukcapil Pasuruan Jemput Bola Bantu Perekaman e-KTP ODGJ &amp;amp; Lansia",
+      "link": "https://news.detik.com/berita/d-8662563/dispendukcapil-pasuruan-jemput-bola-bantu-perekaman-e-ktp-odgj-lansia",
+      "time": "17:26 WIB"
+    },
+    {
+      "title": "Komisi III DPR-Pukat UGM Rapat, Soroti Aset Sekolah-Pesantren Hasil Pidana",
+      "link": "https://news.detik.com/berita/d-8662559/komisi-iii-dpr-pukat-ugm-rapat-soroti-aset-sekolah-pesantren-hasil-pidana",
+      "time": "17:25 WIB"
+    },
+    {
+      "title": "Brimob Polda Metro Ikut Padamkan Kebakaran Gudang Tekstil di Pasar Asemka",
+      "link": "https://news.detik.com/berita/d-8662548/brimob-polda-metro-ikut-padamkan-kebakaran-gudang-tekstil-di-pasar-asemka",
+      "time": "17:22 WIB"
+    },
+    {
+      "title": "Kapolri Dorong Pekerja Tingkatkan Kompetensi dan Penguasaan Teknologi",
+      "link": "https://news.detik.com/berita/d-8662523/kapolri-dorong-pekerja-tingkatkan-kompetensi-dan-penguasaan-teknologi",
+      "time": "17:13 WIB"
+    },
+    {
+      "title": "Detik-detik Telepon yang Bikin Rapat Purbaya dan DPD Mendadak Dijeda",
+      "link": "https://news.detik.com/berita/d-8662518/detik-detik-telepon-yang-bikin-rapat-purbaya-dan-dpd-mendadak-dijeda",
+      "time": "17:09 WIB"
+    },
+    {
+      "title": "BPBD DKI Rilis Peringatan Dini Kekeringan, Tanah Longsor, dan Angin Kencang",
+      "link": "https://news.detik.com/berita/d-8662341/bpbd-dki-rilis-peringatan-dini-kekeringan-tanah-longsor-dan-angin-kencang",
+      "time": "17:07 WIB"
+    },
+    {
+      "title": "3 Hari Tak Kelihatan, Pria di Bekasi Ditemukan Tewas di Kontrakan",
+      "link": "https://news.detik.com/berita/d-8662505/3-hari-tak-kelihatan-pria-di-bekasi-ditemukan-tewas-di-kontrakan",
+      "time": "17:04 WIB"
+    },
+    {
+      "title": "Perdana! Career Day Pasuruan Buka Akses Dunia Kerja bagi Pelajar",
+      "link": "https://news.detik.com/berita/d-8662495/perdana-career-day-pasuruan-buka-akses-dunia-kerja-bagi-pelajar",
+      "time": "16:59 WIB"
+    },
+    {
+      "title": "Gempa M 5,6 Terjadi di Banten",
+      "link": "https://news.detik.com/berita/d-8662494/gempa-m-5-6-terjadi-di-banten",
+      "time": "16:59 WIB"
+    },
+    {
+      "title": "Warga Kaget Dengar Suara Keras Saat Truk Terguling Melintang di Tol JORR",
+      "link": "https://news.detik.com/berita/d-8662486/warga-kaget-dengar-suara-keras-saat-truk-terguling-melintang-di-tol-jorr",
+      "time": "16:54 WIB"
+    },
+    {
+      "title": "Korban Dugaan Kekerasan Seksual Betrand Peto Beber Kronologi ke Polisi",
+      "link": "https://news.detik.com/berita/d-8662477/korban-dugaan-kekerasan-seksual-betrand-peto-beber-kronologi-ke-polisi",
+      "time": "16:44 WIB"
+    },
+    {
+      "title": "Tim Ahli RSCM Periksa Siswi Karo Keracunan MBG, Hasil Tes Keluar 2 Hari Lagi",
+      "link": "https://news.detik.com/berita/d-8662476/tim-ahli-rscm-periksa-siswi-karo-keracunan-mbg-hasil-tes-keluar-2-hari-lagi",
+      "time": "16:42 WIB"
+    },
+    {
+      "title": "Ini Tujuan Peserta Karnaval Sembelih Kambing yang Viral Mirip Ritual Satanik",
+      "link": "https://news.detik.com/berita/d-8662470/ini-tujuan-peserta-karnaval-sembelih-kambing-yang-viral-mirip-ritual-satanik",
+      "time": "16:36 WIB"
+    },
+    {
+      "title": "Banggar DPR Pastikan Anggaran Kebencanaan 2027 Naik Jadi Rp 1,1 T",
+      "link": "https://news.detik.com/berita/d-8662462/banggar-dpr-pastikan-anggaran-kebencanaan-2027-naik-jadi-rp-1-1-t",
+      "time": "16:34 WIB"
+    },
+    {
+      "title": "Mekanik Tewas Tabrak Pohon di Tangsel Saat Bawa Motor Lawan Arah",
+      "link": "https://news.detik.com/berita/d-8662454/mekanik-tewas-tabrak-pohon-di-tangsel-saat-bawa-motor-lawan-arah",
+      "time": "16:30 WIB"
+    },
+    {
+      "title": "Perkuat Pengendalian Banjir, Pemkot Tangsel Bangun Turap 204 Meter",
+      "link": "https://news.detik.com/berita/d-8662440/perkuat-pengendalian-banjir-pemkot-tangsel-bangun-turap-204-meter",
+      "time": "16:24 WIB"
+    },
+    {
+      "title": "Gus Ipul Ajak ASN Kemensos Jadi Agen Perlinsos Lewat Gerakan Peduli Tetangga",
+      "link": "https://news.detik.com/berita/d-8662391/gus-ipul-ajak-asn-kemensos-jadi-agen-perlinsos-lewat-gerakan-peduli-tetangga",
+      "time": "16:21 WIB"
+    },
+    {
+      "title": "Dilantik Jadi Menkeu, Suahasil Diminta Prabowo Jaga Kesehatan Keuangan Negara",
+      "link": "https://news.detik.com/berita/d-8662437/dilantik-jadi-menkeu-suahasil-diminta-prabowo-jaga-kesehatan-keuangan-negara",
+      "time": "16:20 WIB"
+    },
+    {
+      "title": "Suahasil Nazara Jadi Menkeu, Purbaya Masih Ikut Rapat DPD Siang Tadi",
+      "link": "https://news.detik.com/berita/d-8662401/suahasil-nazara-jadi-menkeu-purbaya-masih-ikut-rapat-dpd-siang-tadi",
+      "time": "16:16 WIB"
+    },
+    {
+      "title": "Terbaru! Ini Daftar Nama Menteri Kabinet Prabowo-Gibran Usai Menkeu Diganti",
+      "link": "https://news.detik.com/berita/d-8662398/terbaru-ini-daftar-nama-menteri-kabinet-prabowo-gibran-usai-menkeu-diganti",
+      "time": "16:13 WIB"
+    },
+    {
+      "title": "Rumah Warga Cibinong Digarong, Motor hingga 40 Gram Logam Mulia Hilang",
+      "link": "https://news.detik.com/berita/d-8662396/rumah-warga-cibinong-digarong-motor-hingga-40-gram-logam-mulia-hilang",
+      "time": "16:13 WIB"
+    },
+    {
+      "title": "Pekanbaru Jadi Kota dengan Pertumbuhan Ekonomi Tertinggi di Indonesia",
+      "link": "https://news.detik.com/berita/d-8662394/pekanbaru-jadi-kota-dengan-pertumbuhan-ekonomi-tertinggi-di-indonesia",
+      "time": "16:12 WIB"
+    },
+    {
+      "title": "Komisi IX DPR Minta BGN Tanggung Biaya Pengobatan Korban Keracunan MBG",
+      "link": "https://news.detik.com/berita/d-8662393/komisi-ix-dpr-minta-bgn-tanggung-biaya-pengobatan-korban-keracunan-mbg",
+      "time": "16:12 WIB"
+    },
+    {
+      "title": "Suahasil Ngaku Ditelepon Istana Tadi Pagi untuk Dilantik Jadi Menkeu",
+      "link": "https://news.detik.com/berita/d-8662390/suahasil-ngaku-ditelepon-istana-tadi-pagi-untuk-dilantik-jadi-menkeu",
+      "time": "16:11 WIB"
+    },
+    {
+      "title": "Pegawai Kemensos Hening Cipta untuk ASN Jayawijaya dan Korban KM Virgo",
+      "link": "https://news.detik.com/berita/d-8662388/pegawai-kemensos-hening-cipta-untuk-asn-jayawijaya-dan-korban-km-virgo",
+      "time": "16:10 WIB"
+    },
+    {
+      "title": "Menkeu Suahasil Nazara Punya Harta Rp 138 M",
+      "link": "https://news.detik.com/berita/d-8662378/menkeu-suahasil-nazara-punya-harta-rp-138-m",
+      "time": "16:07 WIB"
+    },
+    {
+      "title": "Daftar Barang dan Dokumen yang Wajib Ada di Tas Siaga Bencana",
+      "link": "https://news.detik.com/berita/d-8662253/daftar-barang-dan-dokumen-yang-wajib-ada-di-tas-siaga-bencana",
+      "time": "16:06 WIB"
+    },
+    {
+      "title": "Wamensos Hadiri Pelepasan Satgas Port Visit 2026 ke Pasifik Selatan",
+      "link": "https://news.detik.com/berita/d-8662363/wamensos-hadiri-pelepasan-satgas-port-visit-2026-ke-pasifik-selatan",
+      "time": "16:03 WIB"
+    },
+    {
+      "title": "Sisa Muatan Truk Terguling Melintang di Tol JORR Dievakuasi, Lalin Padat",
+      "link": "https://news.detik.com/berita/d-8662362/sisa-muatan-truk-terguling-melintang-di-tol-jorr-dievakuasi-lalin-padat",
+      "time": "16:03 WIB"
+    },
+    {
+      "title": "Bareskrim Gagalkan Penyelundupan 5 Kg Sabu Disembunyikan di Ban Serep",
+      "link": "https://news.detik.com/berita/d-8662352/bareskrim-gagalkan-penyelundupan-5-kg-sabu-disembunyikan-di-ban-serep",
+      "time": "15:57 WIB"
+    },
+    {
+      "title": "Jaksa Cecar Pejabat Bea Cukai soal Dugaan OTT KPK Bocor: Siapa yang Spill?",
+      "link": "https://news.detik.com/berita/d-8662350/jaksa-cecar-pejabat-bea-cukai-soal-dugaan-ott-kpk-bocor-siapa-yang-spill",
+      "time": "15:56 WIB"
+    },
+    {
+      "title": "Said PDIP: Kita Tak Pernah Lagi Pikirkan Jokowi",
+      "link": "https://news.detik.com/berita/d-8662339/said-pdip-kita-tak-pernah-lagi-pikirkan-jokowi",
+      "time": "15:51 WIB"
+    },
+    {
+      "title": "Bukan karena Temui Jokowi, Said Ungkap Alasan Kader PDIP Surabaya Dipecat",
+      "link": "https://news.detik.com/berita/d-8662336/bukan-karena-temui-jokowi-said-ungkap-alasan-kader-pdip-surabaya-dipecat",
+      "time": "15:48 WIB"
+    },
+    {
+      "title": "Pembunuh Wanita di Tanah Abang Tinggalkan Sepatu dalam Hotel",
+      "link": "https://news.detik.com/berita/d-8662334/pembunuh-wanita-di-tanah-abang-tinggalkan-sepatu-dalam-hotel",
+      "time": "15:47 WIB"
+    },
+    {
+      "title": "Pemkot Tangsel Evaluasi CKG, Perkuat Tindak Lanjut Hasil Pemeriksaan",
+      "link": "https://news.detik.com/berita/d-8662333/pemkot-tangsel-evaluasi-ckg-perkuat-tindak-lanjut-hasil-pemeriksaan",
+      "time": "15:46 WIB"
+    },
+    {
+      "title": "Deretan Reshuffle Kabinet Prabowo-Gibran, Terbaru Posisi Menkeu Berganti",
+      "link": "https://news.detik.com/berita/d-8662332/deretan-reshuffle-kabinet-prabowo-gibran-terbaru-posisi-menkeu-berganti",
+      "time": "15:46 WIB"
+    },
+    {
+      "title": "Ilalang di Kampung Bandan Jakut Kebakaran, 80 Personel Damkar Dikerahkan",
+      "link": "https://news.detik.com/berita/d-8662321/ilalang-di-kampung-bandan-jakut-kebakaran-80-personel-damkar-dikerahkan",
+      "time": "15:44 WIB"
+    },
+    {
+      "title": "Manajeman KM Virgo Transport Duga Kapal Terbalik karena Cuaca Buruk",
+      "link": "https://news.detik.com/berita/d-8662308/manajeman-km-virgo-transport-duga-kapal-terbalik-karena-cuaca-buruk",
+      "time": "15:40 WIB"
+    },
+    {
+      "title": "Mendagri Imbau Kepala Daerah Dukung Proses Verifikasi &amp;amp; Validasi Kopdeskel",
+      "link": "https://news.detik.com/berita/d-8662299/mendagri-imbau-kepala-daerah-dukung-proses-verifikasi-validasi-kopdeskel",
+      "time": "15:35 WIB"
+    },
+    {
+      "title": "Prabowo Resmi Lantik Suahasil Nazara Jadi Menkeu",
+      "link": "https://news.detik.com/berita/d-8662293/prabowo-resmi-lantik-suahasil-nazara-jadi-menkeu",
+      "time": "15:33 WIB"
+    },
+    {
+      "title": "Pratikno Merapat ke Istana Pakai Jas Hitam-Dasi Biru: Ada Undangan Pelantikan",
+      "link": "https://news.detik.com/berita/d-8662275/pratikno-merapat-ke-istana-pakai-jas-hitam-dasi-biru-ada-undangan-pelantikan",
+      "time": "15:27 WIB"
+    },
+    {
+      "title": "Andra Soni Harap Pencarian Jurnalis dan Kru Kapal Hilang Kontak Diperpanjang",
+      "link": "https://news.detik.com/berita/d-8662272/andra-soni-harap-pencarian-jurnalis-dan-kru-kapal-hilang-kontak-diperpanjang",
+      "time": "15:24 WIB"
+    },
+    {
+      "title": "Kebakaran Rumah di Gambir Jakpus, Asap Putih Tebal Mengepul",
+      "link": "https://news.detik.com/berita/d-8662269/kebakaran-rumah-di-gambir-jakpus-asap-putih-tebal-mengepul",
+      "time": "15:22 WIB"
+    },
+    {
+      "title": "Cara Mengurus Akta Kelahiran Bagi Lansia, Simak Syaratnya!",
+      "link": "https://news.detik.com/berita/d-8661991/cara-mengurus-akta-kelahiran-bagi-lansia-simak-syaratnya",
+      "time": "15:14 WIB"
+    },
+    {
+      "title": "Peserta Karnaval di Pekalongan Minta Maaf Kurang Literasi soal Satanik",
+      "link": "https://news.detik.com/berita/d-8662256/peserta-karnaval-di-pekalongan-minta-maaf-kurang-literasi-soal-satanik",
+      "time": "15:13 WIB"
+    },
+    {
+      "title": "Misteri Suara Besi Patah di Balik Tenggelamnya Kapal Virgo",
+      "link": "https://news.detik.com/berita/d-8662126/misteri-suara-besi-patah-di-balik-tenggelamnya-kapal-virgo",
+      "time": "15:12 WIB"
+    },
+    {
+      "title": "Polisi: Terpal yang Ditemukan Tim SAR Bukan dari Kapal Rombongan Jurnalis",
+      "link": "https://news.detik.com/berita/d-8662249/polisi-terpal-yang-ditemukan-tim-sar-bukan-dari-kapal-rombongan-jurnalis",
+      "time": "15:09 WIB"
+    },
+    {
+      "title": "Chat WA Terdakwa Kasus Bea Cukai ke Rekan Sebelum Kena OTT KPK: Hati-hati Coy",
+      "link": "https://news.detik.com/berita/d-8662246/chat-wa-terdakwa-kasus-bea-cukai-ke-rekan-sebelum-kena-ott-kpk-hati-hati-coy",
+      "time": "15:07 WIB"
+    },
+    {
+      "title": "Kemendagri Siapkan Acuan Terpadu Pemulihan Aceh, Sumut, dan Sumbar",
+      "link": "https://news.detik.com/berita/d-8662237/kemendagri-siapkan-acuan-terpadu-pemulihan-aceh-sumut-dan-sumbar",
+      "time": "15:06 WIB"
+    },
+    {
+      "title": "Simpang Pesing Jakbar Kini Ditutup Beton Cegah Macet dan &#x27;Pak Ogah&#x27;",
+      "link": "https://news.detik.com/berita/d-8662231/simpang-pesing-jakbar-kini-ditutup-beton-cegah-macet-dan-pak-ogah",
+      "time": "15:03 WIB"
+    },
+    {
+      "title": "Isu Reshuffle Kabinet Menguat, Pratikno hingga Suahasil Merapat ke Istana",
+      "link": "https://news.detik.com/berita/d-8662223/isu-reshuffle-kabinet-menguat-pratikno-hingga-suahasil-merapat-ke-istana",
+      "time": "14:58 WIB"
+    },
+    {
+      "title": "Teken SKB RBI, Mendagri Dorong Pemberdayaan Perempuan &amp;amp; Anak di Daerah",
+      "link": "https://news.detik.com/berita/d-8662208/teken-skb-rbi-mendagri-dorong-pemberdayaan-perempuan-anak-di-daerah",
+      "time": "14:53 WIB"
+    },
+    {
+      "title": "Pegadaian Championship 2026/2027 Digelar, Pegadaian Dukung Talenta Muda",
+      "link": "https://news.detik.com/berita/d-8662203/pegadaian-championship-2026-2027-digelar-pegadaian-dukung-talenta-muda",
+      "time": "14:49 WIB"
+    },
+    {
+      "title": "Jaksa Ungkap Mafia Perkara Cuci Duit Lewat Biayai Film &#x27;Sang Pengadil&#x27;",
+      "link": "https://news.detik.com/berita/d-8662190/jaksa-ungkap-mafia-perkara-cuci-duit-lewat-biayai-film-sang-pengadil",
+      "time": "14:36 WIB"
+    },
+    {
+      "title": "Mendagri: 24 Ribu Kopdes Diverifikasi, Tak Sesuai Spesifikasi Harus Diperbaiki",
+      "link": "https://news.detik.com/berita/d-8662186/mendagri-24-ribu-kopdes-diverifikasi-tak-sesuai-spesifikasi-harus-diperbaiki",
+      "time": "14:34 WIB"
+    },
+    {
+      "title": "Diduga Ada Ritual Satanik, Karnaval di Pekalongan Tuai Sorotan",
+      "link": "https://news.detik.com/berita/d-8662171/diduga-ada-ritual-satanik-karnaval-di-pekalongan-tuai-sorotan",
+      "time": "14:30 WIB"
+    },
+    {
+      "title": "Kader PDIP yang Dipecat Ungkap Hubungan Jokowi-Mega, Ganjar Buka Suara",
+      "link": "https://news.detik.com/berita/d-8662151/kader-pdip-yang-dipecat-ungkap-hubungan-jokowi-mega-ganjar-buka-suara",
+      "time": "14:23 WIB"
+    },
+    {
+      "title": "Produser &#x27;Sang Pengadil&#x27; Didakwa Sembunyikan Alphard-Kebun Sawit Mafia Perkara",
+      "link": "https://news.detik.com/berita/d-8662140/produser-sang-pengadil-didakwa-sembunyikan-alphard-kebun-sawit-mafia-perkara",
+      "time": "14:19 WIB"
+    },
+    {
+      "title": "Kejagung Siap Hadapi Kasasi Ibam di Kasus Korupsi Chromebook",
+      "link": "https://news.detik.com/berita/d-8662142/kejagung-siap-hadapi-kasasi-ibam-di-kasus-korupsi-chromebook",
+      "time": "14:19 WIB"
+    },
+    {
+      "title": "Truk Terguling Melintang di Tol JORR Dievakuasi, Sisa Muatan Masih Bikin Macet",
+      "link": "https://news.detik.com/berita/d-8662139/truk-terguling-melintang-di-tol-jorr-dievakuasi-sisa-muatan-masih-bikin-macet",
+      "time": "14:18 WIB"
+    },
+    {
+      "title": "Mendagri Mediasi Konflik Masinton-DPRD Tapteng: Eksekutif-Legislatif Bersatu",
+      "link": "https://news.detik.com/berita/d-8662127/mendagri-mediasi-konflik-masinton-dprd-tapteng-eksekutif-legislatif-bersatu",
+      "time": "14:18 WIB"
+    },
+    {
+      "title": "Kronologi Kecelakaan Beruntun Bikin Truk Terguling Melintang di Tol JORR",
+      "link": "https://news.detik.com/berita/d-8662120/kronologi-kecelakaan-beruntun-bikin-truk-terguling-melintang-di-tol-jorr",
+      "time": "14:15 WIB"
+    },
+    {
+      "title": "23 Warga Satu Desa di Garut Jadi Kru Kapal Virgo Transport, 11 Masih Hilang",
+      "link": "https://news.detik.com/berita/d-8662114/23-warga-satu-desa-di-garut-jadi-kru-kapal-virgo-transport-11-masih-hilang",
+      "time": "14:09 WIB"
+    },
+    {
+      "title": "Mendagri Usul Pembahasan 15 RUU Kabupaten-Kota Tak Singgung Titik Koordinat",
+      "link": "https://news.detik.com/berita/d-8662107/mendagri-usul-pembahasan-15-ruu-kabupaten-kota-tak-singgung-titik-koordinat",
+      "time": "14:02 WIB"
+    },
+    {
       "title": "Teken SKB 3 Menteri, Mendes Yandri Dorong Perempuan Jadi Subjek Pembangunan",
       "link": "https://news.detik.com/berita/d-8662088/teken-skb-3-menteri-mendes-yandri-dorong-perempuan-jadi-subjek-pembangunan",
       "time": "13:52 WIB"
