@@ -2,6 +2,506 @@
   "Kompas": [],
   "Detik": [
     {
+      "title": "6 Penumpang KRL Terjebak dalam Lift Stasiun Manggarai, Petugas Evakuasi",
+      "link": "https://news.detik.com/berita/d-8697109/6-penumpang-krl-terjebak-dalam-lift-stasiun-manggarai-petugas-evakuasi",
+      "time": "20:50 WIB"
+    },
+    {
+      "title": "Mobil Wisatawan Terbakar di Jalur Dieng, Warga Dengar Beberapa Kali Ledakan",
+      "link": "https://news.detik.com/berita/d-8697108/mobil-wisatawan-terbakar-di-jalur-dieng-warga-dengar-beberapa-kali-ledakan",
+      "time": "20:49 WIB"
+    },
+    {
+      "title": "3 Bocah di Jaktim Viral &#x27;Makan dari Tong Sampah&#x27; Belum Punya Akta Lahir",
+      "link": "https://news.detik.com/berita/d-8697087/3-bocah-di-jaktim-viral-makan-dari-tong-sampah-belum-punya-akta-lahir",
+      "time": "20:25 WIB"
+    },
+    {
+      "title": "Kumpulkan Perwira TNI-Polri, Prabowo Tekankan Kekompakan dan Kesiapsiagaan",
+      "link": "https://news.detik.com/berita/d-8697075/kumpulkan-perwira-tni-polri-prabowo-tekankan-kekompakan-dan-kesiapsiagaan",
+      "time": "20:20 WIB"
+    },
+    {
+      "title": "Wamen UMKM Dorong Kolaborasi Lintas Sektor Cetak Wirausaha Baru",
+      "link": "https://news.detik.com/berita/d-8697064/wamen-umkm-dorong-kolaborasi-lintas-sektor-cetak-wirausaha-baru",
+      "time": "20:14 WIB"
+    },
+    {
+      "title": "KPK Tetapkan 8 Tersangka Baru Pengembangan Kasus Proyek Jalan Sumut",
+      "link": "https://news.detik.com/berita/d-8697045/kpk-tetapkan-8-tersangka-baru-pengembangan-kasus-proyek-jalan-sumut",
+      "time": "20:00 WIB"
+    },
+    {
+      "title": "Pemerintah Subsidi Biaya Haji Rp 3 Juta, Jemaah Tinggal Lunasi Sekitar Rp 23 Juta",
+      "link": "https://news.detik.com/berita/d-8697044/pemerintah-subsidi-biaya-haji-rp-3-juta-jemaah-tinggal-lunasi-sekitar-rp-23-juta",
+      "time": "20:00 WIB"
+    },
+    {
+      "title": "3 Bocah di Jaktim Diviralkan &#x27;Makan dari Tong Sampah&#x27;, Dinsos Ungkap Faktanya",
+      "link": "https://news.detik.com/berita/d-8697042/3-bocah-di-jaktim-diviralkan-makan-dari-tong-sampah-dinsos-ungkap-faktanya",
+      "time": "19:58 WIB"
+    },
+    {
+      "title": "Remaja Tenggelam di Sungai Ciliwung Jaktim, Brimob Kerahkan Tim SAR",
+      "link": "https://news.detik.com/berita/d-8697036/remaja-tenggelam-di-sungai-ciliwung-jaktim-brimob-kerahkan-tim-sar",
+      "time": "19:57 WIB"
+    },
+    {
+      "title": "Mendagri Tito Hadiri Taklimat Prabowo kepada 800 Perwira Tinggi TNI-Polri",
+      "link": "https://news.detik.com/berita/d-8697018/mendagri-tito-hadiri-taklimat-prabowo-kepada-800-perwira-tinggi-tni-polri",
+      "time": "19:40 WIB"
+    },
+    {
+      "title": "Gus Ipul Salurkan Bantuan Rp 328 Juta untuk Korban Banjir Solok",
+      "link": "https://news.detik.com/berita/d-8696979/gus-ipul-salurkan-bantuan-rp-328-juta-untuk-korban-banjir-solok",
+      "time": "19:38 WIB"
+    },
+    {
+      "title": "Legislator PDIP Dorong Satu Data Indonesia untuk Cegah Program Salah Sasaran",
+      "link": "https://news.detik.com/berita/d-8697014/legislator-pdip-dorong-satu-data-indonesia-untuk-cegah-program-salah-sasaran",
+      "time": "19:37 WIB"
+    },
+    {
+      "title": "Fatma Saifullah Puji Drama Musikal Sirena Beri Ruang Penyandang Disabilitas",
+      "link": "https://news.detik.com/berita/d-8697010/fatma-saifullah-puji-drama-musikal-sirena-beri-ruang-penyandang-disabilitas",
+      "time": "19:31 WIB"
+    },
+    {
+      "title": "Kopdes Merah Putih Vs Warung Rakyat, Zulhas Pastikan Tak Ada Persaingan",
+      "link": "https://news.detik.com/berita/d-8696442/kopdes-merah-putih-vs-warung-rakyat-zulhas-pastikan-tak-ada-persaingan",
+      "time": "19:30 WIB"
+    },
+    {
+      "title": "Rincian Aliran Duit hingga Saham yang Terungkap di Dakwaan Eks Jampidsus",
+      "link": "https://news.detik.com/berita/d-8697009/rincian-aliran-duit-hingga-saham-yang-terungkap-di-dakwaan-eks-jampidsus",
+      "time": "19:28 WIB"
+    },
+    {
+      "title": "KPK Geledah Dinkes Madiun Terkait TPPU Walkot Maidi, Sita Dokumen-Uang Tunai",
+      "link": "https://news.detik.com/berita/d-8696994/kpk-geledah-dinkes-madiun-terkait-tppu-walkot-maidi-sita-dokumen-uang-tunai",
+      "time": "19:20 WIB"
+    },
+    {
+      "title": "Eddy Soeparno Dorong Kepercayaan Investor untuk Kembangkan Blue Carbon",
+      "link": "https://news.detik.com/berita/d-8696993/eddy-soeparno-dorong-kepercayaan-investor-untuk-kembangkan-blue-carbon",
+      "time": "19:20 WIB"
+    },
+    {
+      "title": "Zulhas Buka Suara soal Protes Penempatan Manajer Kopdes Merah Putih",
+      "link": "https://news.detik.com/berita/d-8696432/zulhas-buka-suara-soal-protes-penempatan-manajer-kopdes-merah-putih",
+      "time": "19:15 WIB"
+    },
+    {
+      "title": "Gus Ipul Ajak Civitas Akademika UNP Jadi Agen Perlinsos",
+      "link": "https://news.detik.com/berita/d-8696968/gus-ipul-ajak-civitas-akademika-unp-jadi-agen-perlinsos",
+      "time": "19:01 WIB"
+    },
+    {
+      "title": "Zulhas Klarifikasi soal Manajer Kopdes-Berita Simpang Siur di Internet",
+      "link": "https://news.detik.com/berita/d-8696412/zulhas-klarifikasi-soal-manajer-kopdes-berita-simpang-siur-di-internet",
+      "time": "19:00 WIB"
+    },
+    {
+      "title": "Menko Polkam Ungkap Isi Taklimat Prabowo di Depan Para Pimpinan TNI-Polri",
+      "link": "https://news.detik.com/berita/d-8696955/menko-polkam-ungkap-isi-taklimat-prabowo-di-depan-para-pimpinan-tni-polri",
+      "time": "18:52 WIB"
+    },
+    {
+      "title": "Polisi Sebut Oknum Pegawai Rutan Depok Sudah 3 Kali Antar Sabu ke Sel",
+      "link": "https://news.detik.com/berita/d-8696936/polisi-sebut-oknum-pegawai-rutan-depok-sudah-3-kali-antar-sabu-ke-sel",
+      "time": "18:42 WIB"
+    },
+    {
+      "title": "Golkar Harap Putusan MK soal Ijazah Gibran Jadi Evaluasi Penyelenggara Pemilu",
+      "link": "https://news.detik.com/berita/d-8696935/golkar-harap-putusan-mk-soal-ijazah-gibran-jadi-evaluasi-penyelenggara-pemilu",
+      "time": "18:40 WIB"
+    },
+    {
+      "title": "Deddy PDIP Bicara Opsi Hak Angket soal Putusan MK Terkait Ijazah Gibran",
+      "link": "https://news.detik.com/berita/d-8696934/deddy-pdip-bicara-opsi-hak-angket-soal-putusan-mk-terkait-ijazah-gibran",
+      "time": "18:40 WIB"
+    },
+    {
+      "title": "Beredar Kabar PMI Tarik Sumbangan ke ASN, Pramono: Tak Boleh Ada Pungutan",
+      "link": "https://news.detik.com/berita/d-8696914/beredar-kabar-pmi-tarik-sumbangan-ke-asn-pramono-tak-boleh-ada-pungutan",
+      "time": "18:23 WIB"
+    },
+    {
+      "title": "Bunga Tabebuya Bermekaran Bikin Jalan Cikini Jakpus Estetik",
+      "link": "https://news.detik.com/berita/d-8696913/bunga-tabebuya-bermekaran-bikin-jalan-cikini-jakpus-estetik",
+      "time": "18:23 WIB"
+    },
+    {
+      "title": "Cegah Karhutla Meluas, Satbrimob Polda Kalteng Basahi Sejumlah Titik Panas",
+      "link": "https://news.detik.com/berita/d-8696897/cegah-karhutla-meluas-satbrimob-polda-kalteng-basahi-sejumlah-titik-panas",
+      "time": "18:16 WIB"
+    },
+    {
+      "title": "BRAN Siapkan One Data Agraria untuk Percepat Penyelesaian Konflik Tanah",
+      "link": "https://news.detik.com/berita/d-8696877/bran-siapkan-one-data-agraria-untuk-percepat-penyelesaian-konflik-tanah",
+      "time": "18:06 WIB"
+    },
+    {
+      "title": "KPK Jadwalkan Ulang Pemeriksaan Nusron Wahid: Keterangannya Dibutuhkan",
+      "link": "https://news.detik.com/berita/d-8696856/kpk-jadwalkan-ulang-pemeriksaan-nusron-wahid-keterangannya-dibutuhkan",
+      "time": "17:59 WIB"
+    },
+    {
+      "title": "Dudung Ungkap Arahan Prabowo: Calon Anggota TNI-Polri Boleh Berkacamata",
+      "link": "https://news.detik.com/berita/d-8696836/dudung-ungkap-arahan-prabowo-calon-anggota-tni-polri-boleh-berkacamata",
+      "time": "17:51 WIB"
+    },
+    {
+      "title": "Warga Bekasi Dijambret Saat Dorong Motor Bocor, Pelaku Todongkan Pistol",
+      "link": "https://news.detik.com/berita/d-8696835/warga-bekasi-dijambret-saat-dorong-motor-bocor-pelaku-todongkan-pistol",
+      "time": "17:50 WIB"
+    },
+    {
+      "title": "Didakwa Pemerasan Rp 55 M dan TPPU Rp 350 M, Eks Jampidsus Ajukan Perlawanan",
+      "link": "https://news.detik.com/berita/d-8696834/didakwa-pemerasan-rp-55-m-dan-tppu-rp-350-m-eks-jampidsus-ajukan-perlawanan",
+      "time": "17:49 WIB"
+    },
+    {
+      "title": "Zulhas Sebut Pasar Karbon RI Berpotensi Hasilkan US$ 7,7 Miliar Per Tahun",
+      "link": "https://news.detik.com/berita/d-8696832/zulhas-sebut-pasar-karbon-ri-berpotensi-hasilkan-us-7-7-miliar-per-tahun",
+      "time": "17:48 WIB"
+    },
+    {
+      "title": "Diperiksa KPK soal TPPU, Eks Bupati Kukar Harap Kasus Cepat Selesai",
+      "link": "https://news.detik.com/berita/d-8696830/diperiksa-kpk-soal-tppu-eks-bupati-kukar-harap-kasus-cepat-selesai",
+      "time": "17:44 WIB"
+    },
+    {
+      "title": "Ayah Mozza Axillia Luapkan Emosi ke Pembunuh Anaknya Saat Reka Ulang",
+      "link": "https://news.detik.com/berita/d-8696829/ayah-mozza-axillia-luapkan-emosi-ke-pembunuh-anaknya-saat-reka-ulang",
+      "time": "17:43 WIB"
+    },
+    {
+      "title": "Biaya Haji 2027 Rp 98 Juta, Jemaah Bayar Rp 54,6 Juta",
+      "link": "https://news.detik.com/berita/d-8696825/biaya-haji-2027-rp-98-juta-jemaah-bayar-rp-54-6-juta",
+      "time": "17:40 WIB"
+    },
+    {
+      "title": "9 Hakim MK yang Tangani Gugatan Ijazah Gibran Diadukan ke MKMK",
+      "link": "https://news.detik.com/berita/d-8696802/9-hakim-mk-yang-tangani-gugatan-ijazah-gibran-diadukan-ke-mkmk",
+      "time": "17:28 WIB"
+    },
+    {
+      "title": "Ngerem Mendadak, Pemotor di Bogor Tabrak Mobil Listrik hingga Luka",
+      "link": "https://news.detik.com/berita/d-8696793/ngerem-mendadak-pemotor-di-bogor-tabrak-mobil-listrik-hingga-luka",
+      "time": "17:23 WIB"
+    },
+    {
+      "title": "Persoalan Lahan Selesai, Pramono Ungkap PSEL Bantargebang Segera Dibangun",
+      "link": "https://news.detik.com/berita/d-8696780/persoalan-lahan-selesai-pramono-ungkap-psel-bantargebang-segera-dibangun",
+      "time": "17:19 WIB"
+    },
+    {
+      "title": "Para Inovator Teknologi Kesehatan: Kembangkan Riset Klinis hingga Alkes",
+      "link": "https://news.detik.com/berita/d-8696775/para-inovator-teknologi-kesehatan-kembangkan-riset-klinis-hingga-alkes",
+      "time": "17:16 WIB"
+    },
+    {
+      "title": "3 Brankas Dibongkar di Kasus TPPU Eks Jampidsus Febrie, Ini Rincian Isinya",
+      "link": "https://news.detik.com/berita/d-8696773/3-brankas-dibongkar-di-kasus-tppu-eks-jampidsus-febrie-ini-rincian-isinya",
+      "time": "17:14 WIB"
+    },
+    {
+      "title": "Zulhas Sebut Pasar Karbon Harus Hadirkan Manfaat ke Petani-Nelayan",
+      "link": "https://news.detik.com/berita/d-8696770/zulhas-sebut-pasar-karbon-harus-hadirkan-manfaat-ke-petani-nelayan",
+      "time": "17:12 WIB"
+    },
+    {
+      "title": "KPU Komitmen Jelaskan Administrasi Pencalonan Gibran dari Arsip dan Dokumen",
+      "link": "https://news.detik.com/berita/d-8696756/kpu-komitmen-jelaskan-administrasi-pencalonan-gibran-dari-arsip-dan-dokumen",
+      "time": "17:08 WIB"
+    },
+    {
+      "title": "Emas Batangan 74 Kg di Rumah Sentul Eks Jampidsus Muncul di Dakwaan",
+      "link": "https://news.detik.com/berita/d-8696753/emas-batangan-74-kg-di-rumah-sentul-eks-jampidsus-muncul-di-dakwaan",
+      "time": "17:06 WIB"
+    },
+    {
+      "title": "KPK Masih Tunggu Nusron Wahid Penuhi Panggilan",
+      "link": "https://news.detik.com/berita/d-8696745/kpk-masih-tunggu-nusron-wahid-penuhi-panggilan",
+      "time": "17:02 WIB"
+    },
+    {
+      "title": "Zulhas Dorong Investasi Hijau Lewat Pasar Karbon dan PSEL",
+      "link": "https://news.detik.com/berita/d-8696742/zulhas-dorong-investasi-hijau-lewat-pasar-karbon-dan-psel",
+      "time": "16:59 WIB"
+    },
+    {
+      "title": "15 Kendaraan Tabrakan Beruntun di Km 91 Tol Cipularang, 1 Orang Luka Berat",
+      "link": "https://news.detik.com/berita/d-8696741/15-kendaraan-tabrakan-beruntun-di-km-91-tol-cipularang-1-orang-luka-berat",
+      "time": "16:59 WIB"
+    },
+    {
+      "title": "Pemprov Jabar Libatkan 25.000 Mahasiswa untuk Dampingi Warga Kelola Sampah",
+      "link": "https://news.detik.com/berita/d-8696684/pemprov-jabar-libatkan-25-000-mahasiswa-untuk-dampingi-warga-kelola-sampah",
+      "time": "16:58 WIB"
+    },
+    {
+      "title": "Korban Penganiayaan Perkara Petasan Acara Maulid di Jaksel Lapor Polisi",
+      "link": "https://news.detik.com/berita/d-8696733/korban-penganiayaan-perkara-petasan-acara-maulid-di-jaksel-lapor-polisi",
+      "time": "16:55 WIB"
+    },
+    {
+      "title": "Semudah Ini Febrie Adriansyah Beli 2 Apartemen dan 4 Mobil Dibayar Tunai",
+      "link": "https://news.detik.com/berita/d-8696730/semudah-ini-febrie-adriansyah-beli-2-apartemen-dan-4-mobil-dibayar-tunai",
+      "time": "16:54 WIB"
+    },
+    {
+      "title": "KPU Jelaskan Alasan Terima Suket Jadi Syarat Gibran Daftar Cawapres",
+      "link": "https://news.detik.com/berita/d-8696714/kpu-jelaskan-alasan-terima-suket-jadi-syarat-gibran-daftar-cawapres",
+      "time": "16:51 WIB"
+    },
+    {
+      "title": "56 Pasar Terdampak Bencana Direhabilitasi, Ekonomi Warga Mulai Pulih",
+      "link": "https://news.detik.com/berita/d-8696708/56-pasar-terdampak-bencana-direhabilitasi-ekonomi-warga-mulai-pulih",
+      "time": "16:46 WIB"
+    },
+    {
+      "title": "Dari Dapur Napi, Puff Tape Lamoria Siap Jadi Oleh-oleh Khas Bandung",
+      "link": "https://news.detik.com/berita/d-8696705/dari-dapur-napi-puff-tape-lamoria-siap-jadi-oleh-oleh-khas-bandung",
+      "time": "16:45 WIB"
+    },
+    {
+      "title": "Pramono Minta Guru Seni Teduga Pelaku Pelecehan di Jakpus Dilarang Mengajar",
+      "link": "https://news.detik.com/berita/d-8696703/pramono-minta-guru-seni-teduga-pelaku-pelecehan-di-jakpus-dilarang-mengajar",
+      "time": "16:44 WIB"
+    },
+    {
+      "title": "Letjen Tri Budi Utomo Jadi Wakasad, Sertijab Pekan Depan",
+      "link": "https://news.detik.com/berita/d-8696704/letjen-tri-budi-utomo-jadi-wakasad-sertijab-pekan-depan",
+      "time": "16:44 WIB"
+    },
+    {
+      "title": "RI Dorong Tata Kelola Royalti Hak Cipta Lintas Negara Lebih Transparan",
+      "link": "https://news.detik.com/berita/d-8696691/ri-dorong-tata-kelola-royalti-hak-cipta-lintas-negara-lebih-transparan",
+      "time": "16:38 WIB"
+    },
+    {
+      "title": "Wamendagri Ribka Dorong Percepatan Pemenuhan Hak Anak atas Akta Kelahiran",
+      "link": "https://news.detik.com/berita/d-8696689/wamendagri-ribka-dorong-percepatan-pemenuhan-hak-anak-atas-akta-kelahiran",
+      "time": "16:37 WIB"
+    },
+    {
+      "title": "Dasco: DPR Belum Terima Surpres Pergantian Panglima TNI",
+      "link": "https://news.detik.com/berita/d-8696670/dasco-dpr-belum-terima-surpres-pergantian-panglima-tni",
+      "time": "16:32 WIB"
+    },
+    {
+      "title": "Tekan Angka Putus Sekolah, Ini 4 Skema Bantuan Program Jabar Sakola",
+      "link": "https://news.detik.com/berita/d-8696665/tekan-angka-putus-sekolah-ini-4-skema-bantuan-program-jabar-sakola",
+      "time": "16:30 WIB"
+    },
+    {
+      "title": "Eddy Soeparno Minta RUU Perubahan Iklim Lindungi Kelompok Rentan",
+      "link": "https://news.detik.com/berita/d-8696658/eddy-soeparno-minta-ruu-perubahan-iklim-lindungi-kelompok-rentan",
+      "time": "16:27 WIB"
+    },
+    {
+      "title": "Polemik Ijazah SMA, Gibran hingga Kemendikdasmen Diadukan ke Bareskrim",
+      "link": "https://news.detik.com/berita/d-8696640/polemik-ijazah-sma-gibran-hingga-kemendikdasmen-diadukan-ke-bareskrim",
+      "time": "16:24 WIB"
+    },
+    {
+      "title": "ASN Pekalongan yang Terobos Jalan Cor Basah Disanksi Turun Pangkat",
+      "link": "https://news.detik.com/berita/d-8696634/asn-pekalongan-yang-terobos-jalan-cor-basah-disanksi-turun-pangkat",
+      "time": "16:20 WIB"
+    },
+    {
+      "title": "Bima Arya Dorong Pemda Siapkan Mitigasi Bencana Sejak Tahap Perencanaan",
+      "link": "https://news.detik.com/berita/d-8696615/bima-arya-dorong-pemda-siapkan-mitigasi-bencana-sejak-tahap-perencanaan",
+      "time": "16:11 WIB"
+    },
+    {
+      "title": "Guntur PDIP Minta KPU Tanggung Jawab soal Gibran Tak Punya Ijazah SMA",
+      "link": "https://news.detik.com/berita/d-8696607/guntur-pdip-minta-kpu-tanggung-jawab-soal-gibran-tak-punya-ijazah-sma",
+      "time": "16:10 WIB"
+    },
+    {
+      "title": "Jokowi Bertemu Prabowo 2 Jam di Kertanegara Semalam",
+      "link": "https://news.detik.com/berita/d-8696600/jokowi-bertemu-prabowo-2-jam-di-kertanegara-semalam",
+      "time": "16:04 WIB"
+    },
+    {
+      "title": "Modus Pegawai Rutan Depok Selundupkan Sabu untuk Pesta Narkoba di Sel",
+      "link": "https://news.detik.com/berita/d-8696594/modus-pegawai-rutan-depok-selundupkan-sabu-untuk-pesta-narkoba-di-sel",
+      "time": "16:03 WIB"
+    },
+    {
+      "title": "Tim Ekspedisi Patriot Sulap Kotoran Sapi Jadi Biogas di Manokwari Selatan",
+      "link": "https://news.detik.com/berita/d-8696593/tim-ekspedisi-patriot-sulap-kotoran-sapi-jadi-biogas-di-manokwari-selatan",
+      "time": "16:01 WIB"
+    },
+    {
+      "title": "Summer Course 2026 Dorong Inovasi Kawasan Transmigrasi",
+      "link": "https://news.detik.com/berita/d-8696589/summer-course-2026-dorong-inovasi-kawasan-transmigrasi",
+      "time": "15:59 WIB"
+    },
+    {
+      "title": "Warga Depok Berharap Dapat Kerja di Job Fair Jaktim Usai 6 Tahun Nganggur",
+      "link": "https://news.detik.com/berita/d-8696584/warga-depok-berharap-dapat-kerja-di-job-fair-jaktim-usai-6-tahun-nganggur",
+      "time": "15:58 WIB"
+    },
+    {
+      "title": "Eddy Soeparno Ungkap Peran Batu Bara di Tengah Transisi Energi",
+      "link": "https://news.detik.com/berita/d-8696566/eddy-soeparno-ungkap-peran-batu-bara-di-tengah-transisi-energi",
+      "time": "15:53 WIB"
+    },
+    {
+      "title": "Kisah Mereka yang Menjaga Budaya Daerah Tetap Hidup: Dari Tenun hingga Tari",
+      "link": "https://news.detik.com/berita/d-8696565/kisah-mereka-yang-menjaga-budaya-daerah-tetap-hidup-dari-tenun-hingga-tari",
+      "time": "15:52 WIB"
+    },
+    {
+      "title": "Cerita Eks Jampidsus dan Boboho Sering Nongkrong di Kafe Sampai Beli Kafenya",
+      "link": "https://news.detik.com/berita/d-8696563/cerita-eks-jampidsus-dan-boboho-sering-nongkrong-di-kafe-sampai-beli-kafenya",
+      "time": "15:52 WIB"
+    },
+    {
+      "title": "ALLPrint Indonesia 2026 Resmi Dibuka, Hadirkan 400 Peserta dari 10 Negara",
+      "link": "https://news.detik.com/berita/d-8696560/allprint-indonesia-2026-resmi-dibuka-hadirkan-400-peserta-dari-10-negara",
+      "time": "15:50 WIB"
+    },
+    {
+      "title": "Pemkot Jaksel Tawarkan Pedagang di Setu Babakan Relokasi ke Sejumlah Titik",
+      "link": "https://news.detik.com/berita/d-8696550/pemkot-jaksel-tawarkan-pedagang-di-setu-babakan-relokasi-ke-sejumlah-titik",
+      "time": "15:42 WIB"
+    },
+    {
+      "title": "Ketua Komjak soal Illicit Enrichment:  Di Negara-negara Sifatnya Imbauan",
+      "link": "https://news.detik.com/berita/d-8696538/ketua-komjak-soal-illicit-enrichment-di-negara-negara-sifatnya-imbauan",
+      "time": "15:42 WIB"
+    },
+    {
+      "title": "Jaksa Ungkap Kode &#x27;Kue&#x27; untuk Setoran Rp 20 M ke Eks Jampidsus Febrie",
+      "link": "https://news.detik.com/berita/d-8696534/jaksa-ungkap-kode-kue-untuk-setoran-rp-20-m-ke-eks-jampidsus-febrie",
+      "time": "15:39 WIB"
+    },
+    {
+      "title": "Legislator DKI Soroti TransJ Mau Garap Transportasi Laut-Udara di Paripurna",
+      "link": "https://news.detik.com/berita/d-8696519/legislator-dki-soroti-transj-mau-garap-transportasi-laut-udara-di-paripurna",
+      "time": "15:35 WIB"
+    },
+    {
+      "title": "Momen Veryi Peragakan Pembunuhan Mozza Axillia yang Sempat Hilang Setahun",
+      "link": "https://news.detik.com/berita/d-8696504/momen-veryi-peragakan-pembunuhan-mozza-axillia-yang-sempat-hilang-setahun",
+      "time": "15:31 WIB"
+    },
+    {
+      "title": "Riangnya Murid SD Edutrip ke Lapas Karawang: Lihat Ayam Bertelur-Beri Makan Domba",
+      "link": "https://news.detik.com/berita/d-8696484/riangnya-murid-sd-edutrip-ke-lapas-karawang-lihat-ayam-bertelur-beri-makan-domba",
+      "time": "15:24 WIB"
+    },
+    {
+      "title": "Muncul di Dakwaan, Kucuran Rp 20,6 M dari Korporasi Terkait Blackout ke Febrie",
+      "link": "https://news.detik.com/berita/d-8696468/muncul-di-dakwaan-kucuran-rp-20-6-m-dari-korporasi-terkait-blackout-ke-febrie",
+      "time": "15:11 WIB"
+    },
+    {
+      "title": "Gerindra Minta Polemik Ijazah Gibran Tak Berlarut Usai Putusan MK",
+      "link": "https://news.detik.com/berita/d-8696467/gerindra-minta-polemik-ijazah-gibran-tak-berlarut-usai-putusan-mk",
+      "time": "15:11 WIB"
+    },
+    {
+      "title": "Membaca Arah Putusan MK Soal Ijazah Gibran",
+      "link": "https://news.detik.com/berita/d-8696280/membaca-arah-putusan-mk-soal-ijazah-gibran",
+      "time": "15:08 WIB"
+    },
+    {
+      "title": "Cara Eks Jampidsus Febrie Cuci Uang: Beli Resto Prancis hingga Usaha Ayam",
+      "link": "https://news.detik.com/berita/d-8696461/cara-eks-jampidsus-febrie-cuci-uang-beli-resto-prancis-hingga-usaha-ayam",
+      "time": "15:04 WIB"
+    },
+    {
+      "title": "Terungkap di Dakwaan, Total TPPU Febrie Adriansyah Tembus Rp 350 Miliar",
+      "link": "https://news.detik.com/berita/d-8696440/terungkap-di-dakwaan-total-tppu-febrie-adriansyah-tembus-rp-350-miliar",
+      "time": "14:52 WIB"
+    },
+    {
+      "title": "Heboh Bola Api di Langit Bekasi sampai Bikin Warga Takbir, Ternyata Flare",
+      "link": "https://news.detik.com/berita/d-8696425/heboh-bola-api-di-langit-bekasi-sampai-bikin-warga-takbir-ternyata-flare",
+      "time": "14:41 WIB"
+    },
+    {
+      "title": "Febrie Adriansyah Didakwa Peras Tan Kian Rp 55 M agar Tak Jadi Tersangka Korupsi",
+      "link": "https://news.detik.com/berita/d-8696423/febrie-adriansyah-didakwa-peras-tan-kian-rp-55-m-agar-tak-jadi-tersangka-korupsi",
+      "time": "14:40 WIB"
+    },
+    {
+      "title": "Febrie Adriansyah Tanda Tangani Pakta Integritas soal Tak Beri Uang ke Hakim",
+      "link": "https://news.detik.com/berita/d-8696407/febrie-adriansyah-tanda-tangani-pakta-integritas-soal-tak-beri-uang-ke-hakim",
+      "time": "14:34 WIB"
+    },
+    {
+      "title": "Kapolri di Acara Taklimat Presiden: Kami Dukung Kebijakan-Program Pemerintah",
+      "link": "https://news.detik.com/berita/d-8696393/kapolri-di-acara-taklimat-presiden-kami-dukung-kebijakan-program-pemerintah",
+      "time": "14:27 WIB"
+    },
+    {
+      "title": "2 Pesawat dari Jakarta Gagal Mendarat di Pekanbaru Imbas Asap Karhutla",
+      "link": "https://news.detik.com/berita/d-8696377/2-pesawat-dari-jakarta-gagal-mendarat-di-pekanbaru-imbas-asap-karhutla",
+      "time": "14:24 WIB"
+    },
+    {
+      "title": "Polisi Dalami Motif Wanita Tusuk Sopir Taksi Listrik Lagi Istirahat di Jakut",
+      "link": "https://news.detik.com/berita/d-8696367/polisi-dalami-motif-wanita-tusuk-sopir-taksi-listrik-lagi-istirahat-di-jakut",
+      "time": "14:23 WIB"
+    },
+    {
+      "title": "BKKBN Soroti Mental Remaja hingga Stunting di Rapat KKSK",
+      "link": "https://news.detik.com/berita/d-8696366/bkkbn-soroti-mental-remaja-hingga-stunting-di-rapat-kksk",
+      "time": "14:22 WIB"
+    },
+    {
+      "title": "Usut Kasus Proyek Jalan Sumut, KPK Panggil Eks Bupati Tapsel",
+      "link": "https://news.detik.com/berita/d-8696362/usut-kasus-proyek-jalan-sumut-kpk-panggil-eks-bupati-tapsel",
+      "time": "14:20 WIB"
+    },
+    {
+      "title": "Momen Febrie Adriansyah Senyum Tipis Jelang Sidang Dakwaan Kasus TPPU",
+      "link": "https://news.detik.com/berita/d-8696360/momen-febrie-adriansyah-senyum-tipis-jelang-sidang-dakwaan-kasus-tppu",
+      "time": "14:18 WIB"
+    },
+    {
+      "title": "DPR Hormati Putusan MK Terkait Gugatan Ijazah Gibran",
+      "link": "https://news.detik.com/berita/d-8696352/dpr-hormati-putusan-mk-terkait-gugatan-ijazah-gibran",
+      "time": "14:14 WIB"
+    },
+    {
+      "title": "Prabowo Ungkap Alasan Kumpulkan 800 Perwira Tinggi TNI dan Polri di Istana",
+      "link": "https://news.detik.com/berita/d-8696340/prabowo-ungkap-alasan-kumpulkan-800-perwira-tinggi-tni-dan-polri-di-istana",
+      "time": "14:06 WIB"
+    },
+    {
+      "title": "Mereka yang Berjuang untuk Pendidikan di Daerah: Membuka Akses untuk Semua",
+      "link": "https://news.detik.com/berita/d-8696339/mereka-yang-berjuang-untuk-pendidikan-di-daerah-membuka-akses-untuk-semua",
+      "time": "14:05 WIB"
+    },
+    {
+      "title": "BNN Gerebek Sarang Narkoba di Deli Serdang, 6 Orang Ditangkap!",
+      "link": "https://news.detik.com/berita/d-8696337/bnn-gerebek-sarang-narkoba-di-deli-serdang-6-orang-ditangkap",
+      "time": "14:03 WIB"
+    },
+    {
+      "title": "Guru Seni di SMKN Jakpus Diduga Lecehkan Siswa, Kini Dibebastugaskan",
+      "link": "https://news.detik.com/berita/d-8696296/guru-seni-di-smkn-jakpus-diduga-lecehkan-siswa-kini-dibebastugaskan",
+      "time": "13:49 WIB"
+    },
+    {
+      "title": "PDIP Respons Putusan MK Terkait Ijazah Gibran",
+      "link": "https://news.detik.com/berita/d-8696286/pdip-respons-putusan-mk-terkait-ijazah-gibran",
+      "time": "13:43 WIB"
+    },
+    {
+      "title": "Pemilik Warung di Tangerang Selamat dari Kebakaran Usai Tembok Dijebol",
+      "link": "https://news.detik.com/berita/d-8696281/pemilik-warung-di-tangerang-selamat-dari-kebakaran-usai-tembok-dijebol",
+      "time": "13:40 WIB"
+    },
+    {
       "title": "Gibran soal Putusan MK: Kalau Tidak Lulus SMA, Saya Tidak Mungkin Kuliah",
       "link": "https://news.detik.com/berita/d-8696267/gibran-soal-putusan-mk-kalau-tidak-lulus-sma-saya-tidak-mungkin-kuliah",
       "time": "13:31 WIB"
