@@ -1,4 +1,475 @@
 {
   "Kompas": [],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "Dwi Bagus COD Mesin Giling Usai Bunuh Istri Siri dan Anak di Madiun",
+      "link": "https://news.detik.com/berita/d-8726258/dwi-bagus-cod-mesin-giling-usai-bunuh-istri-siri-dan-anak-di-madiun",
+      "time": "15:07 WIB"
+    },
+    {
+      "title": "Hujan Guyur Kobar Kalteng, Hotspot Karhutla Merosot dari 1.059 Jadi 22 Titik",
+      "link": "https://news.detik.com/berita/d-8726243/hujan-guyur-kobar-kalteng-hotspot-karhutla-merosot-dari-1-059-jadi-22-titik",
+      "time": "15:00 WIB"
+    },
+    {
+      "title": "Yusril Tegaskan Unsur Kerugian Negara Tak Akan Dihapus dalam Definisi Korupsi",
+      "link": "https://news.detik.com/berita/d-8726231/yusril-tegaskan-unsur-kerugian-negara-tak-akan-dihapus-dalam-definisi-korupsi",
+      "time": "14:56 WIB"
+    },
+    {
+      "title": "Kepala BRIN Menghadap Prabowo di Istana, Lapor Perkembangan Riset Air-Sampah",
+      "link": "https://news.detik.com/berita/d-8726221/kepala-brin-menghadap-prabowo-di-istana-lapor-perkembangan-riset-air-sampah",
+      "time": "14:55 WIB"
+    },
+    {
+      "title": "PKS dan PDIP Bergerak di Tengah Polemik Ijazah Gibran",
+      "link": "https://news.detik.com/berita/d-8726103/pks-dan-pdip-bergerak-di-tengah-polemik-ijazah-gibran",
+      "time": "14:54 WIB"
+    },
+    {
+      "title": "Bupati Lebak Salurkan Insentif Rp 7,81 Miliar untuk Guru Ngaji dan Ponpes",
+      "link": "https://news.detik.com/berita/d-8726215/bupati-lebak-salurkan-insentif-rp-7-81-miliar-untuk-guru-ngaji-dan-ponpes",
+      "time": "14:51 WIB"
+    },
+    {
+      "title": "2 Hari Operasi Patuh Maung di Pandeglang, 160 Pelanggar Ditindak",
+      "link": "https://news.detik.com/berita/d-8726212/2-hari-operasi-patuh-maung-di-pandeglang-160-pelanggar-ditindak",
+      "time": "14:49 WIB"
+    },
+    {
+      "title": "Terungkap di Sidang, Total Fee Percepatan Haji Khusus Era Yaqut Rp 143,9 M",
+      "link": "https://news.detik.com/berita/d-8726193/terungkap-di-sidang-total-fee-percepatan-haji-khusus-era-yaqut-rp-143-9-m",
+      "time": "14:39 WIB"
+    },
+    {
+      "title": "Dwi Bagus Juga Bunuh Anak Istri Siri karena Khawatir Jadi Saksi",
+      "link": "https://news.detik.com/berita/d-8726190/dwi-bagus-juga-bunuh-anak-istri-siri-karena-khawatir-jadi-saksi",
+      "time": "14:38 WIB"
+    },
+    {
+      "title": "Sahroni Dukung Under Invoicing Masuk RUU Tipikor: Jangan Ada Ruang Abu-abu",
+      "link": "https://news.detik.com/berita/d-8726180/sahroni-dukung-under-invoicing-masuk-ruu-tipikor-jangan-ada-ruang-abu-abu",
+      "time": "14:28 WIB"
+    },
+    {
+      "title": "Polisi Usut Viral Maling Motor Terekam CCTV di Cempaka Putih Jakpus",
+      "link": "https://news.detik.com/berita/d-8726175/polisi-usut-viral-maling-motor-terekam-cctv-di-cempaka-putih-jakpus",
+      "time": "14:26 WIB"
+    },
+    {
+      "title": "BPK Jelaskan Perhitungan Kerugian Negara Rp 622 M di Kasus Korupsi Kuota Haji",
+      "link": "https://news.detik.com/berita/d-8726170/bpk-jelaskan-perhitungan-kerugian-negara-rp-622-m-di-kasus-korupsi-kuota-haji",
+      "time": "14:22 WIB"
+    },
+    {
+      "title": "Pura-pura Beli Motor untuk Istri, Pria di Jakbar Bawa Kabur PCX dari Showroom",
+      "link": "https://news.detik.com/berita/d-8726168/pura-pura-beli-motor-untuk-istri-pria-di-jakbar-bawa-kabur-pcx-dari-showroom",
+      "time": "14:19 WIB"
+    },
+    {
+      "title": "DIM RUU Adminduk Diparaf, Wamendagri Bima Arya Tekankan Penguatan NIK",
+      "link": "https://news.detik.com/berita/d-8726166/dim-ruu-adminduk-diparaf-wamendagri-bima-arya-tekankan-penguatan-nik",
+      "time": "14:18 WIB"
+    },
+    {
+      "title": "Beras 25 Kg di Kampung Kalsel Ini Rp 1 Juta karena Kemarau, Polisi Turun Tangan",
+      "link": "https://news.detik.com/berita/d-8726158/beras-25-kg-di-kampung-kalsel-ini-rp-1-juta-karena-kemarau-polisi-turun-tangan",
+      "time": "14:14 WIB"
+    },
+    {
+      "title": "SBY Berduka Eks PM Jepang Fukuda Wafat, Kenang Sosok Sahabat dan Negarawan",
+      "link": "https://news.detik.com/berita/d-8726156/sby-berduka-eks-pm-jepang-fukuda-wafat-kenang-sosok-sahabat-dan-negarawan",
+      "time": "14:12 WIB"
+    },
+    {
+      "title": "Kawasan Transmigrasi Anawua Dapat Rp 3 M untuk Infrastruktur dan 40 SHM",
+      "link": "https://news.detik.com/berita/d-8726155/kawasan-transmigrasi-anawua-dapat-rp-3-m-untuk-infrastruktur-dan-40-shm",
+      "time": "14:11 WIB"
+    },
+    {
+      "title": "Ubah Air Berkarat Jadi Layak Konsumsi, TEP Unpad Bangun 6 Instalasi di Fakfak",
+      "link": "https://news.detik.com/berita/d-8726149/ubah-air-berkarat-jadi-layak-konsumsi-tep-unpad-bangun-6-instalasi-di-fakfak",
+      "time": "14:08 WIB"
+    },
+    {
+      "title": "Rapat RUU Perampasan Aset, Legislator Wanti-wanti Ada Kepentingan Asing",
+      "link": "https://news.detik.com/berita/d-8726144/rapat-ruu-perampasan-aset-legislator-wanti-wanti-ada-kepentingan-asing",
+      "time": "14:05 WIB"
+    },
+    {
+      "title": "Hari Pertama Operasi Patuh Jaya, 2.888 Pelanggar Ditilang e-TLE",
+      "link": "https://news.detik.com/berita/d-8726133/hari-pertama-operasi-patuh-jaya-2-888-pelanggar-ditilang-e-tle",
+      "time": "14:00 WIB"
+    },
+    {
+      "title": "Driver Ojol Korban Dilindas BYD di Jaksel Bakal Dipindah ke RS Polri",
+      "link": "https://news.detik.com/berita/d-8726095/driver-ojol-korban-dilindas-byd-di-jaksel-bakal-dipindah-ke-rs-polri",
+      "time": "13:43 WIB"
+    },
+    {
+      "title": "Lahan di Pulau Tidung Kepulauan Seribu Terbakar, Dipicu Puntung Rokok",
+      "link": "https://news.detik.com/berita/d-8726094/lahan-di-pulau-tidung-kepulauan-seribu-terbakar-dipicu-puntung-rokok",
+      "time": "13:43 WIB"
+    },
+    {
+      "title": "Hujan Guyur Palangka Raya 2 Hari Berturut-turut",
+      "link": "https://news.detik.com/berita/d-8726096/hujan-guyur-palangka-raya-2-hari-berturut-turut",
+      "time": "13:41 WIB"
+    },
+    {
+      "title": "Operasi Patuh 2026, Polri Tekankan Kesadaran dan Budaya Tertib Berlalu Lintas",
+      "link": "https://news.detik.com/berita/d-8726084/operasi-patuh-2026-polri-tekankan-kesadaran-dan-budaya-tertib-berlalu-lintas",
+      "time": "13:39 WIB"
+    },
+    {
+      "title": "Donny Oskaria dan Andre Rosiade Tinjau Pembangunan Flyover Sitinjau Lauik",
+      "link": "https://news.detik.com/berita/d-8726080/donny-oskaria-dan-andre-rosiade-tinjau-pembangunan-flyover-sitinjau-lauik",
+      "time": "13:36 WIB"
+    },
+    {
+      "title": "Wakil Ketua KPK Usul Harta Pejabat yang Tak Dilaporkan di LHKPN Bisa Dirampas",
+      "link": "https://news.detik.com/berita/d-8726073/wakil-ketua-kpk-usul-harta-pejabat-yang-tak-dilaporkan-di-lhkpn-bisa-dirampas",
+      "time": "13:34 WIB"
+    },
+    {
+      "title": "Polri Hormati Masyarakat Suarakan Pendapat, Ingatkan Tak Terprovokasi",
+      "link": "https://news.detik.com/berita/d-8726063/polri-hormati-masyarakat-suarakan-pendapat-ingatkan-tak-terprovokasi",
+      "time": "13:31 WIB"
+    },
+    {
+      "title": "KKP Salurkan 100 Ribu Benih Lele Dukung Budidaya Perikanan di Bantul",
+      "link": "https://news.detik.com/berita/d-8726058/kkp-salurkan-100-ribu-benih-lele-dukung-budidaya-perikanan-di-bantul",
+      "time": "13:26 WIB"
+    },
+    {
+      "title": "Dirjen Imigrasi Jelaskan Nasib Nomor Paspor Jika NIK Jadi Identitas Tunggal",
+      "link": "https://news.detik.com/berita/d-8726049/dirjen-imigrasi-jelaskan-nasib-nomor-paspor-jika-nik-jadi-identitas-tunggal",
+      "time": "13:23 WIB"
+    },
+    {
+      "title": "Sopir BYD Pelindas Ojol di Blok M Driver Taksi Online",
+      "link": "https://news.detik.com/berita/d-8726043/sopir-byd-pelindas-ojol-di-blok-m-driver-taksi-online",
+      "time": "13:21 WIB"
+    },
+    {
+      "title": "Keluarga Ojol yang Dilindas BYD di Blok M Apresiasi Bantuan Pengobatan Kapolri",
+      "link": "https://news.detik.com/berita/d-8726041/keluarga-ojol-yang-dilindas-byd-di-blok-m-apresiasi-bantuan-pengobatan-kapolri",
+      "time": "13:20 WIB"
+    },
+    {
+      "title": "Warga Syok Dwi Bagus Bunuh Istri Siri dan Anak: Kemarin Habis Haji",
+      "link": "https://news.detik.com/berita/d-8725999/warga-syok-dwi-bagus-bunuh-istri-siri-dan-anak-kemarin-habis-haji",
+      "time": "13:02 WIB"
+    },
+    {
+      "title": "Jenguk Ojol yang Dilindas BYD, Dirlantas PMJ Doakan Kesembuhan Korban",
+      "link": "https://news.detik.com/berita/d-8725997/jenguk-ojol-yang-dilindas-byd-dirlantas-pmj-doakan-kesembuhan-korban",
+      "time": "12:59 WIB"
+    },
+    {
+      "title": "Jatanras PMJ Ringkus 3 Komplotan Curanmor yang Viral Beraksi di Bekasi",
+      "link": "https://news.detik.com/berita/d-8725986/jatanras-pmj-ringkus-3-komplotan-curanmor-yang-viral-beraksi-di-bekasi",
+      "time": "12:54 WIB"
+    },
+    {
+      "title": "KPK Panggil Bupati Sorong Selatan Jadi Saksi Kasus Pemerasan Bupati Pemalang",
+      "link": "https://news.detik.com/berita/d-8725977/kpk-panggil-bupati-sorong-selatan-jadi-saksi-kasus-pemerasan-bupati-pemalang",
+      "time": "12:46 WIB"
+    },
+    {
+      "title": "Awal Pembunuhan Sadis Dwi Bagus: 2 Istri Butuh Ditemani di Hari yang Sama",
+      "link": "https://news.detik.com/berita/d-8725951/awal-pembunuhan-sadis-dwi-bagus-2-istri-butuh-ditemani-di-hari-yang-sama",
+      "time": "12:36 WIB"
+    },
+    {
+      "title": "Anggota DPR RI Gandung Pardiman Meninggal Dunia",
+      "link": "https://news.detik.com/berita/d-8725946/anggota-dpr-ri-gandung-pardiman-meninggal-dunia",
+      "time": "12:31 WIB"
+    },
+    {
+      "title": "Lacak Sinyal GPS, Polisi Gagalkan Pencurian Motor di Jelambar",
+      "link": "https://news.detik.com/berita/d-8725935/lacak-sinyal-gps-polisi-gagalkan-pencurian-motor-di-jelambar",
+      "time": "12:24 WIB"
+    },
+    {
+      "title": "Jejak Husniah Talenrang Eks Bupati Gowa: Tersangka, Dimakzulkan Lalu Ditahan",
+      "link": "https://news.detik.com/berita/d-8725924/jejak-husniah-talenrang-eks-bupati-gowa-tersangka-dimakzulkan-lalu-ditahan",
+      "time": "12:22 WIB"
+    },
+    {
+      "title": "HNW Dukung Dialog Koalisi Mekah-Iran untuk Jaga Perdamaian Timur Tengah",
+      "link": "https://news.detik.com/berita/d-8725923/hnw-dukung-dialog-koalisi-mekah-iran-untuk-jaga-perdamaian-timur-tengah",
+      "time": "12:21 WIB"
+    },
+    {
+      "title": "Sidang Kuota Haji, Auditor BPK Jelaskan 4 Tahap Penghitungan Kerugian Negara",
+      "link": "https://news.detik.com/berita/d-8725921/sidang-kuota-haji-auditor-bpk-jelaskan-4-tahap-penghitungan-kerugian-negara",
+      "time": "12:21 WIB"
+    },
+    {
+      "title": "Imigrasi Palembang Buka Pasporia di Kambang Iwak dan Sosialisasikan SIX",
+      "link": "https://news.detik.com/berita/d-8725915/imigrasi-palembang-buka-pasporia-di-kambang-iwak-dan-sosialisasikan-six",
+      "time": "12:14 WIB"
+    },
+    {
+      "title": "60 Galian Misterius Muncul di Samarinda, Ternyata Ulah Sindikat Pencuri Kabel",
+      "link": "https://news.detik.com/berita/d-8725914/60-galian-misterius-muncul-di-samarinda-ternyata-ulah-sindikat-pencuri-kabel",
+      "time": "12:14 WIB"
+    },
+    {
+      "title": "Pengangguran Dekati Rekor Terendah Sejak 1994, Penciptaan Kerja Berlipat",
+      "link": "https://news.detik.com/berita/d-8725913/pengangguran-dekati-rekor-terendah-sejak-1994-penciptaan-kerja-berlipat",
+      "time": "12:14 WIB"
+    },
+    {
+      "title": "Donny Oskaria Puji Perjuangan Andre Rosiade: Pikirannya Selalu untuk Sumbar",
+      "link": "https://news.detik.com/berita/d-8725900/donny-oskaria-puji-perjuangan-andre-rosiade-pikirannya-selalu-untuk-sumbar",
+      "time": "12:09 WIB"
+    },
+    {
+      "title": "Polisi Ungkap Dugaan Motif Dwi Bagus Bunuh Istri Siri dan Anak di Madiun",
+      "link": "https://news.detik.com/berita/d-8725899/polisi-ungkap-dugaan-motif-dwi-bagus-bunuh-istri-siri-dan-anak-di-madiun",
+      "time": "12:07 WIB"
+    },
+    {
+      "title": "Rapat di DPR, JAMAK Usul Illicit Enrichment Tak Masuk RUU Perampasan Aset",
+      "link": "https://news.detik.com/berita/d-8725889/rapat-di-dpr-jamak-usul-illicit-enrichment-tak-masuk-ruu-perampasan-aset",
+      "time": "12:04 WIB"
+    },
+    {
+      "title": "Pengangguran Dekati Rekor Terendah Sejak 1994, Penciptaan Kerja Berlipat",
+      "link": "https://news.detik.com/berita/d-8725886/pengangguran-dekati-rekor-terendah-sejak-1994-penciptaan-kerja-berlipat",
+      "time": "12:04 WIB"
+    },
+    {
+      "title": "Pendidikan Inklusif Belum Optimal, Waka MPR Soroti Kekurangan Guru",
+      "link": "https://news.detik.com/berita/d-8725874/pendidikan-inklusif-belum-optimal-waka-mpr-soroti-kekurangan-guru",
+      "time": "11:58 WIB"
+    },
+    {
+      "title": "Tipu-tipu Haji Khusus, Bos Travel di Gorontalo Divonis 3 Tahun Penjara",
+      "link": "https://news.detik.com/berita/d-8725871/tipu-tipu-haji-khusus-bos-travel-di-gorontalo-divonis-3-tahun-penjara",
+      "time": "11:54 WIB"
+    },
+    {
+      "title": "Operasi Patuh di Fatmawati Jaksel, Pemotor Tertib Lalin Dapat Hadiah Helm",
+      "link": "https://news.detik.com/berita/d-8725868/operasi-patuh-di-fatmawati-jaksel-pemotor-tertib-lalin-dapat-hadiah-helm",
+      "time": "11:52 WIB"
+    },
+    {
+      "title": "Pemerintah Bahas DIM RUU Adminduk, Perkuat NIK Jadi Nomor Identitas Tunggal",
+      "link": "https://news.detik.com/berita/d-8725861/pemerintah-bahas-dim-ruu-adminduk-perkuat-nik-jadi-nomor-identitas-tunggal",
+      "time": "11:48 WIB"
+    },
+    {
+      "title": "Puan Maharani Apresiasi Perjuangan Atlet RI di Asian Para Games 2026",
+      "link": "https://news.detik.com/berita/d-8725855/puan-maharani-apresiasi-perjuangan-atlet-ri-di-asian-para-games-2026",
+      "time": "11:43 WIB"
+    },
+    {
+      "title": "Dewan Pakar Tentukan Penerima DPD RI Awards 2026",
+      "link": "https://news.detik.com/berita/d-8725839/dewan-pakar-tentukan-penerima-dpd-ri-awards-2026",
+      "time": "11:36 WIB"
+    },
+    {
+      "title": "Asyik Makan di Warteg, Motor Pria Jakbar Dibawa Kabur Maling",
+      "link": "https://news.detik.com/berita/d-8725835/asyik-makan-di-warteg-motor-pria-jakbar-dibawa-kabur-maling",
+      "time": "11:34 WIB"
+    },
+    {
+      "title": "Karimun di Rumah Dwi Bagus Pembunuh Istri Siri dan Anak Diamankan Polisi",
+      "link": "https://news.detik.com/berita/d-8725825/karimun-di-rumah-dwi-bagus-pembunuh-istri-siri-dan-anak-diamankan-polisi",
+      "time": "11:23 WIB"
+    },
+    {
+      "title": "Pilu Dini Warga Asal Bogor Dibakar dan Digiling Suami Siri, Anak Juga Dibunuh",
+      "link": "https://news.detik.com/berita/d-8725822/pilu-dini-warga-asal-bogor-dibakar-dan-digiling-suami-siri-anak-juga-dibunuh",
+      "time": "11:21 WIB"
+    },
+    {
+      "title": "17 WN Malaysia dan Singapura Ditangkap karena Jalankan Bisnis Pinjol di Bali",
+      "link": "https://news.detik.com/berita/d-8725821/17-wn-malaysia-dan-singapura-ditangkap-karena-jalankan-bisnis-pinjol-di-bali",
+      "time": "11:21 WIB"
+    },
+    {
+      "title": "2 Tahun Prabowo, Cek Kesehatan Gratis Sudah Diikuti 105 Juta Orang",
+      "link": "https://news.detik.com/berita/d-8725817/2-tahun-prabowo-cek-kesehatan-gratis-sudah-diikuti-105-juta-orang",
+      "time": "11:19 WIB"
+    },
+    {
+      "title": "Menkomdigi Apresiasi Kapolri Bongkar Sindikat Judol Lintas Negara",
+      "link": "https://news.detik.com/berita/d-8725811/menkomdigi-apresiasi-kapolri-bongkar-sindikat-judol-lintas-negara",
+      "time": "11:16 WIB"
+    },
+    {
+      "title": "KPK Periksa Sestama BNPB Jadi Saksi Kasus Korupsi Dana Bencana",
+      "link": "https://news.detik.com/berita/d-8725801/kpk-periksa-sestama-bnpb-jadi-saksi-kasus-korupsi-dana-bencana",
+      "time": "11:09 WIB"
+    },
+    {
+      "title": "Kabar BPJS Kesehatan Mau Dihapus Dibantah, Ini Penjelasannya",
+      "link": "https://news.detik.com/berita/d-8725777/kabar-bpjs-kesehatan-mau-dihapus-dibantah-ini-penjelasannya",
+      "time": "11:02 WIB"
+    },
+    {
+      "title": "Kapolri-Menkomdigi Siap Kolaborasi Jaga Ruang Digital dari Hoaks hingga Judol",
+      "link": "https://news.detik.com/berita/d-8725778/kapolri-menkomdigi-siap-kolaborasi-jaga-ruang-digital-dari-hoaks-hingga-judol",
+      "time": "11:01 WIB"
+    },
+    {
+      "title": "Sebelum Dibunuh Suami Siri, Dini Disebut Sempat Takut ke Madiun",
+      "link": "https://news.detik.com/berita/d-8725774/sebelum-dibunuh-suami-siri-dini-disebut-sempat-takut-ke-madiun",
+      "time": "10:59 WIB"
+    },
+    {
+      "title": "Donny Oskaria dan Andre Rosiade Kawal Pembangunan Stadion Agus Salim Padang",
+      "link": "https://news.detik.com/berita/d-8725757/donny-oskaria-dan-andre-rosiade-kawal-pembangunan-stadion-agus-salim-padang",
+      "time": "10:46 WIB"
+    },
+    {
+      "title": "Kapolri Pastikan Polri Jamin Seluruh Pengobatan Ojol yang Dilindas BYD di Blok M",
+      "link": "https://news.detik.com/berita/d-8725755/kapolri-pastikan-polri-jamin-seluruh-pengobatan-ojol-yang-dilindas-byd-di-blok-m",
+      "time": "10:44 WIB"
+    },
+    {
+      "title": "Polisi Tangkap Curamnor di Serang, Sita 2 Unit Motor dalam Kontrakan",
+      "link": "https://news.detik.com/berita/d-8725753/polisi-tangkap-curamnor-di-serang-sita-2-unit-motor-dalam-kontrakan",
+      "time": "10:42 WIB"
+    },
+    {
+      "title": "Salurkan Bantuan, Paragon Kahf Dukung Pemerintah Tangani Dampak Karhutla",
+      "link": "https://news.detik.com/berita/d-8725751/salurkan-bantuan-paragon-kahf-dukung-pemerintah-tangani-dampak-karhutla",
+      "time": "10:41 WIB"
+    },
+    {
+      "title": "Pria Pemerkosa Anak di Aceh Divonis 200 Bulan Penjara, Hak sebagai Ayah Dicabut",
+      "link": "https://news.detik.com/berita/d-8725724/pria-pemerkosa-anak-di-aceh-divonis-200-bulan-penjara-hak-sebagai-ayah-dicabut",
+      "time": "10:26 WIB"
+    },
+    {
+      "title": "MenPAN RB: Semua Layanan yang Kita Berikan Citizen Centric",
+      "link": "https://news.detik.com/berita/d-8725722/menpan-rb-semua-layanan-yang-kita-berikan-citizen-centric",
+      "time": "10:21 WIB"
+    },
+    {
+      "title": "Dilaporkan Hilang, Bocah 8 Tahun Ditemukan Tewas di Danau Bekasi",
+      "link": "https://news.detik.com/berita/d-8725702/dilaporkan-hilang-bocah-8-tahun-ditemukan-tewas-di-danau-bekasi",
+      "time": "10:10 WIB"
+    },
+    {
+      "title": "Dalam 3 Bulan, Polri-BNN Sikat Sindikat Internasional Gagalkan 10,5 Ton Narkoba",
+      "link": "https://news.detik.com/berita/d-8725686/dalam-3-bulan-polri-bnn-sikat-sindikat-internasional-gagalkan-10-5-ton-narkoba",
+      "time": "10:03 WIB"
+    },
+    {
+      "title": "KMP Batumandi Belum Diangkat, Buoy dan Oil Boom Dipasang di Perairan Merak",
+      "link": "https://news.detik.com/berita/d-8725663/kmp-batumandi-belum-diangkat-buoy-dan-oil-boom-dipasang-di-perairan-merak",
+      "time": "09:54 WIB"
+    },
+    {
+      "title": "BPJS Kesehatan Pastikan Dana Bantuan Rp 10 T Khusus Bayar Klaim Faskes",
+      "link": "https://news.detik.com/berita/d-8725653/bpjs-kesehatan-pastikan-dana-bantuan-rp-10-t-khusus-bayar-klaim-faskes",
+      "time": "09:44 WIB"
+    },
+    {
+      "title": "Pembacok Suporter Bola hingga Tewas di Bogor Terancam 15 Tahun Penjara",
+      "link": "https://news.detik.com/berita/d-8725620/pembacok-suporter-bola-hingga-tewas-di-bogor-terancam-15-tahun-penjara",
+      "time": "09:15 WIB"
+    },
+    {
+      "title": "Sempat Ada Kebakaran di MT Haryono, Lalin Cawang Arah Pancoran Macet",
+      "link": "https://news.detik.com/berita/d-8725609/sempat-ada-kebakaran-di-mt-haryono-lalin-cawang-arah-pancoran-macet",
+      "time": "08:59 WIB"
+    },
+    {
+      "title": "Polres Jakpus Gelar Doa Bersama untuk Jakarta dan Santuni 100 Anak Yatim",
+      "link": "https://news.detik.com/berita/d-8725594/polres-jakpus-gelar-doa-bersama-untuk-jakarta-dan-santuni-100-anak-yatim",
+      "time": "08:42 WIB"
+    },
+    {
+      "title": "Jelang Hari Sumpah Pemuda, Polda Metro Serukan Kolaborasi Jaga Keamanan Publik",
+      "link": "https://news.detik.com/berita/d-8725578/jelang-hari-sumpah-pemuda-polda-metro-serukan-kolaborasi-jaga-keamanan-publik",
+      "time": "08:20 WIB"
+    },
+    {
+      "title": "Akhir Laporan Terkait Kripto Timothy Ronald sebab Tak Ada Pidana",
+      "link": "https://news.detik.com/berita/d-8725564/akhir-laporan-terkait-kripto-timothy-ronald-sebab-tak-ada-pidana",
+      "time": "08:01 WIB"
+    },
+    {
+      "title": "Pembunuhan Sadis di Madiun, Korban Dibakar hingga Digiling",
+      "link": "https://news.detik.com/berita/d-8725329/pembunuhan-sadis-di-madiun-korban-dibakar-hingga-digiling",
+      "time": "07:58 WIB"
+    },
+    {
+      "title": "Diduga Diperkosa Ayah dan Kakak Tiri Selama 2 Tahun, ABG di Pati Lapor Polisi",
+      "link": "https://news.detik.com/berita/d-8725562/diduga-diperkosa-ayah-dan-kakak-tiri-selama-2-tahun-abg-di-pati-lapor-polisi",
+      "time": "07:57 WIB"
+    },
+    {
+      "title": "Montir di Tangerang Dicatut Punya McLaren, Pemilik Asli Bisa Dipidana?",
+      "link": "https://news.detik.com/berita/d-8725536/montir-di-tangerang-dicatut-punya-mclaren-pemilik-asli-bisa-dipidana",
+      "time": "07:49 WIB"
+    },
+    {
+      "title": "Cara Pramono Tanpa Drama Agar Sampah Bantargebang Dikelola DKI-Bekasi",
+      "link": "https://news.detik.com/berita/d-8725531/cara-pramono-tanpa-drama-agar-sampah-bantargebang-dikelola-dki-bekasi",
+      "time": "07:31 WIB"
+    },
+    {
+      "title": "Tungku Diduga Tempat Dwi Bagus Bakar Jasad Dini-Anak di Madiun Diperiksa Polisi",
+      "link": "https://news.detik.com/berita/d-8725530/tungku-diduga-tempat-dwi-bagus-bakar-jasad-dini-anak-di-madiun-diperiksa-polisi",
+      "time": "07:30 WIB"
+    },
+    {
+      "title": "Legislator Kecam Bullying Siswi SMP Ciputat: Jangan Dianggap Kenakalan Remaja",
+      "link": "https://news.detik.com/berita/d-8725529/legislator-kecam-bullying-siswi-smp-ciputat-jangan-dianggap-kenakalan-remaja",
+      "time": "07:25 WIB"
+    },
+    {
+      "title": "Kok Bisa McLaren Tunggak Pajak Ratusan Juta Atas Nama Montir?",
+      "link": "https://news.detik.com/berita/d-8725519/kok-bisa-mclaren-tunggak-pajak-ratusan-juta-atas-nama-montir",
+      "time": "06:56 WIB"
+    },
+    {
+      "title": "Sahroni Setuju Kerugian Negara Bukan Korupsi Dikaji: Beda dengan Korupsi Pejabat",
+      "link": "https://news.detik.com/berita/d-8725515/sahroni-setuju-kerugian-negara-bukan-korupsi-dikaji-beda-dengan-korupsi-pejabat",
+      "time": "06:40 WIB"
+    },
+    {
+      "title": "Kabar Terkini Kasus Toko Roti Vs Ibu Curhat soal &#x27;Gluten Free Palsu&#x27;",
+      "link": "https://news.detik.com/berita/d-8725512/kabar-terkini-kasus-toko-roti-vs-ibu-curhat-soal-gluten-free-palsu",
+      "time": "06:32 WIB"
+    },
+    {
+      "title": "Gempa M 4,7 Terjadi di Pulau Doi Malut",
+      "link": "https://news.detik.com/berita/d-8725508/gempa-m-4-7-terjadi-di-pulau-doi-malut",
+      "time": "06:13 WIB"
+    },
+    {
+      "title": "Pria di Pandeglang Diterkam Buaya saat Cari Ikan di Muara, Alami Luka Parah",
+      "link": "https://news.detik.com/berita/d-8725480/pria-di-pandeglang-diterkam-buaya-saat-cari-ikan-di-muara-alami-luka-parah",
+      "time": "03:18 WIB"
+    },
+    {
+      "title": "Waka Komisi III DPR Geram soal Bullying 13 Siswi SMP Ciputat: Proses Hukum!",
+      "link": "https://news.detik.com/berita/d-8725470/waka-komisi-iii-dpr-geram-soal-bullying-13-siswi-smp-ciputat-proses-hukum",
+      "time": "02:07 WIB"
+    },
+    {
+      "title": "Benahi Masalah Truk ODOL, Andra Soni Gandeng Kejati Banten Perkuat Aturan",
+      "link": "https://news.detik.com/berita/d-8725468/benahi-masalah-truk-odol-andra-soni-gandeng-kejati-banten-perkuat-aturan",
+      "time": "00:56 WIB"
+    },
+    {
+      "title": "Prabowo Dijadwalkan Luncurkan Gentengisasi di Majalengka 8 November",
+      "link": "https://news.detik.com/berita/d-8725458/prabowo-dijadwalkan-luncurkan-gentengisasi-di-majalengka-8-november",
+      "time": "00:12 WIB"
+    },
+    {
+      "title": "Kronologi ABG Suporter Bola Tewas Dibacok, Celurit Dibuang ke Selokan",
+      "link": "https://news.detik.com/berita/d-8725454/kronologi-abg-suporter-bola-tewas-dibacok-celurit-dibuang-ke-selokan",
+      "time": "00:07 WIB"
+    }
+  ]
 }
