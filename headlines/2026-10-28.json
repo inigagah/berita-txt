@@ -2,13 +2,483 @@
   "Kompas": [],
   "Detik": [
     {
-      "title": "PAD Kota Pekanbaru Capai Rp 1,04 Triliun, Ini Penyumbang Terbesarnya",
-      "link": "https://news.detik.com/berita/d-8727259/pad-kota-pekanbaru-capai-rp-1-04-triliun-ini-penyumbang-terbesarnya",
-      "time": "08:59 WIB"
+      "title": "Gus Ipul Tegaskan Sekolah Rakyat Wujud Nyata Amanat 3 Pasal UUD 1945",
+      "link": "https://news.detik.com/berita/d-8727992/gus-ipul-tegaskan-sekolah-rakyat-wujud-nyata-amanat-3-pasal-uud-1945",
+      "time": "15:42 WIB"
+    },
+    {
+      "title": "Massa Aksi Sampaikan Aspirasi di Bundaran HI",
+      "link": "https://news.detik.com/berita/d-8727991/massa-aksi-sampaikan-aspirasi-di-bundaran-hi",
+      "time": "15:42 WIB"
+    },
+    {
+      "title": "Jaksa Hadirkan Jokowi di Sidang Roy Suryo Pekan Depan",
+      "link": "https://news.detik.com/berita/d-8727988/jaksa-hadirkan-jokowi-di-sidang-roy-suryo-pekan-depan",
+      "time": "15:41 WIB"
+    },
+    {
+      "title": "Ini Sosok Prajurit Kopassus Tersangka yang Sebabkan Kematian Letda Jihad",
+      "link": "https://news.detik.com/berita/d-8727983/ini-sosok-prajurit-kopassus-tersangka-yang-sebabkan-kematian-letda-jihad",
+      "time": "15:39 WIB"
+    },
+    {
+      "title": "Truk Air Tabrak TransJ Koridor 9 di Pancoran, Polisi Temukan Bong Sabu",
+      "link": "https://news.detik.com/berita/d-8727975/truk-air-tabrak-transj-koridor-9-di-pancoran-polisi-temukan-bong-sabu",
+      "time": "15:35 WIB"
+    },
+    {
+      "title": "Penyebab Langit Merah Jambu Jakarta Kemarin Sore, Ada Terkait Polusi?",
+      "link": "https://news.detik.com/berita/d-8727968/penyebab-langit-merah-jambu-jakarta-kemarin-sore-ada-terkait-polusi",
+      "time": "15:32 WIB"
+    },
+    {
+      "title": "Guru SDN di Deli Serdang Diduga Lecehkan Belasan Murid",
+      "link": "https://news.detik.com/berita/d-8727966/guru-sdn-di-deli-serdang-diduga-lecehkan-belasan-murid",
+      "time": "15:32 WIB"
+    },
+    {
+      "title": "Peran 19 Tersangka Tawuran Gangster di Jakbar: Kapten hingga Admin Medsos",
+      "link": "https://news.detik.com/berita/d-8727961/peran-19-tersangka-tawuran-gangster-di-jakbar-kapten-hingga-admin-medsos",
+      "time": "15:30 WIB"
+    },
+    {
+      "title": "Tawuran Maut di Jakbar Libatkan 4 Gangster, Dipicu Saling Tantang di Medsos",
+      "link": "https://news.detik.com/berita/d-8727941/tawuran-maut-di-jakbar-libatkan-4-gangster-dipicu-saling-tantang-di-medsos",
+      "time": "15:20 WIB"
+    },
+    {
+      "title": "Panja Rapat RUU Perampasan Aset Awal November, Target Selesai Lebih Cepat",
+      "link": "https://news.detik.com/berita/d-8727939/panja-rapat-ruu-perampasan-aset-awal-november-target-selesai-lebih-cepat",
+      "time": "15:18 WIB"
+    },
+    {
+      "title": "Kawal Pembangunan Tol Sicincin-Bukittinggi, Andre Rosiade Serap Aspirasi Warga Padang Panjang",
+      "link": "https://news.detik.com/berita/d-8727928/kawal-pembangunan-tol-sicincin-bukittinggi-andre-rosiade-serap-aspirasi-warga-padang-panjang",
+      "time": "15:13 WIB"
+    },
+    {
+      "title": "Sidang Roy Suryo Panas, Saksi dan Pengacara Saling Bentak!",
+      "link": "https://news.detik.com/berita/d-8727927/sidang-roy-suryo-panas-saksi-dan-pengacara-saling-bentak",
+      "time": "15:12 WIB"
+    },
+    {
+      "title": "Tak Hanya di Lebak, Pabrik Sepatu Bos Korsel di Serang Juga Bakal Ditutup",
+      "link": "https://news.detik.com/berita/d-8727917/tak-hanya-di-lebak-pabrik-sepatu-bos-korsel-di-serang-juga-bakal-ditutup",
+      "time": "15:08 WIB"
+    },
+    {
+      "title": "KPK Usut Kasus Baru Terkait Bea Cukai, Langsung Geledah PT Djarum",
+      "link": "https://news.detik.com/berita/d-8727905/kpk-usut-kasus-baru-terkait-bea-cukai-langsung-geledah-pt-djarum",
+      "time": "15:02 WIB"
+    },
+    {
+      "title": "Antisipasi Aksi, Polres Kepulauan Seribu Perketat Dermaga Penyeberangan",
+      "link": "https://news.detik.com/berita/d-8727904/antisipasi-aksi-polres-kepulauan-seribu-perketat-dermaga-penyeberangan",
+      "time": "15:01 WIB"
+    },
+    {
+      "title": "Makam 41 Tahun di Bekasi Dipindah Dipicu Ejekan &#x27;Jagoan Pilkades Keok&#x27;",
+      "link": "https://news.detik.com/berita/d-8727887/makam-41-tahun-di-bekasi-dipindah-dipicu-ejekan-jagoan-pilkades-keok",
+      "time": "14:57 WIB"
+    },
+    {
+      "title": "Dirut HK Apresiasi Andre Rosiade Bujuk Prabowo Kawal Tol Sicincin-Bukittinggi Rp 29 T",
+      "link": "https://news.detik.com/berita/d-8727881/dirut-hk-apresiasi-andre-rosiade-bujuk-prabowo-kawal-tol-sicincin-bukittinggi-rp-29-t",
+      "time": "14:54 WIB"
+    },
+    {
+      "title": "Pengunjung Napi Lapas Banceuy Ketahuan Umpetin Sabu di Ikat Rambut",
+      "link": "https://news.detik.com/berita/d-8727838/pengunjung-napi-lapas-banceuy-ketahuan-umpetin-sabu-di-ikat-rambut",
+      "time": "14:39 WIB"
+    },
+    {
+      "title": "Cara Dwi Bagus Hilangkan Jejak Dini dan Anak Terinspirasi Film",
+      "link": "https://news.detik.com/berita/d-8727825/cara-dwi-bagus-hilangkan-jejak-dini-dan-anak-terinspirasi-film",
+      "time": "14:32 WIB"
+    },
+    {
+      "title": "KPK Geledah Kantor Bea Cukai Kudus",
+      "link": "https://news.detik.com/berita/d-8727822/kpk-geledah-kantor-bea-cukai-kudus",
+      "time": "14:31 WIB"
+    },
+    {
+      "title": "NNCC China Apresiasi Polri Bongkar Lab 1,2 Ton Sabu di Aceh: Operasi Terbesar",
+      "link": "https://news.detik.com/berita/d-8727807/nncc-china-apresiasi-polri-bongkar-lab-1-2-ton-sabu-di-aceh-operasi-terbesar",
+      "time": "14:24 WIB"
+    },
+    {
+      "title": "Peradi Ingatkan Perampasan Aset Tak Jadi Target Pemasukan Negara",
+      "link": "https://news.detik.com/berita/d-8727805/peradi-ingatkan-perampasan-aset-tak-jadi-target-pemasukan-negara",
+      "time": "14:22 WIB"
+    },
+    {
+      "title": "BMW Putih di Jogja Lawan Arah dan Tabrak Pemotor Lansia hingga Luka-luka",
+      "link": "https://news.detik.com/berita/d-8727791/bmw-putih-di-jogja-lawan-arah-dan-tabrak-pemotor-lansia-hingga-luka-luka",
+      "time": "14:17 WIB"
+    },
+    {
+      "title": "4 Satuan TNI AD Terima Samkaryanugraha, KSAD: Jadikan Pemacu Prestasi",
+      "link": "https://news.detik.com/berita/d-8727785/4-satuan-tni-ad-terima-samkaryanugraha-ksad-jadikan-pemacu-prestasi",
+      "time": "14:14 WIB"
+    },
+    {
+      "title": "Kementrans Serahkan 194 Sertifikat Tanah untuk Transmigran Padang Tarok",
+      "link": "https://news.detik.com/berita/d-8727776/kementrans-serahkan-194-sertifikat-tanah-untuk-transmigran-padang-tarok",
+      "time": "14:11 WIB"
+    },
+    {
+      "title": "Eskalator Stasiun Bojonggede Mati Setahun, Warga Protes Bawa Karangan Bunga",
+      "link": "https://news.detik.com/berita/d-8727771/eskalator-stasiun-bojonggede-mati-setahun-warga-protes-bawa-karangan-bunga",
+      "time": "14:10 WIB"
+    },
+    {
+      "title": "19 Orang Terlibat Tawuran Maut di Jakbar Ditangkap, Penyiram Air Keras Diburu",
+      "link": "https://news.detik.com/berita/d-8727741/19-orang-terlibat-tawuran-maut-di-jakbar-ditangkap-penyiram-air-keras-diburu",
+      "time": "13:59 WIB"
+    },
+    {
+      "title": "Peringati Sumpah Pemuda, Polda Jatim Ajak Generasi Muda Hidupkan Patriotisme",
+      "link": "https://news.detik.com/berita/d-8727733/peringati-sumpah-pemuda-polda-jatim-ajak-generasi-muda-hidupkan-patriotisme",
+      "time": "13:48 WIB"
+    },
+    {
+      "title": "BGN Copot Kepala SPPG di Bogor dan Cirebon Buntut Keracunan, Ahli Gizi Dipecat",
+      "link": "https://news.detik.com/berita/d-8727714/bgn-copot-kepala-sppg-di-bogor-dan-cirebon-buntut-keracunan-ahli-gizi-dipecat",
+      "time": "13:36 WIB"
+    },
+    {
+      "title": "TikToker di Sumut Ditangkap Usai Diduga Hina Yesus Saat Live Streaming",
+      "link": "https://news.detik.com/berita/d-8727708/tiktoker-di-sumut-ditangkap-usai-diduga-hina-yesus-saat-live-streaming",
+      "time": "13:33 WIB"
+    },
+    {
+      "title": "Rp 58 Juta untuk Korban Karhutla Terkumpul dari Galang Dana di Kota Bogor",
+      "link": "https://news.detik.com/berita/d-8727702/rp-58-juta-untuk-korban-karhutla-terkumpul-dari-galang-dana-di-kota-bogor",
+      "time": "13:30 WIB"
+    },
+    {
+      "title": "Ibas Wanti-wanti Mahasiswa Penerima KIP agar Tak Sia-siakan Kuliah",
+      "link": "https://news.detik.com/berita/d-8727696/ibas-wanti-wanti-mahasiswa-penerima-kip-agar-tak-sia-siakan-kuliah",
+      "time": "13:27 WIB"
+    },
+    {
+      "title": "30 Ucapan Hari Sumpah Pemuda 2026 untuk Bangkitkan Semangat Nasionalisme",
+      "link": "https://news.detik.com/berita/d-8727692/30-ucapan-hari-sumpah-pemuda-2026-untuk-bangkitkan-semangat-nasionalisme",
+      "time": "13:26 WIB"
+    },
+    {
+      "title": "Polri Kawal Penyampaian Aspirasi, Peserta Aksi Diimbau Tertib dan Taat Aturan",
+      "link": "https://news.detik.com/berita/d-8727689/polri-kawal-penyampaian-aspirasi-peserta-aksi-diimbau-tertib-dan-taat-aturan",
+      "time": "13:24 WIB"
+    },
+    {
+      "title": "Gelar Sekolah Pemikiran Bung Hatta, NasDem: Agar Kader Tak Hanya Baca SK dan WA",
+      "link": "https://news.detik.com/berita/d-8727687/gelar-sekolah-pemikiran-bung-hatta-nasdem-agar-kader-tak-hanya-baca-sk-dan-wa",
+      "time": "13:23 WIB"
+    },
+    {
+      "title": "Lestari Moerdijat Minta Semangat Sumpah Pemuda Tak Berhenti di Seremoni",
+      "link": "https://news.detik.com/berita/d-8727685/lestari-moerdijat-minta-semangat-sumpah-pemuda-tak-berhenti-di-seremoni",
+      "time": "13:21 WIB"
+    },
+    {
+      "title": "Pelapor Roy Suryo Cerita Jokowi Tak Bisa Tidur Dengar Tudingan Ijazah Palsu",
+      "link": "https://news.detik.com/berita/d-8727678/pelapor-roy-suryo-cerita-jokowi-tak-bisa-tidur-dengar-tudingan-ijazah-palsu",
+      "time": "13:17 WIB"
+    },
+    {
+      "title": "Polri Siapkan Dukungan Medis Layani Aksi Penyampaian Aspirasi",
+      "link": "https://news.detik.com/berita/d-8727673/polri-siapkan-dukungan-medis-layani-aksi-penyampaian-aspirasi",
+      "time": "13:15 WIB"
+    },
+    {
+      "title": "Bahas PPHN di UNDIP, Ibas Tekankan Pembangunan dan Kedaulatan Rakyat",
+      "link": "https://news.detik.com/berita/d-8727672/bahas-pphn-di-undip-ibas-tekankan-pembangunan-dan-kedaulatan-rakyat",
+      "time": "13:14 WIB"
+    },
+    {
+      "title": "Lanjutkan Kerja Sama dengan China, Kapolri Usut Pendana Lab Sabu di Aceh",
+      "link": "https://news.detik.com/berita/d-8727671/lanjutkan-kerja-sama-dengan-china-kapolri-usut-pendana-lab-sabu-di-aceh",
+      "time": "13:12 WIB"
+    },
+    {
+      "title": "RUU Perampasan Aset, Advokat Tegaskan Batas Waktu NCB Harus Jelas",
+      "link": "https://news.detik.com/berita/d-8727670/ruu-perampasan-aset-advokat-tegaskan-batas-waktu-ncb-harus-jelas",
+      "time": "13:12 WIB"
+    },
+    {
+      "title": "Waspada! Komplotan Bandit di Bekasi Sasar Pemobil Modus Ban Kempis",
+      "link": "https://news.detik.com/berita/d-8727654/waspada-komplotan-bandit-di-bekasi-sasar-pemobil-modus-ban-kempis",
+      "time": "13:07 WIB"
+    },
+    {
+      "title": "Sumpah Pemuda, Mensesneg Ajak Anak Muda Beri Kontribusi Nyata untuk Masyarakat",
+      "link": "https://news.detik.com/berita/d-8727651/sumpah-pemuda-mensesneg-ajak-anak-muda-beri-kontribusi-nyata-untuk-masyarakat",
+      "time": "13:05 WIB"
+    },
+    {
+      "title": "Roy Suryo Minta Jaksa Hadirkan Silfester Matutina di Sidang Kasus Ijazah Jokowi",
+      "link": "https://news.detik.com/berita/d-8727643/roy-suryo-minta-jaksa-hadirkan-silfester-matutina-di-sidang-kasus-ijazah-jokowi",
+      "time": "12:57 WIB"
+    },
+    {
+      "title": "7 Tersangka Laboratorium 1,2 Ton Sabu di Aceh Ditangkap di China",
+      "link": "https://news.detik.com/berita/d-8727641/7-tersangka-laboratorium-1-2-ton-sabu-di-aceh-ditangkap-di-china",
+      "time": "12:57 WIB"
+    },
+    {
+      "title": "Polresta Bogor Gandeng Disdik, Imbau Pelajar Tak Ikut Aksi di Jakarta",
+      "link": "https://news.detik.com/berita/d-8727637/polresta-bogor-gandeng-disdik-imbau-pelajar-tak-ikut-aksi-di-jakarta",
+      "time": "12:55 WIB"
+    },
+    {
+      "title": "Pramono Tunggu Permenkeu soal Dana Bagi Hasil Jakarta: Diskusi Lancar",
+      "link": "https://news.detik.com/berita/d-8727677/pramono-tunggu-permenkeu-soal-dana-bagi-hasil-jakarta-diskusi-lancar",
+      "time": "12:48 WIB"
+    },
+    {
+      "title": "Kamera dalam Pengharum di Ruang Ganti RSUDZA Aceh Arahan Kepala Ruangan",
+      "link": "https://news.detik.com/berita/d-8727598/kamera-dalam-pengharum-di-ruang-ganti-rsudza-aceh-arahan-kepala-ruangan",
+      "time": "12:41 WIB"
+    },
+    {
+      "title": "Mendagri Dorong Pemda Bentuk Satgas Awasi Pelaksanaan MBG",
+      "link": "https://news.detik.com/berita/d-8727597/mendagri-dorong-pemda-bentuk-satgas-awasi-pelaksanaan-mbg",
+      "time": "12:40 WIB"
+    },
+    {
+      "title": "Wamenkes Sebut Kasus TBC di RI Tinggi, Angka Kematian Capai 126 Ribu Per Tahun",
+      "link": "https://news.detik.com/berita/d-8727594/wamenkes-sebut-kasus-tbc-di-ri-tinggi-angka-kematian-capai-126-ribu-per-tahun",
+      "time": "12:38 WIB"
+    },
+    {
+      "title": "Pramono Sedih Kasus TBC di Jakarta Tinggi: Harus Dieliminasi di 2030",
+      "link": "https://news.detik.com/berita/d-8727581/pramono-sedih-kasus-tbc-di-jakarta-tinggi-harus-dieliminasi-di-2030",
+      "time": "12:31 WIB"
+    },
+    {
+      "title": "Hari Sumpah Pemuda, Polresta Bogor dan Mahasiswa Galang Dana Korban Karhutla",
+      "link": "https://news.detik.com/berita/d-8727580/hari-sumpah-pemuda-polresta-bogor-dan-mahasiswa-galang-dana-korban-karhutla",
+      "time": "12:30 WIB"
+    },
+    {
+      "title": "Lalin Jakarta Masih Normal, Polda Metro Siapkan Rekayasa Situasional",
+      "link": "https://news.detik.com/berita/d-8727572/lalin-jakarta-masih-normal-polda-metro-siapkan-rekayasa-situasional",
+      "time": "12:20 WIB"
+    },
+    {
+      "title": "Kapolri Bertemu Pengawas Narkotika China, Bahas Kasus Lab 1,2 Ton Sabu Aceh",
+      "link": "https://news.detik.com/berita/d-8727570/kapolri-bertemu-pengawas-narkotika-china-bahas-kasus-lab-1-2-ton-sabu-aceh",
+      "time": "12:19 WIB"
+    },
+    {
+      "title": "Duduk Perkara Makam 41 Tahun di Bekasi Dipindah gegara Beda Pilihan Pilkades",
+      "link": "https://news.detik.com/berita/d-8727549/duduk-perkara-makam-41-tahun-di-bekasi-dipindah-gegara-beda-pilihan-pilkades",
+      "time": "12:13 WIB"
+    },
+    {
+      "title": "Jaksa Tampilkan Potongan Video Saat Roy Suryo Tuding Ijazah Jokowi Palsu",
+      "link": "https://news.detik.com/berita/d-8727550/jaksa-tampilkan-potongan-video-saat-roy-suryo-tuding-ijazah-jokowi-palsu",
+      "time": "12:13 WIB"
+    },
+    {
+      "title": "Disentil karena KRL Bolak-balik Gangguan, Ini Jawaban INKA",
+      "link": "https://news.detik.com/berita/d-8727537/disentil-karena-krl-bolak-balik-gangguan-ini-jawaban-inka",
+      "time": "12:04 WIB"
+    },
+    {
+      "title": "Semangat Hari Sumpah Pemuda, Polda Metro Ajak Massa Aksi Jaga Persatuan",
+      "link": "https://news.detik.com/berita/d-8727536/semangat-hari-sumpah-pemuda-polda-metro-ajak-massa-aksi-jaga-persatuan",
+      "time": "12:04 WIB"
+    },
+    {
+      "title": "Dwi Bagus Bersimpuh ke Istri Usai Rekonstruksi Pembunuhan Istri Siri dan Anak",
+      "link": "https://news.detik.com/berita/d-8727534/dwi-bagus-bersimpuh-ke-istri-usai-rekonstruksi-pembunuhan-istri-siri-dan-anak",
+      "time": "12:02 WIB"
+    },
+    {
+      "title": "Masinis Diperiksa Usai KRL Bablas Tak Berhenti di Stasiun Sudirman",
+      "link": "https://news.detik.com/berita/d-8727514/masinis-diperiksa-usai-krl-bablas-tak-berhenti-di-stasiun-sudirman",
+      "time": "11:54 WIB"
+    },
+    {
+      "title": "KPK Panggil ASN BPK Tersangka Kasus Kasus Suap Proyek Jalur KA Jabar",
+      "link": "https://news.detik.com/berita/d-8727500/kpk-panggil-asn-bpk-tersangka-kasus-kasus-suap-proyek-jalur-ka-jabar",
+      "time": "11:44 WIB"
+    },
+    {
+      "title": "2 Eks Napi Teroris Jadi Tersangka Pembakar Warung Mi Babi Sukoharjo, 1 Buron",
+      "link": "https://news.detik.com/berita/d-8727499/2-eks-napi-teroris-jadi-tersangka-pembakar-warung-mi-babi-sukoharjo-1-buron",
+      "time": "11:44 WIB"
+    },
+    {
+      "title": "Polri Kedepankan Pendekatan Humanis dan Kolaboratif Layani Aksi Massa",
+      "link": "https://news.detik.com/berita/d-8727497/polri-kedepankan-pendekatan-humanis-dan-kolaboratif-layani-aksi-massa",
+      "time": "11:41 WIB"
+    },
+    {
+      "title": "Pabrik Sepatu di Lebak Tutup Picu PHK Massal, Pemprov Duga Ini Penyebabnya",
+      "link": "https://news.detik.com/berita/d-8727496/pabrik-sepatu-di-lebak-tutup-picu-phk-massal-pemprov-duga-ini-penyebabnya",
+      "time": "11:41 WIB"
+    },
+    {
+      "title": "KPK Panggil Direktur BNPB Jadi Saksi Kasus Korupsi Dana Bencana",
+      "link": "https://news.detik.com/berita/d-8727485/kpk-panggil-direktur-bnpb-jadi-saksi-kasus-korupsi-dana-bencana",
+      "time": "11:35 WIB"
+    },
+    {
+      "title": "Polri: Penyampaian Aspirasi Dilindungi UU, Mari Jaga Keamanan Bersama",
+      "link": "https://news.detik.com/berita/d-8727483/polri-penyampaian-aspirasi-dilindungi-uu-mari-jaga-keamanan-bersama",
+      "time": "11:34 WIB"
+    },
+    {
+      "title": "Kapolda Metro Tekankan Anggota Humanis Kawal Aksi di Jakarta Hari Ini",
+      "link": "https://news.detik.com/berita/d-8727480/kapolda-metro-tekankan-anggota-humanis-kawal-aksi-di-jakarta-hari-ini",
+      "time": "11:34 WIB"
+    },
+    {
+      "title": "Ada 53 Aksi di Jakarta Hari Ini, Polda Metro Ajak Semua Pihak Tertib",
+      "link": "https://news.detik.com/berita/d-8727479/ada-53-aksi-di-jakarta-hari-ini-polda-metro-ajak-semua-pihak-tertib",
+      "time": "11:33 WIB"
+    },
+    {
+      "title": "Kapolri Pastikan Polri Kedepankan Pendekatan Humanis Kawal Aksi Unjuk Rasa",
+      "link": "https://news.detik.com/berita/d-8727476/kapolri-pastikan-polri-kedepankan-pendekatan-humanis-kawal-aksi-unjuk-rasa",
+      "time": "11:30 WIB"
+    },
+    {
+      "title": "Prabowo Ucapkan Selamat Lula Menang Pilpres Brasil untuk Keempat Kalinya",
+      "link": "https://news.detik.com/berita/d-8727467/prabowo-ucapkan-selamat-lula-menang-pilpres-brasil-untuk-keempat-kalinya",
+      "time": "11:27 WIB"
+    },
+    {
+      "title": "Mudik ke NTT untuk Pinangan, Selviana Tewas Dimangsa Buaya Depan Calon Suami",
+      "link": "https://news.detik.com/berita/d-8727460/mudik-ke-ntt-untuk-pinangan-selviana-tewas-dimangsa-buaya-depan-calon-suami",
+      "time": "11:16 WIB"
+    },
+    {
+      "title": "Ramai Isu PBI Nonaktif, BPJS Kesehatan Minta Peserta Cek Status Keaktifan",
+      "link": "https://news.detik.com/berita/d-8727458/ramai-isu-pbi-nonaktif-bpjs-kesehatan-minta-peserta-cek-status-keaktifan",
+      "time": "11:15 WIB"
+    },
+    {
+      "title": "Jadi Saksi Sidang Roy Suryo, Lechumanan Ngaku Pernah Lihat Ijazah Asli Jokowi",
+      "link": "https://news.detik.com/berita/d-8727454/jadi-saksi-sidang-roy-suryo-lechumanan-ngaku-pernah-lihat-ijazah-asli-jokowi",
+      "time": "11:13 WIB"
+    },
+    {
+      "title": "Rumput JIS Dikeluhkan Persija, JakPro Bakal Evaluasi",
+      "link": "https://news.detik.com/berita/d-8727433/rumput-jis-dikeluhkan-persija-jakpro-bakal-evaluasi",
+      "time": "11:01 WIB"
+    },
+    {
+      "title": "Momen Keluarga Dini Saksikan Dwi Bagus Jalani Rekonstruksi Pembunuhan Sadis",
+      "link": "https://news.detik.com/berita/d-8727430/momen-keluarga-dini-saksikan-dwi-bagus-jalani-rekonstruksi-pembunuhan-sadis",
+      "time": "10:58 WIB"
+    },
+    {
+      "title": "Kapolda Metro Pimpin Apel Pengamanan Aksi, Diikuti Ratusan Personel",
+      "link": "https://news.detik.com/berita/d-8727413/kapolda-metro-pimpin-apel-pengamanan-aksi-diikuti-ratusan-personel",
+      "time": "10:45 WIB"
+    },
+    {
+      "title": "TNI AU Sebut Hujan di Kalsel dan Kalteng Berkat Modifikasi Cuaca",
+      "link": "https://news.detik.com/berita/d-8727412/tni-au-sebut-hujan-di-kalsel-dan-kalteng-berkat-modifikasi-cuaca",
+      "time": "10:45 WIB"
+    },
+    {
+      "title": "Saksi di Sidang Roy Suryo Sebut Jokowi Terganggu Pemberitaan Ijazah Palsu",
+      "link": "https://news.detik.com/berita/d-8727411/saksi-di-sidang-roy-suryo-sebut-jokowi-terganggu-pemberitaan-ijazah-palsu",
+      "time": "10:45 WIB"
+    },
+    {
+      "title": "481 Siswa SMP Dramaga Diduga Keracunan MBG dari Bumbu Kacang untuk Sate",
+      "link": "https://news.detik.com/berita/d-8727408/481-siswa-smp-dramaga-diduga-keracunan-mbg-dari-bumbu-kacang-untuk-sate",
+      "time": "10:43 WIB"
+    },
+    {
+      "title": "Seskab: Menlu Singapura Mohon Waktu Bertemu Presiden Prabowo, Akan Diterima",
+      "link": "https://news.detik.com/berita/d-8727404/seskab-menlu-singapura-mohon-waktu-bertemu-presiden-prabowo-akan-diterima",
+      "time": "10:39 WIB"
+    },
+    {
+      "title": "Legislator Gerindra Dorong UMKM dan Wisata Toba Mendunia",
+      "link": "https://news.detik.com/berita/d-8727399/legislator-gerindra-dorong-umkm-dan-wisata-toba-mendunia",
+      "time": "10:35 WIB"
+    },
+    {
+      "title": "Kapolres Kepulauan Seribu Pimpin Upacara di SMAN 69 Jakarta, Ingatkan Bahaya Narkoba-Judol",
+      "link": "https://news.detik.com/berita/d-8727390/kapolres-kepulauan-seribu-pimpin-upacara-di-sman-69-jakarta-ingatkan-bahaya-narkoba-judol",
+      "time": "10:29 WIB"
+    },
+    {
+      "title": "Jaksa Bakal Periksa 94 Saksi dan 26 Ahli di Sidang Roy Suryo",
+      "link": "https://news.detik.com/berita/d-8727372/jaksa-bakal-periksa-94-saksi-dan-26-ahli-di-sidang-roy-suryo",
+      "time": "10:20 WIB"
+    },
+    {
+      "title": "Ketua DPD Usul Bentuk Korps Konservasi Sipil untuk Rehabilitasi Bekas Karhutla",
+      "link": "https://news.detik.com/berita/d-8727356/ketua-dpd-usul-bentuk-korps-konservasi-sipil-untuk-rehabilitasi-bekas-karhutla",
+      "time": "10:14 WIB"
+    },
+    {
+      "title": "Drama KRL Pagi Ini: Kereta Bablas, Tidak Berhenti di Stasiun Sudirman",
+      "link": "https://news.detik.com/berita/d-8727353/drama-krl-pagi-ini-kereta-bablas-tidak-berhenti-di-stasiun-sudirman",
+      "time": "10:12 WIB"
+    },
+    {
+      "title": "Tilap BBM untuk Petani, Bos Bengkel di Serang Timbun 650 Liter Solar Subsidi",
+      "link": "https://news.detik.com/berita/d-8727357/tilap-bbm-untuk-petani-bos-bengkel-di-serang-timbun-650-liter-solar-subsidi",
+      "time": "10:11 WIB"
+    },
+    {
+      "title": "Konser Andrea Bocelli di Indonesia Bawa Pesan Kemanusiaan dan Perdamaian",
+      "link": "https://news.detik.com/berita/d-8727349/konser-andrea-bocelli-di-indonesia-bawa-pesan-kemanusiaan-dan-perdamaian",
+      "time": "10:10 WIB"
+    },
+    {
+      "title": "Dewan Pakar Pilih 4 Penerima DPD RI Awards 2026: Perdebatannya Luar Biasa",
+      "link": "https://news.detik.com/berita/d-8727344/dewan-pakar-pilih-4-penerima-dpd-ri-awards-2026-perdebatannya-luar-biasa",
+      "time": "10:04 WIB"
+    },
+    {
+      "title": "Ada Aksi Hari Ini, Pramono Pastikan Sekolah Masuk Normal",
+      "link": "https://news.detik.com/berita/d-8727325/ada-aksi-hari-ini-pramono-pastikan-sekolah-masuk-normal",
+      "time": "09:53 WIB"
+    },
+    {
+      "title": "2.810 Ijazah Warga yang Tertahan Ditebus, Pemprov DKI Kucurkan Rp 4,67 M",
+      "link": "https://news.detik.com/berita/d-8727322/2-810-ijazah-warga-yang-tertahan-ditebus-pemprov-dki-kucurkan-rp-4-67-m",
+      "time": "09:53 WIB"
+    },
+    {
+      "title": "Jelang Aksi Unjuk Rasa, Polisi Siapkan Rekayasa Lalin di Sudirman-Thamrin",
+      "link": "https://news.detik.com/berita/d-8727321/jelang-aksi-unjuk-rasa-polisi-siapkan-rekayasa-lalin-di-sudirman-thamrin",
+      "time": "09:51 WIB"
+    },
+    {
+      "title": "BGN Hentikan Sementara SPPG di Bogor Usai 481 Siswa Diduga Keracunan MBG",
+      "link": "https://news.detik.com/berita/d-8727307/bgn-hentikan-sementara-sppg-di-bogor-usai-481-siswa-diduga-keracunan-mbg",
+      "time": "09:43 WIB"
+    },
+    {
+      "title": "Andre Rosiade Beri Bantuan untuk Warga di Padang yang Sakit Saraf Kejepit",
+      "link": "https://news.detik.com/berita/d-8727299/andre-rosiade-beri-bantuan-untuk-warga-di-padang-yang-sakit-saraf-kejepit",
+      "time": "09:37 WIB"
+    },
+    {
+      "title": "Ada Aksi Hari Ini, Dishub Siapkan Rekayasa Lalin di Sekitar Monas dan DPR",
+      "link": "https://news.detik.com/berita/d-8727291/ada-aksi-hari-ini-dishub-siapkan-rekayasa-lalin-di-sekitar-monas-dan-dpr",
+      "time": "09:29 WIB"
     },
     {
       "title": "Viral Makam 20 Tahun di Bekasi Dipindah gegara Beda Pilihan Pilkades",
       "link": "https://news.detik.com/berita/d-8727258/viral-makam-20-tahun-di-bekasi-dipindah-gegara-beda-pilihan-pilkades",
+      "time": "08:59 WIB"
+    },
+    {
+      "title": "PAD Kota Pekanbaru Capai Rp 1,04 Triliun, Ini Penyumbang Terbesarnya",
+      "link": "https://news.detik.com/berita/d-8727259/pad-kota-pekanbaru-capai-rp-1-04-triliun-ini-penyumbang-terbesarnya",
       "time": "08:59 WIB"
     },
     {
