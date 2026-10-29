@@ -1,4 +1,15 @@
 {
   "Kompas": [],
-  "Detik": []
+  "Detik": [
+    {
+      "title": "Gempa M 4,3 Guncang Gayo Lues Aceh",
+      "link": "https://news.detik.com/berita/d-8730371/gempa-m-4-3-guncang-gayo-lues-aceh",
+      "time": "03:14 WIB"
+    },
+    {
+      "title": "Korsleting Listrik, Minibus di Tol Jagorawi Arah Bogor Kebakaran",
+      "link": "https://news.detik.com/berita/d-8730344/korsleting-listrik-minibus-di-tol-jagorawi-arah-bogor-kebakaran",
+      "time": "01:15 WIB"
+    }
+  ]
 }
